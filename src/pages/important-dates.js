@@ -15,25 +15,25 @@ import {useState} from 'react';
 const events = [
     {
         title: "Call for papers",
-        date: "February 01, 2026",
+        date: "January 01, 2026",
         description: "",
         icon: <AiOutlineForm />,
     },
     {
         title: "Call for tutorials and workshop proposals",
-        date: "February 01, 2026",
+        date: "January 01, 2026",
         description: "",
         icon: <Handshake />,
     },
     {
         title: "Last date of submission for regular papers",
-        date: "March 31, 2026",
+        date: "February 28, 2026",
         description: "",
         icon: <LaptopMac />,
     },
     {
         title: "Last date for submission of tutorials and workshop proposals",
-        date: "March 31, 2026",
+        date: "February 28, 2026",
         description: "",
         icon: <MdChecklist />,
     },
@@ -45,7 +45,7 @@ const events = [
     },
     {
         title: "Notification of tutorials and workshop proposals acceptance",
-        date: "May 31, 2026",
+        date: "May 15, 2026",
         description: "",
         icon: <BiTrophy />,
     },
@@ -69,7 +69,7 @@ const events = [
     },
     {
         title: "Conference dates",
-        date: "August 22-24, 2026",
+        date: "August 20-22, 2026",
         description: "",
         icon: <BiTrophy />,
     },
@@ -82,7 +82,9 @@ function ImportantDates() {
                 ...event,
                 date: (
                     <>
-                        <del>{event.date}</del> <span style={{ color: 'red' }}>[Extended]: April 15, 2026</span>
+                        {/* <del>{event.date}</del> <span style={{ color: 'red' }}>[Extended]: April 15, 2026</span> */}
+                        <span>{event.date}</span>
+                        
                     </>
                 )
             };
@@ -92,7 +94,8 @@ function ImportantDates() {
                 ...event,
                 date: (
                     <>
-                        <del>{event.date}</del> <del style={{ color: 'red' }}><span style={{ color: 'red' }}>May 30, 2026</span></del><span style={{ color: 'red' }}> June 07, 2026</span>
+                        {/* <del>{event.date}</del> <del style={{ color: 'red' }}><span style={{ color: 'red' }}>May 30, 2026</span></del><span style={{ color: 'red' }}> June 07, 2026</span> */}
+                        <span>{event.date}</span>
                     </>
                 )
             };
@@ -103,7 +106,8 @@ function ImportantDates() {
                 date: (
                     <>
                         {/* <del>{event.date}</del> <span style={{ color: 'red' }}>June 30, 2026</span> */}
-                        <del>{event.date}</del> <span style={{ color: 'red' }}>July 15, 2026</span>
+                        {/* <del>{event.date}</del> <span style={{ color: 'red' }}>July 15, 2026</span> */}
+                        <span>{event.date}</span>
                     </>
                 )
             };
@@ -113,7 +117,8 @@ function ImportantDates() {
                 ...event,
                 date: (
                     <>
-                        <del>{event.date}</del> <span style={{ color: 'red' }}>July 31, 2026</span>
+                        {/* <del>{event.date}</del> <span style={{ color: 'red' }}>July 31, 2026</span> */}
+                        <span>{event.date}</span>
                     </>
                 )
             };
@@ -123,7 +128,8 @@ function ImportantDates() {
                 ...event,
                 date: (
                     <>
-                        <del>{event.date}</del> <span style={{ color: 'red' }}>July 31, 2026</span>
+                        {/* <del>{event.date}</del> <span style={{ color: 'red' }}>July 31, 2026</span> */}
+                        <span>{event.date}</span>
                     </>
                 )
             };

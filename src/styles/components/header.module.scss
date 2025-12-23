@@ -17,12 +17,16 @@
 
 .logo_container {
     display: flex;
-    justify-content: space-evenly;
     width: 100%;
+    justify-content: center;
+    gap: 100px;
+    flex-wrap: wrap;
 }
 
 .logo {
-    height: 100px; 
+    width: 200px;        
+    height: 100px;       
+    object-fit: contain; 
 }
 
 .navbar {
@@ -174,7 +178,8 @@
 @media screen and (max-width: 1300px) {
     
     .logo_wrapper img {
-        height: 100px;
+        width: 160px;
+        height: 90px;
     }
 }
 
@@ -183,10 +188,14 @@
         // box-shadow: none;
         padding: 0;
         margin: 0;
+        width: 120px;
+        height: 70px;
     }
 
     .logo_wrapper img {
-        height: 60px;
+        width: 200px;
+        height: 100px;
+        object-fit: contain;
     }
 }
 
@@ -197,13 +206,16 @@
             flex-wrap: wrap;
         }
         img {
-            height: 40px;
+            width: 90px;
+            height: 50px;
         }
     }
 }
 
 @media screen and (max-width: 370px) {
     .logo_wrapper img {
-        height: 40px;
+        width: 200px;
+        height: 100px;
+        object-fit: contain;
     }
 }

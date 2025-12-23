@@ -51,15 +51,14 @@ function About() {
             <div className={styles.about}>
                 <div className={styles.description}>
                     <p className={styles.about_text}>
-                        <span className={styles.emphasize}>CHANDICON</span> is a
-                        flagship annual international conference of the IEEE
-                        India Council organized by an IEEE Subsection in INDIA.
+                        <span className={styles.emphasize}>CHANDICON</span> is 
+                        1st annual international conference of IEEE Chandigarh Subsection.
                         CHANDICON 2026 scheduled during{" "}
                         <span className={styles.emphasize}>
-                            August 22-24, 2026
+                            August 20-22, 2026
                         </span>
                         , is being organized by IEEE Chandigarh Subsection along
-                        with IEEE India Council. The
+                        with IEEE Delhi Section. The
                         conference will be hosted by{" "}
                         <span className={styles.emphasize}>
                             {" "}
@@ -70,11 +69,12 @@ function About() {
                         platform for the academicians, researchers, industry
                         professionals and research scholars to exchange and
                         share their knowledge, experience & research.
+                        Previous events organised by PEC & IEEE Chandigarh Subsection are:
                     </p>
-                    <a href="https://ieeexplore.ieee.org/xpl/conhome/1839985/all-proceedings">
-                        Proceedings of previous versions of the conference are
-                        available here <FaExternalLinkAlt />{" "}
-                    </a>
+                    {/* <a href="https://ieeexplore.ieee.org/xpl/conhome/1839985/all-proceedings">
+                        Previous events organised by PEC & IEEE Chandigarh Subsection are: 
+                         <FaExternalLinkAlt />{" "} 
+                    </a> */}
                 </div>
 
                 {/* <div className={styles.img_wrapper}> */}
@@ -91,7 +91,7 @@ function About() {
             </div>
 
             <div className={styles.spacer} />
-
+            {/*
             <TableContainer sx={{ maxHeight: 440 }}>
                 <Table stickyHeader>
                     <TableHead>
@@ -174,7 +174,7 @@ function About() {
                     </TableBody>
                 </Table>
             </TableContainer>
-
+            */}
             <div className={styles.spacer} />
 
             <div className={styles.section}>
@@ -206,6 +206,44 @@ function About() {
                 </div>
             </div>
 
+            <div className={styles.spacer} />
+
+            <div className={styles.spacer} />
+
+            <div className={styles.section}>
+                <h1 className={styles.section_heading}>IEEE Delhi Section</h1>
+                <div className={styles.section_details}>
+                    <p className={styles.text}>
+                        The IEEE Delhi Section, established on May 13 1976 
+                        (after being a Sub-section since 1974), is a major 
+                        regional unit of IEEE Region 10 (Asia-Pacific) 
+                        covering the northern part of India—including Rajasthan, 
+                        Haryana, Punjab, Himachal Pradesh, the National Capital 
+                        Territory of Delhi, and the Union Territories of Chandigarh, 
+                        Jammu & Kashmir, and Ladakh. It supports a large 
+                        professional community with thousands of active members
+                        and organizes a wide range of activities-technical, 
+                        professional, non-technical, humanitarian, and 
+                        STEM programs-through its Section, subsections, 
+                        technical chapters, affinity groups 
+                        (like WIE and Young Professionals), and student 
+                        branches, and in 2025 alone has recorded nearly 
+                        2,000 events reported in vTools. The Section also 
+                        celebrates its Golden Jubilee year, engages students 
+                        and professionals in conferences such as DELCON, and 
+                        fosters knowledge exchange and professional development 
+                        across engineering and technology disciplines.
+                    </p>{" "}
+                    <a
+                        href="https://ieeeindiacouncil.org/"
+                        target="_blank"
+                        referrerPolicy="no-referrer"
+                    >
+                        Details <FaExternalLinkAlt />{" "}
+                    </a>
+                </div>
+            </div>
+            
             <div className={styles.spacer} />
 
             <div className={styles.spacer} />

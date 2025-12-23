@@ -26,24 +26,25 @@ function Header() {
                 <div className={styles.logo_container}>
                     <img
                         src={getAssetName(
-                            "/assets/logos/1.png"
+                            // "/assets/logos/1.png"
+                            "/assets/logos/logo_chandicon1.png"
                         )}
-                        alt="indiscon 2024"
+                        alt="chandicon 2026"
                         className={styles.logo}
                     />
                     <img
                         src={getAssetName("/assets/logos/2.png")}
-                        alt="indiscon 2024"
+                        alt="chandicon 2026"
                         className={styles.logo}
                     />
                     <img
                         src={getAssetName("/assets/logos/4.png")}
-                        alt="indiscon 2024"
+                        alt="chandicon 2026"
                         className={styles.logo}
                     />
                     <img
                         src={getAssetName("/assets/logos/5.png")}
-                        alt="indiscon 2024"
+                        alt="chandicon 2026"
                         className={styles.logo}
                     />
                 </div>

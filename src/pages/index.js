@@ -39,7 +39,7 @@ const events = [
     },
     {
         title: "Conference dates",
-        date: "August 22-24, 2026",
+        date: "August 20-22, 2026",
         description: "",
         icon: <BiTrophy />,
     },
@@ -51,7 +51,7 @@ export default function Home() {
             <PageLayout
                 title={"Chandicon 2026 | Punjab Engineering College"}
                 description={
-                    "CHANDICON is a flagship annual international conference of the IEEE India Council organized by an IEEE Subsection in INDIA. CHANDICON 2026 scheduled during August 22-24, 2026, is being organized by IEEE Chandigarh Subsection along with IEEE India Council. The conference will be hosted by Punjab Engineering College (Deemed to be University), Chandigarh. The conference aims to provide an interdisciplinary platform for the academicians, researchers, industry professionals and research scholars to exchange and share their knowledge, experience & research."
+                    "CHANDICON is a flagship annual international conference of the IEEE India Council organized by an IEEE Subsection in INDIA. CHANDICON 2026 scheduled during August 20-22, 2026, is being organized by IEEE Chandigarh Subsection along with IEEE India Council. The conference will be hosted by Punjab Engineering College (Deemed to be University), Chandigarh. The conference aims to provide an interdisciplinary platform for the academicians, researchers, industry professionals and research scholars to exchange and share their knowledge, experience & research."
                 }
             >
                 <Marquee className={styles.marquee_container}>
@@ -75,7 +75,7 @@ export default function Home() {
                 >
                     <div className={styles.hero_box}>
                         <p className={styles.sub_heading}>
-                            5th IEEE India Council International Subsections
+                            1st IEEE Chandigarh Subsection International
                             Conference
                         </p>
                         <h1>
@@ -94,12 +94,13 @@ export default function Home() {
                     <div className={styles.venue_details}>
                         <div className={styles.dates}>
                             <h3>Conference Dates</h3>
-                            <p>August 22-24, 2026</p>
+                            <p>August 20-22, 2026</p>
                         </div>
                         <div className={styles.venue}>
                             <h3>Conference Venue</h3>
-                            <p>Hotel Shivalikview</p>
-                            <p>Sector-17, Chandigarh</p>
+                            {/* <p>Hotel Shivalikview</p> */}
+                            {/* <p>Sector-17, Chandigarh</p> */}
+                            <p>Chandigarh</p>
                             {/* <p> Sector 12, Chandigarh, India</p> */}
                         </div>
                     </div>
@@ -108,9 +109,8 @@ export default function Home() {
                 <div className={styles.info}>
                     <p>
                         CHANDICON is a flagship annual international conference
-                        of the IEEE India Council organized by an IEEE
-                        Subsection in INDIA. CHANDICON 2026 scheduled during
-                        August 22-24, 2026, is being organized by IEEE
+                        of the IEEE Chandigarh Subsection. CHANDICON 2026 scheduled during
+                        August 20-22, 2026, is being organized by IEEE
                         Chandigarh Subsection along with IEEE India Council. The
                         conference will be hosted by Punjab Engineering College
                         (Deemed to be University), Chandigarh. The conference
@@ -176,31 +176,35 @@ export default function Home() {
                             const updatedDate = (() => {
                                 if (event.title === "Last date of submission for regular papers") {
                                     return (
-                                        <span>
-                                            <del>{event.date}</del> <span style={{ color: 'red' }}>[Extended]: April 15, 2026</span>
-                                        </span>
+                                        // <span>
+                                        //     <del>{event.date}</del> <span style={{ color: 'red' }}>[Extended]: April 15, 2026</span>
+                                        // </span>
+                                        <span>{event.date}</span>
                                     );
                                 }
                                 if (event.title === "Last date for early bird registration") {
                                     return (
-                                        <span>
-                                            {/* <del>{event.date}</del> <span style={{ color: 'red' }}>June 30, 2026</span> */}
-                                            <del>{event.date}</del> <span style={{ color: 'red' }}>July 15, 2026</span>
-                                        </span>
+                                        // <span>
+                                        //     {/* <del>{event.date}</del> <span style={{ color: 'red' }}>June 30, 2026</span> */}
+                                        //     <del>{event.date}</del> <span style={{ color: 'red' }}>July 15, 2026</span>
+                                        // </span>
+                                        <span>{event.date}</span>
                                     );
                                 }
                                 if (event.title === "Last date for camera ready paper submission") {
                                     return (
-                                        <span>
-                                            <del>{event.date}</del> <span style={{ color: 'red' }}>July 31, 2026</span>
-                                        </span>
+                                        // <span>
+                                        //     <del>{event.date}</del> <span style={{ color: 'red' }}>July 31, 2026</span>
+                                        // </span>
+                                        <span>{event.date}</span>
                                     );
                                 }
                                 if (event.title === "Last date for conference registration") {
                                     return (
-                                        <span>
-                                            <del>{event.date}</del> <span style={{ color: 'red' }}>July 31, 2026</span>
-                                        </span>
+                                        // <span>
+                                        //     <del>{event.date}</del> <span style={{ color: 'red' }}>July 31, 2026</span>
+                                        // </span>
+                                        <span>{event.date}</span>
                                     );
                                 }
                                 return event.date;
@@ -257,7 +261,7 @@ export default function Home() {
                             <a
                                 //href="https://cmt3.research.microsoft.com/INDISCON2026/"
                                 // href="/List of Oral and Posters.pdf"
-                                href="/Final_schedule_of_conference_21082026.pdf"
+                                // href="/Final_schedule_of_conference_21082026.pdf"
                                 target="_blank"
                                 referrerPolicy="no-referrer"
                             >
@@ -271,7 +275,7 @@ export default function Home() {
                         
                         <div className={styles.register_alt}>
                             <a
-                                href="https://web.ticketdude.app/e/72"
+                                // href="https://web.ticketdude.app/e/72"
                                 target="_blank"
                                 referrerPolicy="no-referrer"
                             >
@@ -282,7 +286,7 @@ export default function Home() {
                         <div className={styles.register_alt}>
                             <a
                                 // href="https://cmt3.research.microsoft.com/INDISCON2026/"
-                                href="/INDISOCN Oral and Poster presentation guidelines.pdf"
+                                // href="/INDISOCN Oral and Poster presentation guidelines.pdf"
                                 //href="/List of Oral and Posters.pdf"
                                 target="_blank"
                                 referrerPolicy="no-referrer"

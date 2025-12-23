@@ -10,7 +10,7 @@ function Venue() {
         <PageLayout title={"Venue | Chandicon 2026"}>
             <h1 className={styles.heading}>Conference Venue</h1>
             <p className={styles.description}>
-                {/* Punjab Engineering College is located in Chandigarh, Sector-12.
+                Punjab Engineering College is located in Chandigarh, Sector-12.
                 Chandigarh, also known as The City Beautiful, is a city and a
                 union territory in the northern part of India that serves as the
                 capital of the states of Punjab and Haryana. Chandigarh is
@@ -18,14 +18,14 @@ function Venue() {
                 transport, including flight, train and bus. The city is served
                 by an international airport as well as well-planned rail and
                 road network, using which travellers can enter the city with
-                ease. */}
-                Hotel Shivalikview, located within city&apos;s hub of business, 
+                ease.
+                {/* Hotel Shivalikview, located within city&apos;s hub of business, 
                 shopping and entertainment in Sector 17, offers a stylish, 
                 intimate base for business experience as well as exploring the 
                 attractions & tourist spots of the &ldquo;City Beautiful&rdquo;. 
                 The hotel is a 25 minutes drive from the Airport and 
                 15 minutes from the Railway Station and is a walking 
-                distance from Inter-state bus terminus. 
+                distance from Inter-state bus terminus.  */}
                 The participants will be having opportunity to 
                 visit nearby research institutes and Universities 
                 like Punjab University, CSIR-CSIO, INST Mohali, ISB, IISER Mohali etc. 
