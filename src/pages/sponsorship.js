@@ -12,11 +12,11 @@ import {
 
 function Sponsorship() {
     return (
-        <PageLayout title={"Sponsorship | Indiscon'24"}>
+        <PageLayout title={"Sponsorship | Chandicon'26"}>
             <h1 className={styles.heading}>Sponsorship</h1>
 
             <p className={styles.description}>
-                INDISCON 2024 offers you a unique and focused way to showcase
+                CHANDICON 2026 offers you a unique and focused way to showcase
                 your service, technology and solutions, explore opportunities to
                 outreach your potential customers and touch base with them. Our
                 Sponsorship packages are provided with a set of special
@@ -24,7 +24,7 @@ function Sponsorship() {
                 conference. We are excited to invite you to participate as an
                 exhibitor or sponsor at our upcoming{" "}
                 <span className={styles.emphasis}>
-                    INDISCON 2024 at Punjab Engineering College, Chandigarh,
+                    CHANDICON 2026 at Punjab Engineering College, Chandigarh,
                     India.
                 </span>{" "}
                 We encourage you to take advantage of the enclosed exhibitor and
@@ -43,7 +43,7 @@ function Sponsorship() {
             <h2 className={styles.subheading}>Sponsoring Packages</h2>
             <p className={styles.description}>
                 Five categories of sponsorship packages are available to suit
-                your needs at INDISCON 2024. Sponsorship packages offer you a
+                your needs at CHANDICON 2026. Sponsorship packages offer you a
                 unique and focused way to showcase your service, technology and
                 solutions, explore opportunities to outreach your potential
                 customers and touch base with them.
@@ -209,7 +209,7 @@ function Sponsorship() {
 
             <p className={styles.note}>
                 To secure participation, please write to us at
-                ieeeindiscon2024@gmail.com
+                ieeeindiscon2026@gmail.com
             </p>
             <p></p>
 
@@ -221,9 +221,9 @@ function Sponsorship() {
                     marginBottom: "20px",
                 }}
             >
-                INDISCON 2024 is pleased to offer financial support to the
+                CHANDICON 2026 is pleased to offer financial support to the
                 selected IEEE student first author for presenting their research
-                work during INDISCON 2024 Conference. The grant will be awarded
+                work during CHANDICON 2026 Conference. The grant will be awarded
                 to a limited number of applicants on a highly competitive basis.
                 The grant will help to cover Conference registration fees or
                 partial travel of the authors for attending the Conference. The

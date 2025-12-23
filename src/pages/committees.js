@@ -10,7 +10,7 @@ function Committees() {
     const ad_keys = Object.keys(AD_COMMITTEE);
     console.log(keys);
     return (
-        <PageLayout title={"Committees | Indiscon 2024"}>
+        <PageLayout title={"Committees | Chandicon 2026"}>
             {/* 
             <h1 className={styles.heading}>Advisory Committee</h1>    
             <div className={styles.core}>

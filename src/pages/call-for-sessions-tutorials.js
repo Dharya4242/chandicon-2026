@@ -5,10 +5,10 @@ import styles from "@/styles/pages/call_for_papers.module.scss";
 
 function CallForSessions() {
     return (
-        <PageLayout title={"Call for Special Session Proposals | Indiscon 2024"}>
+        <PageLayout title={"Call for Special Session Proposals | Chandicon 2026"}>
             <h1 className={styles.heading}>Call for Special Session Proposals</h1>
             <p className={styles.subheading}>
-            INDISCON 2024 will provide an excellent forum for the dissemination 
+            CHANDICON 2026 will provide an excellent forum for the dissemination 
             of the latest research and ideas in a wide range of Science, 
             Engineering and Technology. The conference is keen to disseminate 
             state-of-the-art knowledge on specialist and latest topics related 
@@ -17,7 +17,7 @@ function CallForSessions() {
             <br/>
             <p className={styles.subheading}>
                 Submission of proposals for such Special Sessions 
-                for the INDISCON 2024 are welcome.</p>
+                for the CHANDICON 2026 are welcome.</p>
             <br/><br/>
             <h2 className={styles.subheading}>Guidelines for Special Session Proposers</h2>
             <p className={styles.subheading}>
@@ -29,7 +29,7 @@ function CallForSessions() {
             the difference between the contents of their submission and the regular tracks.
             <br/>
             Special Session Organizers are expected to operate within their 
-            professional networks to promote their session and INDISCON 2024. 
+            professional networks to promote their session and CHANDICON 2026. 
             Having an invited paper/presentation will help to attract more interest, 
             hence it is strongly encouraged. Accepted special sessions will have 
             4-6 oral presentations. A Special Session can be one of the following:
@@ -51,7 +51,7 @@ function CallForSessions() {
             who provides an oral presentation in the Special Session. The organizers provide 
             the name of the presenter together with an e-mail confirming their acceptance. 
             The presenter, together with possible co-authors, prepares a full paper and 
-            submits it to the INDISCON 2024 conference by the stipulated deadline. 
+            submits it to the CHANDICON 2026 conference by the stipulated deadline. 
             The paper will be peer-reviewed and must reflect an innovation providing a 
             significant novelty to the state-of-the-art in its (sub)field. The paper, 
             if accepted and presented, will be submitted for the possible publication in IEEE Xplore.
@@ -102,15 +102,15 @@ function CallForSessions() {
             <h2 className={styles.subheading}>Special Session Proposal Timelines and Process</h2>
             <br/>
                 <ul style={{ paddingLeft: '20px' }}>
-                    <li> Proposal Submission Date: <span style={{ textDecoration: 'line-through' }}>March 15, 2024</span> <span style={{ color: 'red'}}>[Extended]: April 15, 2024 </span></li>
+                    <li> Proposal Submission Date: <span style={{ textDecoration: 'line-through' }}>March 15, 2026</span> <span style={{ color: 'red'}}>[Extended]: April 15, 2026 </span></li>
                     <li> To submit a proposal for a Special Session, the Special Session Organizer 
-                        should send their proposal by e-mail at ieeeindiscon2024@gmail.com. </li>
+                        should send their proposal by e-mail at ieeeindiscon2026@gmail.com. </li>
                 </ul>
             
             <br/><br/>
             <h1 className={styles.heading}>Call for Tutorial/Workshop Proposals</h1>
             <p className={styles.subheading}>
-            INDISCON 2024 solicits proposals for Tutorials/Workshops of 90 minutes 
+            CHANDICON 2026 solicits proposals for Tutorials/Workshops of 90 minutes 
             (one session) that complement the regular program with clear and focused 
             coverage of new and emerging topics within the scope of the conference. 
             Tutorials/Workshops are an opportunity for researchers from academia and industry
@@ -138,7 +138,7 @@ function CallForSessions() {
             <h2 className={styles.subheading}>Tutorial/Workshop Proposal Submissions</h2>
             <p className={styles.subheading}>           
                 The Proposals for tutorial/workshop should be submitted by e-mail to 
-                ieeeindiscon2024@gmail.com by  <span style={{ textDecoration: 'line-through' }}>March 31, 2024</span> <span style={{ color: 'red'}}> April 15, 2024 </span>. 
+                ieeeindiscon2026@gmail.com by  <span style={{ textDecoration: 'line-through' }}>March 31, 2026</span> <span style={{ color: 'red'}}> April 15, 2026 </span>. 
             </p> 
             <br/>
             <br/>

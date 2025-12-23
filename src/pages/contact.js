@@ -4,7 +4,7 @@ import styles from "@/styles/pages/contact.module.scss";
 
 function Contact() {
     return (
-        <PageLayout title={"Contact Us | Indiscon 2024"}>
+        <PageLayout title={"Contact Us | Chandicon 2026"}>
             <h1 className={styles.heading}>Contact Us</h1>
 
             <div className={styles.wrapper}>
@@ -19,7 +19,7 @@ function Contact() {
                 ></iframe>
 
                 <div className={styles.contact_details}>
-                    <p>General Chair (INDISCON 2024) </p>
+                    <p>General Chair (CHANDICON 2026) </p>
                     <p></p>
                     <p>
                         Department of Electronics and Communication Engineering,
@@ -27,8 +27,8 @@ function Contact() {
                     <p> Punjab Engineering College, </p>
                     <p>(Deemed to be University),</p>
                     <p>Sector 12, Chandigarh, India</p>
-                    <a href="mailto:ieeeindiscon2024@gmail.com">
-                        ieeeindiscon2024@gmail.com
+                    <a href="mailto:ieeeindiscon2026@gmail.com">
+                        ieeeindiscon2026@gmail.com
                     </a>
                 </div>
             </div>

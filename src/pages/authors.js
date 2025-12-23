@@ -5,7 +5,7 @@ import styles from "@/styles/pages/call_for_papers.module.scss";
 
 function authors() {
     return (
-        <PageLayout title={"Authors | Indiscon 2024"}>
+        <PageLayout title={"Authors | Chandicon 2026"}>
             <h1 className={styles.heading}>Authors</h1>
             <div className={styles.submission}>
                 <h2>Submission Details</h2>
@@ -20,7 +20,7 @@ function authors() {
                     </a>{" "}
                     through the{" "}
                     <a
-                        href="https://cmt3.research.microsoft.com/INDISCON2024/"
+                        href="https://cmt3.research.microsoft.com/INDISCON2026/"
                         target="_blank"
                     >
                         submission link
@@ -76,7 +76,7 @@ function authors() {
                     <ul>
                         <li>
                             <FaArrowRight /> Pay for conference registration
-                            here: IEEE INDISCON 2024 registration site
+                            here: IEEE CHANDICON 2026 registration site
                         </li>
                         <li>
                             <FaArrowRight /> Final submission is REQUIRED, even
@@ -157,7 +157,7 @@ function authors() {
             <div className={styles.paper_wrapper}>
                 <div className={styles.register}>
                     <a
-                        href="https://cmt3.research.microsoft.com/INDISCON2024/"
+                        href="https://cmt3.research.microsoft.com/INDISCON2026/"
                         target="_blank"
                         referrerPolicy="no-referrer"
                     >

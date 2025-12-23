@@ -6,7 +6,7 @@ import { getAssetName } from "@/util/githubPagesImagesUtil";
 
 function Speakers() {
     return (
-        <PageLayout title={"Speakers | Indiscon'24"}>
+        <PageLayout title={"Speakers | Chandicon'26"}>
             <h1 className={styles.heading}>Speakers</h1>
 
             <div className={styles.heads}>

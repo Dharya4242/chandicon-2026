@@ -4,7 +4,7 @@ import PageLayout from "@/components/layout/PageLayout";
 
 function fellowship() {
     return (
-        <PageLayout title={"Fellowship | Indiscon 2024"}>
+        <PageLayout title={"Fellowship | Chandicon 2026"}>
             <h2 className={styles.heading}>Travel Grants</h2>
             <p
                 style={{
@@ -13,9 +13,9 @@ function fellowship() {
                     marginBottom: "20px",
                 }}
             >
-                INDISCON 2024 is pleased to offer financial support to the
+                CHANDICON 2026 is pleased to offer financial support to the
                 selected IEEE student first author for presenting their research
-                work during INDISCON 2024 Conference. The grant will be awarded
+                work during CHANDICON 2026 Conference. The grant will be awarded
                 to a limited number of applicants on a highly competitive basis.
                 The grant will help to cover Conference registration fees or
                 partial travel of the authors for attending the Conference. The
@@ -32,7 +32,7 @@ function fellowship() {
                             color: "rgb(48, 111, 160)",
                         }}
                     >
-                        ieeeindiscon2024@gmail.com
+                        ieeeindiscon2026@gmail.com
                     </span>{" "}
                     with the following details:
                 </h4>

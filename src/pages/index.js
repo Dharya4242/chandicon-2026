@@ -21,25 +21,25 @@ import "react-vertical-timeline-component/style.min.css";
 const events = [
     {
         title: "Last date of submission for regular papers",
-        date: "March 31, 2024",
+        date: "March 31, 2026",
         description: "",
         icon: <LaptopMac />,
     },
     {
         title: "Last date for early bird registration",
-        date: "May 31, 2024",
+        date: "May 31, 2026",
         description: "",
         icon: <BiTrophy />,
     },
     {
         title: "Last date for conference registration",
-        date: "June 15, 2024",
+        date: "June 15, 2026",
         description: "",
         icon: <BiTrophy />,
     },
     {
         title: "Conference dates",
-        date: "August 22-24, 2024",
+        date: "August 22-24, 2026",
         description: "",
         icon: <BiTrophy />,
     },
@@ -49,9 +49,9 @@ export default function Home() {
     return (
         <>
             <PageLayout
-                title={"Indiscon 2024 | Punjab Engineering College"}
+                title={"Chandicon 2026 | Punjab Engineering College"}
                 description={
-                    "INDISCON is a flagship annual international conference of the IEEE India Council organized by an IEEE Subsection in INDIA. INDISCON 2024 scheduled during August 22-24, 2024, is being organized by IEEE Chandigarh Subsection along with IEEE India Council. The conference will be hosted by Punjab Engineering College (Deemed to be University), Chandigarh. The conference aims to provide an interdisciplinary platform for the academicians, researchers, industry professionals and research scholars to exchange and share their knowledge, experience & research."
+                    "CHANDICON is a flagship annual international conference of the IEEE India Council organized by an IEEE Subsection in INDIA. CHANDICON 2026 scheduled during August 22-24, 2026, is being organized by IEEE Chandigarh Subsection along with IEEE India Council. The conference will be hosted by Punjab Engineering College (Deemed to be University), Chandigarh. The conference aims to provide an interdisciplinary platform for the academicians, researchers, industry professionals and research scholars to exchange and share their knowledge, experience & research."
                 }
             >
                 <Marquee className={styles.marquee_container}>
@@ -79,7 +79,7 @@ export default function Home() {
                             Conference
                         </p>
                         <h1>
-                            INDISCON <span>2024</span>
+                            CHANDICON <span>2026</span>
                         </h1>
                         <div
                             style={{
@@ -94,7 +94,7 @@ export default function Home() {
                     <div className={styles.venue_details}>
                         <div className={styles.dates}>
                             <h3>Conference Dates</h3>
-                            <p>August 22-24, 2024</p>
+                            <p>August 22-24, 2026</p>
                         </div>
                         <div className={styles.venue}>
                             <h3>Conference Venue</h3>
@@ -107,10 +107,10 @@ export default function Home() {
 
                 <div className={styles.info}>
                     <p>
-                        INDISCON is a flagship annual international conference
+                        CHANDICON is a flagship annual international conference
                         of the IEEE India Council organized by an IEEE
-                        Subsection in INDIA. INDISCON 2024 scheduled during
-                        August 22-24, 2024, is being organized by IEEE
+                        Subsection in INDIA. CHANDICON 2026 scheduled during
+                        August 22-24, 2026, is being organized by IEEE
                         Chandigarh Subsection along with IEEE India Council. The
                         conference will be hosted by Punjab Engineering College
                         (Deemed to be University), Chandigarh. The conference
@@ -143,7 +143,7 @@ export default function Home() {
                                             papers
                                         </b>{" "}
                                     </TableCell>
-                                    <TableCell>May 15, 2024</TableCell>
+                                    <TableCell>May 15, 2026</TableCell>
                                 </TableRow>
                                 <TableRow hover>
                                     <TableCell>
@@ -151,7 +151,7 @@ export default function Home() {
                                             Last date of Early Bird Registration
                                         </b>
                                     </TableCell>
-                                    <TableCell> May 31, 2024</TableCell>
+                                    <TableCell> May 31, 2026</TableCell>
                                 </TableRow>
                                 <TableRow hover>
                                     <TableCell>
@@ -160,7 +160,7 @@ export default function Home() {
                                             registration
                                         </b>{" "}
                                     </TableCell>
-                                    <TableCell>June 15, 2024</TableCell>
+                                    <TableCell>June 15, 2026</TableCell>
                                 </TableRow>
                             </TableBody>
                         </Table>
@@ -177,29 +177,29 @@ export default function Home() {
                                 if (event.title === "Last date of submission for regular papers") {
                                     return (
                                         <span>
-                                            <del>{event.date}</del> <span style={{ color: 'red' }}>[Extended]: April 15, 2024</span>
+                                            <del>{event.date}</del> <span style={{ color: 'red' }}>[Extended]: April 15, 2026</span>
                                         </span>
                                     );
                                 }
                                 if (event.title === "Last date for early bird registration") {
                                     return (
                                         <span>
-                                            {/* <del>{event.date}</del> <span style={{ color: 'red' }}>June 30, 2024</span> */}
-                                            <del>{event.date}</del> <span style={{ color: 'red' }}>July 15, 2024</span>
+                                            {/* <del>{event.date}</del> <span style={{ color: 'red' }}>June 30, 2026</span> */}
+                                            <del>{event.date}</del> <span style={{ color: 'red' }}>July 15, 2026</span>
                                         </span>
                                     );
                                 }
                                 if (event.title === "Last date for camera ready paper submission") {
                                     return (
                                         <span>
-                                            <del>{event.date}</del> <span style={{ color: 'red' }}>July 31, 2024</span>
+                                            <del>{event.date}</del> <span style={{ color: 'red' }}>July 31, 2026</span>
                                         </span>
                                     );
                                 }
                                 if (event.title === "Last date for conference registration") {
                                     return (
                                         <span>
-                                            <del>{event.date}</del> <span style={{ color: 'red' }}>July 31, 2024</span>
+                                            <del>{event.date}</del> <span style={{ color: 'red' }}>July 31, 2026</span>
                                         </span>
                                     );
                                 }
@@ -246,7 +246,7 @@ export default function Home() {
                     <div className={styles.paper_wrapper}>
                         {/* <div className={styles.register}>
                             <a
-                                href="/CFP INDISCON 2024 Extended Deadline.pdf"
+                                href="/CFP CHANDICON 2026 Extended Deadline.pdf"
                                 target="_blank"
                                 referrerPolicy="no-referrer"
                             >
@@ -255,9 +255,9 @@ export default function Home() {
                         </div> */}
                          <div className={styles.register_alt}>
                             <a
-                                //href="https://cmt3.research.microsoft.com/INDISCON2024/"
+                                //href="https://cmt3.research.microsoft.com/INDISCON2026/"
                                 // href="/List of Oral and Posters.pdf"
-                                href="/Final_schedule_of_conference_21082024.pdf"
+                                href="/Final_schedule_of_conference_21082026.pdf"
                                 target="_blank"
                                 referrerPolicy="no-referrer"
                             >
@@ -281,7 +281,7 @@ export default function Home() {
 
                         <div className={styles.register_alt}>
                             <a
-                                // href="https://cmt3.research.microsoft.com/INDISCON2024/"
+                                // href="https://cmt3.research.microsoft.com/INDISCON2026/"
                                 href="/INDISOCN Oral and Poster presentation guidelines.pdf"
                                 //href="/List of Oral and Posters.pdf"
                                 target="_blank"

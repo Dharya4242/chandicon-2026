@@ -7,7 +7,7 @@ import { FaExternalLinkAlt } from "react-icons/fa";
 
 function Venue() {
     return (
-        <PageLayout title={"Venue | Indiscon 2024"}>
+        <PageLayout title={"Venue | Chandicon 2026"}>
             <h1 className={styles.heading}>Conference Venue</h1>
             <p className={styles.description}>
                 {/* Punjab Engineering College is located in Chandigarh, Sector-12.
@@ -87,7 +87,7 @@ function Venue() {
             </p>
 
             <p className={styles.popular}> Click <a href="/5th IEEE_0001.pdf" target="_blank" rel="noopener noreferrer" className={styles.link}>here </a> 
-              for the notice for participation of foreign nationals in the INDISCON 2024 conference. </p>
+              for the notice for participation of foreign nationals in the CHANDICON 2026 conference. </p>
 
 
             <h3 className={styles.subheading}>Ways to reach Chandigarh</h3>

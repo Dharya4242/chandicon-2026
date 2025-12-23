@@ -97,7 +97,7 @@ const nonIeeeRows = [
 
 function Registration() {
     return (
-        <PageLayout title={"Registration | Indiscon 2024"}>
+        <PageLayout title={"Registration | Chandicon 2026"}>
             <h1 className={styles.heading}>Registration</h1>
 
             <TableContainer sx={{ maxHeight: 440 }}>
@@ -233,7 +233,7 @@ function Registration() {
                             At least one of the authors of every accepted paper
                             must register for the conference as author and
                             present the paper in order for it to be included in
-                            the conference proceedings of INDISCON 2024, and
+                            the conference proceedings of CHANDICON 2026, and
                             subsequent submission to IEEE Xplore digital
                             library.
                         </li>
@@ -260,7 +260,7 @@ function Registration() {
                     <ol className={styles.section_details}>
                         <li>
                             All participants need to be registered to attend the
-                            INDISCON 2024 by paying the requisite registration
+                            CHANDICON 2026 by paying the requisite registration
                             fee.
                         </li>
                         <li>
@@ -296,11 +296,11 @@ function Registration() {
                         </li>
                         <li>
                             All correspondence regarding registration for
-                            INDISCON 2024 should contain Paper ID as well as
+                            CHANDICON 2026 should contain Paper ID as well as
                             registration confirmation number.
                         </li>
                         <li>
-                            Please note that INDISCON 2024, or the organizing
+                            Please note that CHANDICON 2026, or the organizing
                             institute, represented by the Organizing Committee
                             as well as the IEEE India Council or IEEE Delhi
                             Section or IEEE Chandigarh Subsection, will not be
@@ -354,7 +354,7 @@ function Registration() {
                                 textDecoration: "underline",
                             }}
                         >
-                            ieeeindiscon2024@gmail.com
+                            ieeeindiscon2026@gmail.com
                         </b>
                     </p>
                     <TableContainer sx={{ marginTop: "20px" }}>

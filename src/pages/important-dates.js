@@ -15,61 +15,61 @@ import {useState} from 'react';
 const events = [
     {
         title: "Call for papers",
-        date: "February 01, 2024",
+        date: "February 01, 2026",
         description: "",
         icon: <AiOutlineForm />,
     },
     {
         title: "Call for tutorials and workshop proposals",
-        date: "February 01, 2024",
+        date: "February 01, 2026",
         description: "",
         icon: <Handshake />,
     },
     {
         title: "Last date of submission for regular papers",
-        date: "March 31, 2024",
+        date: "March 31, 2026",
         description: "",
         icon: <LaptopMac />,
     },
     {
         title: "Last date for submission of tutorials and workshop proposals",
-        date: "March 31, 2024",
+        date: "March 31, 2026",
         description: "",
         icon: <MdChecklist />,
     },
     {
         title: "Notification of regular paper acceptance",
-        date: "May 15, 2024",
+        date: "May 15, 2026",
         description: "",
         icon: <BiTrophy />,
     },
     {
         title: "Notification of tutorials and workshop proposals acceptance",
-        date: "May 31, 2024",
+        date: "May 31, 2026",
         description: "",
         icon: <BiTrophy />,
     },
     {
         title: "Last date for early bird registration",
-        date: "May 31, 2024",
+        date: "May 31, 2026",
         description: "",
         icon: <BiTrophy />,
     },
     {
         title: "Last date for camera ready paper submission",
-        date: "June 10, 2024",
+        date: "June 10, 2026",
         description: "",
         icon: <BiTrophy />,
     },
     {
         title: "Last date for conference registration",
-        date: "June 15, 2024",
+        date: "June 15, 2026",
         description: "",
         icon: <BiTrophy />,
     },
     {
         title: "Conference dates",
-        date: "August 22-24, 2024",
+        date: "August 22-24, 2026",
         description: "",
         icon: <BiTrophy />,
     },
@@ -77,22 +77,22 @@ const events = [
 
 function ImportantDates() {
     const [updatedEvents, setUpdatedEvents] = useState(events.map(event => {
-        if (event.date === "March 31, 2024") {
+        if (event.date === "March 31, 2026") {
             return {
                 ...event,
                 date: (
                     <>
-                        <del>{event.date}</del> <span style={{ color: 'red' }}>[Extended]: April 15, 2024</span>
+                        <del>{event.date}</del> <span style={{ color: 'red' }}>[Extended]: April 15, 2026</span>
                     </>
                 )
             };
         }
-        if (event.date === "May 15, 2024") {
+        if (event.date === "May 15, 2026") {
             return {
                 ...event,
                 date: (
                     <>
-                        <del>{event.date}</del> <del style={{ color: 'red' }}><span style={{ color: 'red' }}>May 30, 2024</span></del><span style={{ color: 'red' }}> June 07, 2024</span>
+                        <del>{event.date}</del> <del style={{ color: 'red' }}><span style={{ color: 'red' }}>May 30, 2026</span></del><span style={{ color: 'red' }}> June 07, 2026</span>
                     </>
                 )
             };
@@ -102,8 +102,8 @@ function ImportantDates() {
                 ...event,
                 date: (
                     <>
-                        {/* <del>{event.date}</del> <span style={{ color: 'red' }}>June 30, 2024</span> */}
-                        <del>{event.date}</del> <span style={{ color: 'red' }}>July 15, 2024</span>
+                        {/* <del>{event.date}</del> <span style={{ color: 'red' }}>June 30, 2026</span> */}
+                        <del>{event.date}</del> <span style={{ color: 'red' }}>July 15, 2026</span>
                     </>
                 )
             };
@@ -113,7 +113,7 @@ function ImportantDates() {
                 ...event,
                 date: (
                     <>
-                        <del>{event.date}</del> <span style={{ color: 'red' }}>July 31, 2024</span>
+                        <del>{event.date}</del> <span style={{ color: 'red' }}>July 31, 2026</span>
                     </>
                 )
             };
@@ -123,7 +123,7 @@ function ImportantDates() {
                 ...event,
                 date: (
                     <>
-                        <del>{event.date}</del> <span style={{ color: 'red' }}>July 31, 2024</span>
+                        <del>{event.date}</del> <span style={{ color: 'red' }}>July 31, 2026</span>
                     </>
                 )
             };
@@ -132,7 +132,7 @@ function ImportantDates() {
     }));
 
     return (
-        <PageLayout title={"Important Dates | Indiscon 2024 "}>
+        <PageLayout title={"Important Dates | Chandicon 2026 "}>
             <div>
                 <h1 className={styles.heading}>Timeline</h1>
                 <VerticalTimeline lineColor="rgb(48, 111, 160)">

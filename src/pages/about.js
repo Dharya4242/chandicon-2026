@@ -15,28 +15,28 @@ import { getAssetName } from "@/util/githubPagesImagesUtil";
 
 const prevEditionData = [
     {
-        name: "IEEE INDISCON 2023",
+        name: "IEEE CHANDICON 2023",
         venue: "GSSS Institute of Engineering & Technology for Women, Mysuru",
         dates: "August 5-7, 2023",
         theme: "Computational Intelligence and Learning Systems",
         link: "https://ieeexplore.ieee.org/xpl/conhome/10269798/proceeding",
     },
     {
-        name: "IEEE INDISCON 2022",
+        name: "IEEE CHANDICON 2022",
         venue: "KIIT Deemed to be University, Bhubaneswar",
         dates: "July 15-17, 2022",
         theme: "Impactful Innovations for Benefits of Society and Industry",
         link: "https://ieeexplore.ieee.org/xpl/conhome/9862528/proceeding",
     },
     {
-        name: "IEEE INDISCON 2021",
+        name: "IEEE CHANDICON 2021",
         venue: "Visvesvaraya National Institute of Technology, Nagpur",
         dates: "August 27-29, 2021",
         link: "https://ieeexplore.ieee.org/xpl/conhome/9581282/proceeding",
         theme: "Impactful innovations for the benefit of industry and society",
     },
     {
-        name: "IEEE INDISCON 2020",
+        name: "IEEE CHANDICON 2020",
         venue: "Gayatri Vidya Parishad College of Engineering, Visakhapatnam",
         dates: "October 3-4, 2020",
         theme: "Smart and Sustainable Systems - Decade Ahead",
@@ -46,17 +46,17 @@ const prevEditionData = [
 
 function About() {
     return (
-        <PageLayout title={"About Indiscon 2024 | Punjab Engineering College"}>
+        <PageLayout title={"About Chandicon 2026 | Punjab Engineering College"}>
             <h1 className={styles.heading}>About us</h1>
             <div className={styles.about}>
                 <div className={styles.description}>
                     <p className={styles.about_text}>
-                        <span className={styles.emphasize}>INDISCON</span> is a
+                        <span className={styles.emphasize}>CHANDICON</span> is a
                         flagship annual international conference of the IEEE
                         India Council organized by an IEEE Subsection in INDIA.
-                        INDISCON 2024 scheduled during{" "}
+                        CHANDICON 2026 scheduled during{" "}
                         <span className={styles.emphasize}>
-                            August 22-24, 2024
+                            August 22-24, 2026
                         </span>
                         , is being organized by IEEE Chandigarh Subsection along
                         with IEEE India Council. The
@@ -80,12 +80,12 @@ function About() {
                 {/* <div className={styles.img_wrapper}> */}
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 {/* <img
-                        src={getAssetName("/assets/logos/indiscon-new-logo-withoutbg.png")}
+                        src={getAssetName("/assets/logos/chandicon-new-logo-withoutbg.png")}
                     <img
                         src={getAssetName(
-                            "/assets/logos/indiscon-new-logo-withoutbg.png"
+                            "/assets/logos/chandicon-new-logo-withoutbg.png"
                         )}
-                        alt="indiscon 2024"
+                        alt="chandicon 2026"
                     />
                 </div> */}
             </div>

@@ -5,14 +5,14 @@ import { TRACKS } from "@/data/tracks";
 
 function CallForPapers() {
     return (
-        <PageLayout title={"Call for Papers | Indiscon 2024"}>
+        <PageLayout title={"Call for Papers | Chandicon 2026"}>
             <h1 className={styles.heading}>Call for Papers</h1>
             <p className={styles.subheading}>
                 The Conference aims to provide an active platform for research
                 scientists, engineers, and practitioners throughout the world to
                 present their latest research findings, ideas, and applications
-                in the fields of interest which fall under the scope of INDISCON
-                2024. Papers (upto 6 pages in .pdf) presented in the Conference, duly
+                in the fields of interest which fall under the scope of CHANDICON
+                2026. Papers (upto 6 pages in .pdf) presented in the Conference, duly
                 accepted after peer review, will be eligible for submission for
                 further consideration of publishing in the IEEE Xplore, subject
                 to maintenance of quality, and post-conference scrutiny of
@@ -23,7 +23,7 @@ function CallForPapers() {
             <div className={styles.paper_wrapper}>
                 <div className={styles.register}>
                     <a
-                        href="/CFP INDISCON 2024 Extended Deadline.pdf"
+                        href="/CFP CHANDICON 2026 Extended Deadline.pdf"
                         target="_blank"
                         referrerPolicy="no-referrer"
                     >
@@ -32,7 +32,7 @@ function CallForPapers() {
                 </div>
                 <div className={styles.register}>
                     <a
-                        href="https://cmt3.research.microsoft.com/INDISCON2024/"
+                        href="https://cmt3.research.microsoft.com/INDISCON2026/"
                         target="_blank"
                         referrerPolicy="no-referrer"
                     >
