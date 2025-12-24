@@ -365,7 +365,7 @@ export const COMMITTEE = {
         //     link: "https://pec.ac.in/cse/faculty/sandeep-kumar-harit",
         // },
     ],
-    "Convernors": [
+    "Convenors": [
                 {
             name: "Dr. Manohar Singh",
             designation: "PEC, Chandigarh",
