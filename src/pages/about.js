@@ -44,6 +44,39 @@ const prevEditionData = [
     },
 ];
 
+const conferenceData = [
+    {
+        name: "Women in Optics and Photonics in India 2025 (WOPI-2025)",
+        dates: "December 5-7, 2025",
+        venue: "Punjab Engineering College, Sector 12, Chandigarh",
+        theme: "Illuminating the future",
+    },
+    {
+        name: "5th IEEE India Council International Subsections Conference INDISCON 2024 (INDISCON 2024)",
+        dates: "August 22-24, 2024",
+        venue: "Punjab Engineering College, Sector 12, Chandigarh",
+        theme: "Science, Technology and Society",
+    },
+    {
+        name: "29th International Symposium on VLSI Design and Test (VDAT 2025)",
+        dates: "August 7-9, 2025",
+        venue: "Hotel Shivalik View, Sector 17, Chandigarh",
+        theme: "VLSI Design and Semiconductor Technology for Next Gen Chips & AI Applications.",
+    },
+    {
+        name: "International Conference on Engineered Materials for Sustainable Development (EMSD-2024)",
+        dates: "July 24-26, 2024",
+        venue: "Punjab Engineering College, Sector 12, Chandigarh",
+        theme: "Engineered Materials for Sustainable Development",
+    },
+    {
+        name: "International Conference on Artificial Intelligence, Computing, IoT and Data Analytics (AICTA 2023)",
+        dates: "December 18-20, 2023",
+        venue: "Punjab Engineering College, Sector 12, Chandigarh",
+        theme: "Artificial Intelligence, Computing, IoT and Data Analytics",
+    },
+];
+
 function About() {
     return (
         <PageLayout title={"About Chandicon 2026 | Punjab Engineering College"}>
@@ -51,7 +84,7 @@ function About() {
             <div className={styles.about}>
                 <div className={styles.description}>
                     <p className={styles.about_text}>
-                        <span className={styles.emphasize}>CHANDICON</span> is 
+                        <span className={styles.emphasize}>CHANDICON</span> is
                         1st annual international conference of IEEE Chandigarh Subsection.
                         CHANDICON 2026 scheduled during{" "}
                         <span className={styles.emphasize}>
@@ -91,43 +124,42 @@ function About() {
             </div>
 
             <div className={styles.spacer} />
-            {/*
-            <TableContainer sx={{ maxHeight: 440 }}>
+            <TableContainer sx={{ maxHeight: 640 }}>
                 <Table stickyHeader>
                     <TableHead>
                         <TableRow>
                             <TableCell
                                 align="center"
                                 colSpan={1}
-                                style={{ fontWeight: "800" }}
+                                style={{ fontWeight: "800", backgroundColor: '#f5f5f5' }}
                             >
-                                Previous Edition
+                                Conference
                             </TableCell>
                             <TableCell
                                 align="center"
                                 colSpan={1}
-                                style={{ fontWeight: "800" }}
+                                style={{ fontWeight: "800", backgroundColor: '#f5f5f5' }}
                             >
                                 Dates
                             </TableCell>
                             <TableCell
                                 align="center"
                                 colSpan={1}
-                                style={{ fontWeight: "800" }}
+                                style={{ fontWeight: "800", backgroundColor: '#f5f5f5' }}
                             >
                                 Venue
                             </TableCell>
                             <TableCell
                                 align="center"
                                 colSpan={1}
-                                style={{ fontWeight: "800" }}
+                                style={{ fontWeight: "800", backgroundColor: '#f5f5f5' }}
                             >
                                 Theme
                             </TableCell>
                         </TableRow>
                     </TableHead>
                     <TableBody>
-                        {prevEditionData.map((data, i) => (
+                        {conferenceData.map((data, i) => (
                             <TableRow
                                 hover
                                 role="checkbox"
@@ -135,23 +167,16 @@ function About() {
                                 key={data.name}
                             >
                                 <TableCell
-                                    align="center"
+                                    align="left"
                                     colSpan={1}
                                     style={{ fontWeight: "400" }}
                                 >
-                                    <a
-                                        className={styles.link}
-                                        href={data.link}
-                                        target="_blank"
-                                        referrerPolicy="no-referrer"
-                                    >
-                                        {data.name}
-                                    </a>
+                                    {data.name}
                                 </TableCell>
                                 <TableCell
                                     align="center"
                                     colSpan={1}
-                                    style={{ fontWeight: "400" }}
+                                    style={{ fontWeight: "400", minWidth: "150px" }}
                                 >
                                     {data.dates}
                                 </TableCell>
@@ -163,7 +188,7 @@ function About() {
                                     {data.venue}
                                 </TableCell>
                                 <TableCell
-                                    align="center"
+                                    align="left"
                                     colSpan={1}
                                     style={{ fontWeight: "400" }}
                                 >
@@ -174,7 +199,7 @@ function About() {
                     </TableBody>
                 </Table>
             </TableContainer>
-            */}
+
             <div className={styles.spacer} />
 
             <div className={styles.section}>
@@ -214,24 +239,24 @@ function About() {
                 <h1 className={styles.section_heading}>IEEE Delhi Section</h1>
                 <div className={styles.section_details}>
                     <p className={styles.text}>
-                        The IEEE Delhi Section, established on May 13 1976 
-                        (after being a Sub-section since 1974), is a major 
-                        regional unit of IEEE Region 10 (Asia-Pacific) 
-                        covering the northern part of India—including Rajasthan, 
-                        Haryana, Punjab, Himachal Pradesh, the National Capital 
-                        Territory of Delhi, and the Union Territories of Chandigarh, 
-                        Jammu & Kashmir, and Ladakh. It supports a large 
+                        The IEEE Delhi Section, established on May 13 1976
+                        (after being a Sub-section since 1974), is a major
+                        regional unit of IEEE Region 10 (Asia-Pacific)
+                        covering the northern part of India—including Rajasthan,
+                        Haryana, Punjab, Himachal Pradesh, the National Capital
+                        Territory of Delhi, and the Union Territories of Chandigarh,
+                        Jammu & Kashmir, and Ladakh. It supports a large
                         professional community with thousands of active members
-                        and organizes a wide range of activities-technical, 
-                        professional, non-technical, humanitarian, and 
-                        STEM programs-through its Section, subsections, 
-                        technical chapters, affinity groups 
-                        (like WIE and Young Professionals), and student 
-                        branches, and in 2025 alone has recorded nearly 
-                        2,000 events reported in vTools. The Section also 
-                        celebrates its Golden Jubilee year, engages students 
-                        and professionals in conferences such as DELCON, and 
-                        fosters knowledge exchange and professional development 
+                        and organizes a wide range of activities-technical,
+                        professional, non-technical, humanitarian, and
+                        STEM programs-through its Section, subsections,
+                        technical chapters, affinity groups
+                        (like WIE and Young Professionals), and student
+                        branches, and in 2025 alone has recorded nearly
+                        2,000 events reported in vTools. The Section also
+                        celebrates its Golden Jubilee year, engages students
+                        and professionals in conferences such as DELCON, and
+                        fosters knowledge exchange and professional development
                         across engineering and technology disciplines.
                     </p>{" "}
                     <a
@@ -243,7 +268,7 @@ function About() {
                     </a>
                 </div>
             </div>
-            
+
             <div className={styles.spacer} />
 
             <div className={styles.spacer} />
