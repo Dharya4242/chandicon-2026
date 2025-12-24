@@ -59,9 +59,8 @@ function Header() {
                         />
                     ) : null}
                     <div
-                        className={`${menuOpen ? styles.active : ""} ${
-                            styles.menu_modal
-                        }`}
+                        className={`${menuOpen ? styles.active : ""} ${styles.menu_modal
+                            }`}
                     >
                         {menuOpen ? (
                             <Hamburger
@@ -71,9 +70,8 @@ function Header() {
                         ) : null}
 
                         <ul
-                            className={`${styles.nav_items} ${
-                                menuOpen ? styles.active : ""
-                            }`}
+                            className={`${styles.nav_items} ${menuOpen ? styles.active : ""
+                                }`}
                             role="presentation"
                         >
                             {headerItems.map((headerItem, i) => {
@@ -83,11 +81,10 @@ function Header() {
                                         <Link
                                             href={headerItem.href}
                                             aria-label={headerItem.name}
-                                            className={`${styles.nav_link} ${
-                                                isActive
+                                            className={`${styles.nav_link} ${isActive
                                                     ? styles.active_nav_link
                                                     : ""
-                                            }`}
+                                                }`}
                                         >
                                             {headerItem.name}
                                         </Link>
