@@ -1,48 +1,119 @@
 export const TRACKS = [
+    // {
+    //     track: "Track 1: Power and Energy Systems",
+    //     topics: [
+    //         "Power System Protection, Operation & Control",
+    //         "Power Systems Planning",
+    //         "Grid Decarburization and Integration of Renewable Energy Systems",
+    //         "Economics, Electricity Markets, and Regulatory Framework",
+    //         "Distributed Generation and Energy Management",
+    //         "Data Analytics & AI Application for Power Systems",
+    //         "Smart Grid Regulation & Standards",
+    //         "Microgrid Operation & Control",
+    //         "Interaction of E-Mobility on Grid Operation",
+    //     ],
+    // },
+    // {
+    //     track: "Track 2: Power Electronics, Drives and Intelligent Control",
+    //     topics: [
+    //         "Topological Development of Power Electronic Converters",
+    //         "Design, Development, and Modeling of Power Electronic Converters",
+    //         "Coordinated Control of Power Converters for Microgrid",
+    //         "Advanced Topologies for Electronically Coupled Energy Generation Sources",
+    //         "Power Converter Topologies for Electric Vehicle Applications",
+    //         "Multilevel Inverter Topologies and Design Aspects",
+    //         "Renewable Energy Integration and Grid Code Compliance Studies",
+    //         "Integration of Hybrid System with the Utility Grid",
+    //         "Solar and Wind Energy Integration using Power Converter and their Coordinated Control",
+    //     ],
+    // },
+    // {
+    //     track: "Track 3: Instrumentation, Control and Signal Processing",
+    //     topics: [
+    //         "Robotic Design, Development and Control",
+    //         "Power Quality and Conditioning Monitoring",
+    //         "Intelligent Signal Processing Techniques",
+    //         "Metaheuristic Optimization Algorithms",
+    //         "Biomedical Instrumentation and Control",
+    //         "System Identification Methods",
+    //         "Intelligent Multi-agent Control Systems",
+    //         "Image Processing for High Voltage Applications",
+    //         "Reinforcement Learning, Deep Learning based Control of Robots",
+    //     ],
+    // },
+
     {
-        track: "Track 1: Power and Energy Systems",
+        track: "Track 1: Power System Operation, Monitoring and Control",
         topics: [
-            "Power System Protection, Operation & Control",
-            "Power Systems Planning",
-            "Grid Decarburization and Integration of Renewable Energy Systems",
-            "Economics, Electricity Markets, and Regulatory Framework",
-            "Distributed Generation and Energy Management",
-            "Data Analytics & AI Application for Power Systems",
-            "Smart Grid Regulation & Standards",
-            "Microgrid Operation & Control",
-            "Interaction of E-Mobility on Grid Operation",
+            "Optimal operation of power system",
+            "Power system dynamics and stability",
+            "Load and generation forecasting",
+            "Flexibility requirement and resource adequacy",
+            "Power system security and reliability",
+            "Energy management systems",
+            "Fault Monitoring and Predictive Maintenance",
+            "Synchrophasor measurements and wide area monitoring systems",
+            "Power grid infrastructure planning and Operation under Deregulated Conditions",
+
         ],
     },
     {
-        track: "Track 2: Power Electronics, Drives and Intelligent Control",
+        track: "Track 2: Power Electronics Applications and Drives",
         topics: [
-            "Topological Development of Power Electronic Converters",
-            "Design, Development, and Modeling of Power Electronic Converters",
-            "Coordinated Control of Power Converters for Microgrid",
-            "Advanced Topologies for Electronically Coupled Energy Generation Sources",
-            "Power Converter Topologies for Electric Vehicle Applications",
-            "Multilevel Inverter Topologies and Design Aspects",
-            "Renewable Energy Integration and Grid Code Compliance Studies",
-            "Integration of Hybrid System with the Utility Grid",
-            "Solar and Wind Energy Integration using Power Converter and their Coordinated Control",
+            "Converter topologies, modeling, and control",
+            "Power quality aspects",
+            "Electric machines and drives",
+            "Electric vehicles (EV) and charging infrastructure",
+            "Power converter topologies for electric vehicle applications",
+            "Power Electronics and Motor Control for EV Applications",
+            "Wireless Charging, G2V and V2G Applications",
+            "Energy storage management systems",
+            "Condition monitoring of power processing equipment",
+            "HVDC and FACTS"
+
         ],
     },
     {
-        track: "Track 3: Instrumentation, Control and Signal Processing",
+        track: "Track 3: Renewable Energy Integration and Control",
         topics: [
-            "Robotic Design, Development and Control",
-            "Power Quality and Conditioning Monitoring",
-            "Intelligent Signal Processing Techniques",
-            "Metaheuristic Optimization Algorithms",
-            "Biomedical Instrumentation and Control",
-            "System Identification Methods",
-            "Intelligent Multi-agent Control Systems",
-            "Image Processing for High Voltage Applications",
-            "Reinforcement Learning, Deep Learning based Control of Robots",
+            "Green energy generation technologies",
+            "Power electronics-based interfaces and controls",
+            "Microgrid management",
+            "Distributed energy resources operation",
+            "Planning towards decarbonized grid",
+            "Renewable energy and grid connectivity requirements and practice in India",
+            "Seamless transition of Microgrid from GC to SA under electrical anomalies",
+            "Technology developments and research in the field of green hydrogen energy",
+            "Application of artificial intelligence based techniques for converter control",
+            "Real-time and Hardware-in-the-Loop (HIL) simulation of power converters",
+            "Power systems with low inertia",
+            "Operation planning with distributed generation",
+            "Energy storage systems (batteries, pump, hydro,flywheels, hydrogen)",
+            "Renewable energy to power electrolysers",
+            "Black start capability of renewable power plants"
         ],
     },
     {
-        track: "Track 4: Artificial Intelligence and Data Science",
+        track: "Track 4: Smart Grids Planning, Operation and Analysis",
+        topics: [
+           "New methods/tools for smart grid planning and operation",
+           "Advanced load and renewable forecasting, state estimation",
+           "Grid congestion and uncertainty management",
+           "Transient stability studies of low-inertia power systems",
+           "AI and ML applications in optimizing the integration of renewable energy sources",
+           "AI, Machine learning, data science, and IoT for energy enabling technologies",
+           "Hybrid AC/DC grids",
+           "Distribution and transmission coordination",
+           "Intelligent protection and control strategies",
+           "ICT and Cyber-security",
+           "Regulatory frameworks and policies",
+           "Demand response flexibility and demand side management",
+           "Local energy communities, prosumers, aggregators, and microgrids",
+        ],
+    },
+
+    {
+        track: "Track 5: Artificial Intelligence and Data Science",
         topics: [
             "Data Mining",
             "Big Data Analytics",
@@ -52,10 +123,11 @@ export const TRACKS = [
             "Machine Learning",
             "Deep Learning",
             "Generative Adversarial Networks",
+            "Medical Image Processing",
         ],
     },
     {
-        track: "Track 5: Communication, Networks & IoT",
+        track: "Track 6: Communication, Networks & IoT",
         topics: [
             "Broadband Connectivity for 5G and Beyond",
             "Next Generation Networks",
@@ -73,7 +145,7 @@ export const TRACKS = [
         ],
     },
     {
-        track: "Track 6: Next-Generation Computing and Applications",
+        track: "Track 7: Next-Generation Computing and Applications",
         topics: [
             "Quantum Computing",
             "Edge and Fog Computing",
@@ -89,7 +161,7 @@ export const TRACKS = [
         ],
     },
     {
-        track: "Track 7: Security & Privacy",
+        track: "Track 8: Security & Privacy",
         topics: [
             "Botnet Detection and Mitigation",
             "Network Security and Protocols",
@@ -111,7 +183,7 @@ export const TRACKS = [
         ],
     },
     {
-        track: "Track 8: RF/Microwave/Terahertz Technologies",
+        track: "Track 9: RF/Microwave/Terahertz Technologies",
         topics: [
             "Em Theory and Computational Techniques",
             "Frequency Selective Surfaces, Metamaterial, Metasurface and Absorber.",
@@ -125,7 +197,7 @@ export const TRACKS = [
         ],
     },
     {
-        track: "Track 9: Semiconductor Devices",
+        track: "Track 10: Semiconductor Devices",
         topics: [
             "Nanoelectronic Devices",
             "Semiconductor Processes and Process Tools",
@@ -139,7 +211,7 @@ export const TRACKS = [
         ],
     },
     {
-        track: "Track 10: VLSI & Embedded Systems",
+        track: "Track 11: VLSI & Embedded Systems",
         topics: [
             "Analog, Mixed-Signal and RF Circuits",
             "Emerging Computing and Post-CMOS Technologies",
@@ -156,7 +228,7 @@ export const TRACKS = [
         ],
     },
     {
-        track: "Track 11: Nanotechnology Materials and Devices",
+        track: "Track 12: Nanotechnology Materials and Devices",
         topics: [
             "Physics and Modeling of Semiconductor Materials & Devices",
             "Nanostructures/2D Materials",
@@ -169,7 +241,7 @@ export const TRACKS = [
         ],
     },
     {
-        track: "Track 12: Education Technologies",
+        track: "Track 13: Education Technologies",
         topics: [
             "Augmented, Virtual and Mixed Reality in Education",
             "Collaborative and Blended Learning",
@@ -182,7 +254,7 @@ export const TRACKS = [
         ],
     },
     {
-        track: "Track 13: Women in Engineering",
+        track: "Track 14: Women in Engineering",
         topics: [
             "Empowering Women in Leadership Role",
             "Shaping Women's Education and Careers",

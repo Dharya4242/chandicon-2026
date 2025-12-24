@@ -45,43 +45,46 @@ function CallForPapers() {
 
             <div className={styles.technical_tracks}>
                 <p className={styles.paper_track}>
-                    Track 1: Power and Energy Systems
+                    Track 1: Power System Operation, Monitoring and Control
                 </p>
                 <p className={styles.paper_track}>
-                    Track 2 : Power Electronics, Drives and Intelligent Control{" "}
+                    Track 2: Power Electronics Applications and Drives
                 </p>
                 <p className={styles.paper_track}>
-                    Track 3 : Instrumentation, Control and Signal Processing
+                    Track 3: Renewable Energy Integration and Control
                 </p>
                 <p className={styles.paper_track}>
-                    Track 4 : Artificial Intelligence and Data Science
+                    Track 4: Smart Grids Planning, Operation and Analysis
                 </p>
                 <p className={styles.paper_track}>
-                    Track 5 : Communication, Networks & IoT
+                    Track 5: Artificial Intelligence and Data Science
                 </p>
                 <p className={styles.paper_track}>
-                    Track 6 : Next Generation Computing and Applications
+                    Track 6: Communication, Networks & IoT
                 </p>
                 <p className={styles.paper_track}>
-                    Track 7 : Security & Privacy{" "}
+                    Track 7: Next Generation Computing and Applications
                 </p>
                 <p className={styles.paper_track}>
-                    Track 8 : RF/Microwave/Terahertz Technologies
+                    Track 8: Security & Privacy{" "}
                 </p>
                 <p className={styles.paper_track}>
-                    Track 9 : Semiconductor Devices{" "}
+                    Track 9: RF/Microwave/Terahertz Technologies
                 </p>
                 <p className={styles.paper_track}>
-                    Track 10 : VLSI & Embedded Systems
+                    Track 10: Semiconductor Devices{" "}
                 </p>
                 <p className={styles.paper_track}>
-                    Track 11 : Nanotechnology Materials and Devices
+                    Track 11: VLSI & Embedded Systems
                 </p>
                 <p className={styles.paper_track}>
-                    Track 12 : Education Technologies
+                    Track 12: Nanotechnology Materials and Devices
                 </p>
                 <p className={styles.paper_track}>
-                    Track 13 : Women in Engineering
+                    Track 13: Education Technologies
+                </p>
+                <p className={styles.paper_track}>
+                    Track 14: Women in Engineering
                 </p>
             </div>
 
