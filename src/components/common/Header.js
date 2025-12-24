@@ -27,7 +27,7 @@ function Header() {
                     <img
                         src={getAssetName(
                             // "/assets/logos/1.png"
-                            "/assets/logos/logo_chandicon1.png"
+                            "/assets/logos/logo_blue.png"
                         )}
                         alt="chandicon 2026"
                         className={styles.logo}
