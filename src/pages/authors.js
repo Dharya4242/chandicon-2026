@@ -166,7 +166,7 @@ function authors() {
                 </div>
                 <div className={styles.register}>
                     <a
-                        href="https://web.ticketdude.app/e/72"
+                        // href="https://web.ticketdude.app/e/72"
                         target="_blank"
                         referrerPolicy="no-referrer"
                     >
