@@ -23,7 +23,7 @@ function CallForPapers() {
             <div className={styles.paper_wrapper}>
                 <div className={styles.register}>
                     <a
-                        href="/CFP CHANDICON 2026 Extended Deadline.pdf"
+                        // href="/CFP CHANDICON 2026 Extended Deadline.pdf"
                         target="_blank"
                         referrerPolicy="no-referrer"
                     >
@@ -32,7 +32,7 @@ function CallForPapers() {
                 </div>
                 <div className={styles.register}>
                     <a
-                        href="https://cmt3.research.microsoft.com/INDISCON2026/"
+                        // href="https://cmt3.research.microsoft.com/INDISCON2026/"
                         target="_blank"
                         referrerPolicy="no-referrer"
                     >

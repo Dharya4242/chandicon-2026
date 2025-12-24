@@ -27,8 +27,8 @@ function Contact() {
                     <p> Punjab Engineering College, </p>
                     <p>(Deemed to be University),</p>
                     <p>Sector 12, Chandigarh, India</p>
-                    <a href="mailto:ieeeindiscon2026@gmail.com">
-                        ieeeindiscon2026@gmail.com
+                    <a href="mailto:ieeechandicon2026@gmail.com">
+                        ieeechandicon2026@gmail.com
                     </a>
                 </div>
             </div>

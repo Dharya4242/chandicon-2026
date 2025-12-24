@@ -13,14 +13,14 @@ function authors() {
                     Authors are requested to submit their original research
                     papers in{" "}
                     <a
-                        href="http://www.ieee.org/conferences_events/conferences/publishing/templates.html"
+                        // href="http://www.ieee.org/conferences_events/conferences/publishing/templates.html"
                         target="_blank"
                     >
                         IEEE format
                     </a>{" "}
                     through the{" "}
                     <a
-                        href="https://cmt3.research.microsoft.com/INDISCON2026/"
+                        // href="https://cmt3.research.microsoft.com/INDISCON2026/"
                         target="_blank"
                     >
                         submission link
@@ -156,11 +156,11 @@ function authors() {
                             
             <div className={styles.paper_wrapper}>
                 <div className={styles.register}>
-                    <a
+                    {/* <a
                         href="https://cmt3.research.microsoft.com/INDISCON2026/"
                         target="_blank"
                         referrerPolicy="no-referrer"
-                    >
+                    > */}
                         <button>Submit your Camera Ready paper</button>
                     </a>
                 </div>
