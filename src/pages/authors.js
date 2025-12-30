@@ -145,7 +145,7 @@ function authors() {
                     Authors are requested to carefully read the guidelines before submitting
                         Camera ready paper. Click {" "}
                     <a
-                        href="/Instructions for Camera Ready Submission Guidelines.pdf"
+                        // href="/Instructions for Camera Ready Submission Guidelines.pdf"
                         target="_blank"
                     >
                         here
@@ -161,7 +161,7 @@ function authors() {
                         target="_blank"
                         referrerPolicy="no-referrer"
                     >
-                        <button>Submit your Camera Ready paper</button>
+                        {/* <button>Submit your Camera Ready paper</button> */}
                     </a>
                 </div>
                 <div className={styles.register}>
@@ -170,7 +170,7 @@ function authors() {
                         target="_blank"
                         referrerPolicy="no-referrer"
                     >
-                        <button>Conference Registration</button>
+                        {/* <button>Conference Registration</button> */}
                     </a>
                 </div>
             </div>

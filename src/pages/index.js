@@ -267,7 +267,7 @@ export default function Home() {
                             >
                                     {/*<button>Submit Camera Ready Paper</button>*/}
                                 {/* <button>List of accepted papers</button> */}
-                                <button>Final Schedule of the Conference</button>
+                                {/* <button>Final Schedule of the Conference</button> */}
                             </a>
                         </div>
 
@@ -279,7 +279,7 @@ export default function Home() {
                                 target="_blank"
                                 referrerPolicy="no-referrer"
                             >
-                                <button>Conference Registration</button>
+                                {/* <button>Conference Registration</button> */}
                             </a>
                         </div>
 
@@ -292,7 +292,7 @@ export default function Home() {
                                 referrerPolicy="no-referrer"
                             >
                                 {/* <button>Submit Camera Ready Paper</button> */}
-                                <button> Oral and Poster presentation guidelines</button>
+                                {/* <button> Oral and Poster presentation guidelines</button> */}
                                 {/* <button>List of accepted papers</button>*/}
                             </a>
                         </div>

@@ -86,13 +86,13 @@ function createData(
 }
 
 const ieeeRows = [
-    createData("Indian Participant", "₹5,000", "₹6,500", "₹6,000", "₹8,000"),
-    createData("Foriegn Participant", "$150", "$250", "$250", "$300"),
+    createData("Indian Participant", "₹6,000", "₹8,000", "₹7,000", "₹9,000"),
+    createData("Foriegn Participant", "$200", "$300", "$300", "$400"),
 ];
 
 const nonIeeeRows = [
-    createData("Indian Participant", "₹6,000", "₹8,500", "₹7,500", "₹10,000"),
-    createData("Foriegn Participant", "$200", "$350", "$400", "$450"),
+    createData("Indian Participant", "₹7,000", "₹9,000", "₹8,500", "₹10,500"),
+    createData("Foriegn Participant", "$250", "$400", "$400", "$550"),
 ];
 
 function Registration() {
@@ -216,7 +216,7 @@ function Registration() {
                     target="_blank"
                     referrerPolicy="no-referrer"
                 >
-                    <button>Conference Registration</button>
+                    {/* <button>Conference Registration</button> */}
                 </a>
             </div>
             <p style={{ margin: "20px 0", textAlign: 'center', fontWeight: "600" }}>

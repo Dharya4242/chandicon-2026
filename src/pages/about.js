@@ -260,7 +260,7 @@ function About() {
                         across engineering and technology disciplines.
                     </p>{" "}
                     <a
-                        href="https://ieeeindiacouncil.org/"
+                        href="https://r10.ieee.org/delhi/"
                         target="_blank"
                         referrerPolicy="no-referrer"
                     >
