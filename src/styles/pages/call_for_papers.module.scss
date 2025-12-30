@@ -138,3 +138,17 @@
 .paper_track {
     margin-top: 10px;
 }
+
+/* Track Details bullet indentation */
+.topicList {
+    padding-left: 60px;   // left spacing for bullets
+    margin-left: 0;
+}
+
+.topicList li {
+    padding-left: 8px;    // spacing between bullet and text
+    line-height: 25px;
+}
+.sectionSpacing {
+    margin-top: 40px;   // controls vertical space above
+}

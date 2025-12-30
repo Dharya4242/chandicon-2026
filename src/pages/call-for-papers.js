@@ -20,7 +20,7 @@ function CallForPapers() {
                 Questionnaire (TPQ) on the Conference.
             </p>
 
-            <div className={styles.paper_wrapper}>
+            {/* <div className={styles.paper_wrapper}>
                 <div className={styles.register}>
                     <a
                         // href="/CFP CHANDICON 2026 Extended Deadline.pdf"
@@ -39,9 +39,9 @@ function CallForPapers() {
                         <button>Submit your paper</button>
                     </a>
                 </div>
-            </div>
+            </div> */}
             
-            <h2 className={styles.subheading}>Technical Tracks</h2>
+            <h2 className={`${styles.subheading} ${styles.sectionSpacing}`}>Technical Tracks</h2>
 
             <div className={styles.technical_tracks}>
                 <p className={styles.paper_track}>
@@ -60,32 +60,35 @@ function CallForPapers() {
                     Track 5: Artificial Intelligence and Data Science
                 </p>
                 <p className={styles.paper_track}>
-                    Track 6: Communication, Networks & IoT
+                    Track 6: Computer Networks & IoT
                 </p>
                 <p className={styles.paper_track}>
-                    Track 7: Next Generation Computing and Applications
+                    Track 7: Next-Generation Computing and Applications
                 </p>
                 <p className={styles.paper_track}>
-                    Track 8: Security & Privacy{" "}
+                    Track 8: Security & Privacy
                 </p>
                 <p className={styles.paper_track}>
-                    Track 9: RF/Microwave/Terahertz Technologies
+                    Track 9: Communication & Signal Processing
                 </p>
                 <p className={styles.paper_track}>
-                    Track 10: Semiconductor Devices{" "}
+                    Track 10: RF/Microwave/Terahertz Technologies
                 </p>
                 <p className={styles.paper_track}>
-                    Track 11: VLSI & Embedded Systems
+                    Track 11: Semiconductor Devices
                 </p>
                 <p className={styles.paper_track}>
-                    Track 12: Nanotechnology Materials and Devices
+                    Track 12: VLSI & Embedded Systems
                 </p>
                 <p className={styles.paper_track}>
-                    Track 13: Education Technologies
+                    Track 13: Nanotechnology Materials and Devices
                 </p>
                 <p className={styles.paper_track}>
+                    Track 14: Quantum Technologies
+                </p>
+                {/* <p className={styles.paper_track}>
                     Track 14: Women in Engineering
-                </p>
+                </p> */}
             </div>
 
             <h2 className={styles.subheading}>Track Details</h2>
@@ -101,7 +104,7 @@ function CallForPapers() {
                         <h3>
                             <u>{track}</u>
                         </h3>
-                        <ul>
+                        <ul className={styles.topicList}>
                             {topics.map((topic, j) => {
                                 return <li key={j}>{topic}</li>;
                             })}

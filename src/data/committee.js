@@ -2,7 +2,7 @@ export const COMMITTEE = {
     "Executive Steering Committee": [
         {
             name: "Sh. Deepak Mathur",
-            designation: "2024 IEEE Vice President-MGA",
+            designation: "Ombudsman, IEEE India Council",
             image_url: "/assets/committee/sh-deepak-mathur.jpg",
             link: "https://ieee-edusociety.org/files/ieeeedusociety/media/documents/Deepak.pdf",
         },
@@ -28,7 +28,7 @@ export const COMMITTEE = {
         {
             name: "Prof. Preeti Bajaj",
             designation:
-                "Vice Chair Sustainable Activities, IEEE India Council",
+                "Chair Elect, IEEE India Council",
             image_url: "/assets/committee/prof-preti-bajaj.jpg",
             link: "https://www.preetibajaj.in/",
         },
@@ -108,7 +108,7 @@ export const COMMITTEE = {
             designation:
                 "Director General, Central Power Research Institute, Bengaluru",
             image_url: "/assets/committee/DrJSreedeviCPRI.jpeg",
-            link: "https://cpri.res.in/en/director-general",
+            link: "https://cpri.res.in/en/content/dr-j-sreedevi-director-general-0",
         },
         // {
         //     name: "Mr. B A Sawale",
@@ -128,7 +128,7 @@ export const COMMITTEE = {
         },
         {
             name: "Prof. Manish Hooda",
-            designation: "Semi-Conductor Laboratory, Mohali",
+            designation: "Indian Semiconductor Mission, MeitY (GoI)",
             image_url: "/assets/committee/prof-manish-kumar-hooda.jpg",
             link: "https://www.linkedin.com/in/dr-manish-kumar-hooda-10081a24",
         },
@@ -136,7 +136,7 @@ export const COMMITTEE = {
             name: "Dr. Puneet Mishra",
             designation: "Vice Chair, IEEE India Council Technical Activities",
             image_url: "/assets/committee/puneet-kumar-mishra.jpeg",
-            link: "https://ieee-aess.org/contact/puneet-kumar-mishra",
+            link: "https://www.linkedin.com/in/puneet-kumar-mishra-252aba5/",
         },
     ],
     // "International Advisory Committee": [
@@ -403,7 +403,14 @@ export const COMMITTEE = {
             designation: "PEC, Chandigarh",
             image_url: "/assets/committee/DrDeepakPEC.png",
             link: "https://pec.ac.in/ece/faculty/deepak-kumar-sharma",
-        },  
+        }, 
+        {
+            name: "Dr. Balwinder Singh Dhaliwal",
+            designation: "NITTTR, Chandigarh",
+            image_url: "/assets/committee/DrBalwinderNITTTR.jpeg",
+            link: "https://www.linkedin.com/in/balwinder-s-dhaliwal-2080a1122",
+        }, 
+
     ],
     "International Liaison Chairs": [
         {
@@ -459,12 +466,6 @@ export const COMMITTEE = {
             image_url: "/assets/committee/prof-jawar-singh.jpg",
             link: "https://www.iitp.ac.in/index.php/2-uncategorised/191-view-profile-5",
         },
-        // {
-        //     name: "Prof. Balwinder Raj",
-        //     designation: "NIT Jalandhar",
-        //     image_url: "/assets/committee/prof-balwinder-raj.jpg",
-        //     link: "https://v1.nitj.ac.in/index.php/nitj_cinfo/Faculty/42",
-        // },
         {
             name: "Dr. Nitin Auluck",
             designation: "Indian Institute of Technology, Ropar",
@@ -518,7 +519,6 @@ export const COMMITTEE = {
         },
     ],
     "Local Arrangement Chairs": [
-        
         {
             name: "Prof. R. S. Walia",
             designation: "Punjab Engineering College, Chandigarh",
@@ -539,6 +539,12 @@ export const COMMITTEE = {
         },
     ],
     "Local Arrangement Co-Chairs": [
+        {
+            name: "Prof. Balwinder Raj",
+            designation: "NIT Jalandhar",
+            image_url: "/assets/committee/prof-balwinder-raj.jpg",
+            link: "https://v1.nitj.ac.in/index.php/nitj_cinfo/Faculty/42",
+        },
         {
             name: "Mr. Sushil Kumar",
             designation: "PEC, Chandigarh",
