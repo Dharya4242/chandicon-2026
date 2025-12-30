@@ -127,7 +127,7 @@ export const TRACKS = [
         ],
     },
     {
-        track: "Track 6: Communication, Networks & IoT",
+        track: "Track 6: Computer Networks & IoT",
         topics: [
             "Broadband Connectivity for 5G and Beyond",
             "Next Generation Networks",
@@ -183,7 +183,28 @@ export const TRACKS = [
         ],
     },
     {
-        track: "Track 9: RF/Microwave/Terahertz Technologies",
+        track: "Track 9: Communication & Signal Processing",
+        topics: [
+            "Wireless Communication Systems",
+            "Mobile Networking, 5G and Beyond",
+            "Cognitive Radio Networks",
+            "Software-Defined Networking (SDN)",
+            "Information Theory", 
+            "Communication Hardware Design",
+            "Multimedia Communication Systems",
+            "Quantum Communication, Network Performance Optimization",
+            "Digital Signal Processing (DSP)",
+            "Image Enhancement and Restoration, Image Compression",
+            "Biomedical Signal Processing",
+            "Remote Sensing, Speech Processing",
+            "Multimedia Signal Processing, Sparse Signal Processing",
+            "Real-Time Signal and Image Processing",
+            "Nonlinear Signal Processing",
+            "Audio Signal Processing, and Speech Processing",
+        ],
+    },
+    {
+        track: "Track 10: RF/Microwave/Terahertz Technologies",
         topics: [
             "Em Theory and Computational Techniques",
             "Frequency Selective Surfaces, Metamaterial, Metasurface and Absorber.",
@@ -197,7 +218,7 @@ export const TRACKS = [
         ],
     },
     {
-        track: "Track 10: Semiconductor Devices",
+        track: "Track 11: Semiconductor Devices",
         topics: [
             "Nanoelectronic Devices",
             "Semiconductor Processes and Process Tools",
@@ -211,7 +232,7 @@ export const TRACKS = [
         ],
     },
     {
-        track: "Track 11: VLSI & Embedded Systems",
+        track: "Track 12: VLSI & Embedded Systems",
         topics: [
             "Analog, Mixed-Signal and RF Circuits",
             "Emerging Computing and Post-CMOS Technologies",
@@ -228,7 +249,7 @@ export const TRACKS = [
         ],
     },
     {
-        track: "Track 12: Nanotechnology Materials and Devices",
+        track: "Track 13: Nanotechnology Materials and Devices",
         topics: [
             "Physics and Modeling of Semiconductor Materials & Devices",
             "Nanostructures/2D Materials",
@@ -240,31 +261,31 @@ export const TRACKS = [
             "Nanopackaging & Nanomagnetics",
         ],
     },
-    {
-        track: "Track 13: Education Technologies",
-        topics: [
-            "Augmented, Virtual and Mixed Reality in Education",
-            "Collaborative and Blended Learning",
-            "Technology Integration: New Trends and Modern Approaches",
-            "Digital Literacy in Higher Education",
-            "Creative and Innovative Teaching Methods",
-            "AI-ML in Education",
-            "Technology Coaching and Professional Learning",
-            "Project Based Learning and Computational Thinking",
-        ],
-    },
-    {
-        track: "Track 14: Women in Engineering",
-        topics: [
-            "Empowering Women in Leadership Role",
-            "Shaping Women's Education and Careers",
-            "Challenges Faced by Women in Stem Professions",
-            "Ground Breaking Research Conducted by Women",
-            "Impactful Research and Innovation by Women in Stem Disciplines",
-            "Future of Women in Engineering and Science",
-            "Role of Technology in Advancing Women in Stem",
-            "Diversity & Inclusivity: Women & Computing",
-            "Women in Stem: Global Perspectives",
-        ],
-    },
+    // {
+    //     track: "Track 13: Education Technologies",
+    //     topics: [
+    //         "Augmented, Virtual and Mixed Reality in Education",
+    //         "Collaborative and Blended Learning",
+    //         "Technology Integration: New Trends and Modern Approaches",
+    //         "Digital Literacy in Higher Education",
+    //         "Creative and Innovative Teaching Methods",
+    //         "AI-ML in Education",
+    //         "Technology Coaching and Professional Learning",
+    //         "Project Based Learning and Computational Thinking",
+    //     ],
+    // },
+    // {
+    //     track: "Track 14: Women in Engineering",
+    //     topics: [
+    //         "Empowering Women in Leadership Role",
+    //         "Shaping Women's Education and Careers",
+    //         "Challenges Faced by Women in Stem Professions",
+    //         "Ground Breaking Research Conducted by Women",
+    //         "Impactful Research and Innovation by Women in Stem Disciplines",
+    //         "Future of Women in Engineering and Science",
+    //         "Role of Technology in Advancing Women in Stem",
+    //         "Diversity & Inclusivity: Women & Computing",
+    //         "Women in Stem: Global Perspectives",
+    //     ],
+    // },
 ];
