@@ -76,7 +76,7 @@ function authors() {
                     <ul>
                         <li>
                             <FaArrowRight /> Pay for conference registration
-                            here: IEEE CHANDICON 2026 registration site
+                            here: IEEE CHANDICON 2026 registration site (link will be provided soon)
                         </li>
                         <li>
                             <FaArrowRight /> Final submission is REQUIRED, even
@@ -91,7 +91,7 @@ function authors() {
                         </li>
                         <li>
                             <FaArrowRight /> Prepare a copy of your paper in PDF
-                            format using our templates
+                            format using IEEE template.
                         </li>
                         <li>
                             <FaArrowRight /> MANDATORY: Make sure your PDF file
@@ -104,7 +104,7 @@ function authors() {
                             password you created during your initial submission.
                         </li>
                         <li>
-                            <FaArrowRight /> Do NOT apply security settings to
+                            <FaArrowRight /> DO NOT apply security settings to
                             your PDF file.
                         </li>
                     </ul>
