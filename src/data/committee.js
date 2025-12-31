@@ -384,7 +384,7 @@ export const COMMITTEE = {
         //     link: "https://pec.ac.in/cse/faculty/sandeep-kumar-harit",
         // },
     ],
-    "Convenors": [
+    "Conveners": [
         {
             name: "Simranjit Singh",
             designation: "PEC, Chandigarh",
@@ -723,12 +723,19 @@ export const COMMITTEE = {
     ],
 
     "Technical Track Chairs": [
+        // {
+        //     name: "Manas Kumar Jena",
+        //     designation: "Indian Institute of Technology, Palakkad",
+        //     image_url: "/assets/committee/DrManasIITPalakkad.jpg",
+        //     track: "Power System Operation, Monitoring and Control",
+        //     link: "https://iitpkd.ac.in/people/mkj",
+        // },
         {
-            name: "Manas Kumar Jena",
-            designation: "Indian Institute of Technology, Palakkad",
-            image_url: "/assets/committee/DrManasIITPalakkad.jpg",
+            name: "Pratyasa Bhui",
+            designation: "Indian Institute of Technology, Dharwad",
+            image_url: "/assets/committee/DrPratyasaIITDH.jpg",
             track: "Power System Operation, Monitoring and Control",
-            link: "https://iitpkd.ac.in/people/mkj",
+            link: "https://www.iitdh.ac.in/pbhui/",
         },
         {
             name: "Ujjawal Kumar Kala",
