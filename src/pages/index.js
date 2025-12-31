@@ -109,13 +109,13 @@ export default function Home() {
                 <div className={styles.info}>
                     <p>
 
-                        IEEE CHANDICON is a flagship annual international conference 
+                        IEEE CHANDICON is a flagship annual international conference
                         of IEEE Chandigarh Subsection. CHANDICON 2026, scheduled during
-                        August 20-22, 2026, is being organized by IEEE Chandigarh 
-                        Subsection under the guidence of IEEE India Council & IEEE Delhi Section. 
-                        The conference will be hosted by Punjab Engineering College 
-                        (Deemed to beUniversity), Chandigarh. The conference aims to 
-                        provide an interdisciplinary platform for the academicians, 
+                        August 20-22, 2026, is being organized by IEEE Chandigarh
+                        Subsection under the guidence of IEEE India Council & IEEE Delhi Section.
+                        The conference will be hosted by Punjab Engineering College
+                        (Deemed to beUniversity), Chandigarh. The conference aims to
+                        provide an interdisciplinary platform for the academicians,
                         researchers, industry professionals and research scholars to exchange and
                         share their knowledge, experience & research. Papers that are selected and
                         presented at the conference will be submitted to IEEE Xplore.
@@ -256,7 +256,7 @@ export default function Home() {
                                 referrerPolicy="no-referrer"
                                 title="Will be activated soon..."
                             >
-                                    {/* <button>Submit Paper</button> */}
+                                {/* <button>Submit Paper</button> */}
                                 <button>Call for Papers</button>
                                 {/* <button>Final Schedule of the Conference</button> */}
                             </a>
@@ -275,15 +275,15 @@ export default function Home() {
                                 {/* <button>List of accepted papers</button>*/}
                             </a>
                         </div>
-                                
+
                     </div>
                 </div>
-               
+
                 {/* <div>
                  <p style={{ color: 'red', textAlign: 'center', fontSize: '22px' }}>
                    Click <a href="/Instructions for Camera Ready Submission Guidelines.pdf" target="_blank" style={{ color: 'blue' }}>here</a> for Camera ready paper submission guidelines. */}
-                   {/* and click <a href="https://web.ticketdude.app/e/72" target="_blank" style={{ color: 'blue' }}>here</a> for registration.  */}
-                 {/* </p>
+                {/* and click <a href="https://web.ticketdude.app/e/72" target="_blank" style={{ color: 'blue' }}>here</a> for registration.  */}
+                {/* </p>
                  </div> */}
 
             </PageLayout>
