@@ -126,9 +126,7 @@ export const TRACKS = [
     {
         track: "Track 6: Computer Networks & IoT",
         topics: [
-            "Broadband connectivity for 5G and beyond",
             "Next-generation networks",
-            "Antenna technologies",
             "Communication and network protocols",
             "Modulation and coding techniques",
             "Simulation results, proof-of-concepts, testbeds, and trials",
@@ -139,6 +137,7 @@ export const TRACKS = [
             "Wireless sensor networks and security",
             "Ultra-low power technologies and embedded architectures for IoT devices",
             "Internet of robotic things",
+            "Ad Hoc Networks",
         ],
     },
     {
@@ -205,6 +204,7 @@ export const TRACKS = [
         topics: [
             "Electromagnetic theory and computational techniques",
             "Frequency selective surfaces, metamaterials, metasurfaces, and absorbers",
+            "Microwave, millimeter-wave, and terahertz antennas",
             "Planar, ultra-wideband, phased array, and dielectric resonator antennas",
             "Radar, SAR, and microwave imaging",
             "High-power microwave devices",
