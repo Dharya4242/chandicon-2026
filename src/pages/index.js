@@ -108,18 +108,17 @@ export default function Home() {
 
                 <div className={styles.info}>
                     <p>
-                        CHANDICON is a flagship annual international conference
-                        of the IEEE Chandigarh Subsection. CHANDICON 2026 scheduled during
-                        August 20-22, 2026, is being organized by IEEE
-                        Chandigarh Subsection along with IEEE India Council. The
-                        conference will be hosted by Punjab Engineering College
-                        (Deemed to be University), Chandigarh. The conference
-                        aims to provide an interdisciplinary platform for the
-                        academicians, researchers, industry professionals and
-                        research scholars to exchange and share their knowledge,
-                        experience & research. Papers that are selected and
-                        presented at the conference will be submitted to IEEE
-                        Xplore.
+
+                        IEEE CHANDICON is a flagship annual international conference 
+                        of IEEE Chandigarh Subsection. CHANDICON 2026, scheduled during
+                        August 20-22, 2026, is being organized by IEEE Chandigarh 
+                        Subsection under the guidence of IEEE India Council & IEEE Delhi Section. 
+                        The conference will be hosted by Punjab Engineering College 
+                        (Deemed to beUniversity), Chandigarh. The conference aims to 
+                        provide an interdisciplinary platform for the academicians, 
+                        researchers, industry professionals and research scholars to exchange and
+                        share their knowledge, experience & research. Papers that are selected and
+                        presented at the conference will be submitted to Xplore.
                     </p>
                 </div>
 

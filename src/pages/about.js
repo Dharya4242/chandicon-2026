@@ -84,14 +84,14 @@ function About() {
             <div className={styles.about}>
                 <div className={styles.description}>
                     <p className={styles.about_text}>
-                        <span className={styles.emphasize}>CHANDICON</span> is
-                        1st annual international conference of IEEE Chandigarh Subsection.
-                        CHANDICON 2026 scheduled during{" "}
+                        <span className={styles.emphasize}>IEEE CHANDICON</span> is
+                        a flagship annual international conference of IEEE Chandigarh Subsection.
+                        CHANDICON 2026, scheduled during{" "}
                         <span className={styles.emphasize}>
                             August 20-22, 2026
                         </span>
-                        , is being organized by IEEE Chandigarh Subsection along
-                        with IEEE Delhi Section. The
+                        , is being organized by IEEE Chandigarh Subsection under the guidence of 
+                        IEEE India Council & IEEE Delhi Section. The
                         conference will be hosted by{" "}
                         <span className={styles.emphasize}>
                             {" "}
@@ -101,7 +101,7 @@ function About() {
                         . The conference aims to provide an interdisciplinary
                         platform for the academicians, researchers, industry
                         professionals and research scholars to exchange and
-                        share their knowledge, experience & research.
+                        share their knowledge, experience & research. 
                         Previous events organised by PEC & IEEE Chandigarh Subsection are:
                     </p>
                     {/* <a href="https://ieeexplore.ieee.org/xpl/conhome/1839985/all-proceedings">
