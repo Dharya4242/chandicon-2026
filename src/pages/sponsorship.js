@@ -209,7 +209,7 @@ function Sponsorship() {
 
             <p className={styles.note}>
                 To secure participation, please write to us at
-                ieeechandicon2026@gmail.com
+                ieeechandicon@gmail.com
             </p>
             <p></p>
 

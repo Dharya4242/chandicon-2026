@@ -354,7 +354,7 @@ function Registration() {
                                 textDecoration: "underline",
                             }}
                         >
-                            ieeeindiscon2026@gmail.com
+                            ieeeindiscon@gmail.com
                         </b>
                     </p>
                     <TableContainer sx={{ marginTop: "20px" }}>

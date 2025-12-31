@@ -32,7 +32,7 @@ function fellowship() {
                             color: "rgb(48, 111, 160)",
                         }}
                     >
-                        ieeechandicon2026@gmail.com
+                        ieeechandicon@gmail.com
                     </span>{" "}
                     with the following details:
                 </h4>
