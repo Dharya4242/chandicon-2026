@@ -78,6 +78,7 @@ function Venue() {
                 <ul style={{ marginLeft: '30px' }}>
                     <li><a href="https://citcochandigarh.com/hotel-shivalikview.php" target="_blank" rel="noopener noreferrer" className={styles.link}>Hotel Shivalikview, Sector-17</a></li>
                     <li><a href="https://citcochandigarh.com/hotel-mountview.php" target="_blank" rel="noopener noreferrer" className={styles.link}>Hotel Mountview, Sector-10</a></li>
+                    <li><a href="https://citcochandigarh.com/hotel-parkview.php" target="_blank" rel="noopener noreferrer" className={styles.link}>Hotel Parkview, Sector-24</a></li>
                     <li><a href="https://www.nitttrchd.ac.in/guesthouse/index.php" target="_blank" rel="noopener noreferrer" className={styles.link}>NITTTR Guest House, Sector-26</a></li>
                     <li><a href="https://forms.puchd.ac.in/forms.php" target="_blank" rel="noopener noreferrer" className={styles.link}>Panjab University Guest House, Sector-14</a></li>
                     <li><a href="http://admser.chd.nic.in/booking/webpages/booking1.aspx" target="_blank" rel="noopener noreferrer" className={styles.link}>UT Guest House, Sector-6</a></li>
