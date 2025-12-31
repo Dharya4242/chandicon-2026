@@ -254,6 +254,7 @@ export default function Home() {
                                 // href="/Final_schedule_of_conference_21082026.pdf"
                                 target="_blank"
                                 referrerPolicy="no-referrer"
+                                title="Will be activated soon..."
                             >
                                     {/* <button>Submit Paper</button> */}
                                 <button>Call for Papers</button>
@@ -267,6 +268,7 @@ export default function Home() {
                                 //href="/List of Oral and Posters.pdf"
                                 target="_blank"
                                 referrerPolicy="no-referrer"
+                                title="Will be activated soon..."
                             >
                                 <button>Submit Paper</button>
                                 {/* <button> Oral and Poster presentation guidelines</button> */}
