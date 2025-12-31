@@ -12,7 +12,7 @@ function CallForPapers() {
                 scientists, engineers, and practitioners throughout the world to
                 present their latest research findings, ideas, and applications
                 in the fields of interest which fall under the scope of CHANDICON
-                2026. Papers (upto 6 pages in .pdf) presented in the Conference, duly
+                2026. Papers (upto 6 pages in pdf format) presented in the Conference, duly
                 accepted after peer review, will be eligible for submission for
                 further consideration of publishing in the IEEE Xplore, subject
                 to maintenance of quality, and post-conference scrutiny of
