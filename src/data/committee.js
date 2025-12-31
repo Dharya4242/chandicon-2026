@@ -48,7 +48,7 @@ export const COMMITTEE = {
         
         
     ],
-    Patrons: [
+    Patron: [
         {
             name: "Rajesh Kumar Bhatia",
             designation: "Director, PEC, Chandigarh",
@@ -56,21 +56,21 @@ export const COMMITTEE = {
             link: "https://pec.ac.in/director",
         },
     ],
-    "Co-Patron": [
+    // "Co-Patron": [
         // {
         //     name: "A. Q. Ansari",
         //     designation: "Chair, IEEE Delhi Section",
         //     image_url: "/assets/committee/prof-aq-ansari.jpeg",
         //     link: "https://jmi.irins.org/profile/27474",
         // },
-        {
-            name: "Y. P. Verma",
-            designation: "Punjab University, Chandigarh",
-            image_url: "/assets/committee/prof-y.p.-verma.jpg",
-            link: "https://uiet.puchd.ac.in/wp-content/uploads/FacultyCV/EEE/Y-P-Verma.pdf",
-        },
+    //     {
+    //         name: "Y. P. Verma",
+    //         designation: "Punjab University, Chandigarh",
+    //         image_url: "/assets/committee/prof-y.p.-verma.jpg",
+    //         link: "https://uiet.puchd.ac.in/wp-content/uploads/FacultyCV/EEE/Y-P-Verma.pdf",
+    //     },
 
-    ],
+    // ],
     "Honorary Chair": [
         {
             name: "Rudra Pratap",
