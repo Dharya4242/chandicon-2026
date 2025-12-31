@@ -139,7 +139,7 @@ function authors() {
             </div>
         <br/>
          <br/>               
-            <div className={styles.submission}>
+            {/* <div className={styles.submission}>
                 <h2>Camera Ready Paper Submission Guidelines</h2>
                 <div className={styles.submission_details}>
                     Authors are requested to carefully read the guidelines before submitting
@@ -153,7 +153,7 @@ function authors() {
                     for the guidelines.
                 </div>
             </div>
-                            
+                             */}
             <div className={styles.paper_wrapper}>
                 <div className={styles.register}>
                     <a
