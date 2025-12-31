@@ -103,7 +103,7 @@ function CallForSessions() {
             <br/>
                 <ul style={{ paddingLeft: '20px' }}>
                     {/* <li> Proposal Submission Date: <span style={{ textDecoration: 'line-through' }}>March 15, 2026</span> <span style={{ color: 'red'}}>[Extended]: April 15, 2026 </span></li> */}
-                    <li> Proposal Submission Date: <span>Feb 28, 2026</span></li>
+                    <li> Proposal Submission Date: <span>March 15, 2026</span></li>
                     <li> To submit a proposal for a Special Session, the Special Session Organizer 
                         should send their proposal by e-mail at ieeechandicon@gmail.com. </li>
                 </ul>
