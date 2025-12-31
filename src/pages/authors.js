@@ -13,7 +13,7 @@ function authors() {
                     Authors are requested to submit their original research
                     papers in{" "}
                     <a
-                        // href="http://www.ieee.org/conferences_events/conferences/publishing/templates.html"
+                        href="http://www.ieee.org/conferences_events/conferences/publishing/templates.html"
                         target="_blank"
                     >
                         IEEE format
