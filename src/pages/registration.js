@@ -267,9 +267,8 @@ function Registration() {
                             The registration fee include the conference kit,
                             access/admission to tutorials &amp; technical
                             sessions, lunch on all conference days, morning and
-                            evening refreshments, banquet dinner,
-                            access/admission to cultural events as part of the
-                            conference.
+                            evening refreshments, access/admission to 
+                            cultural events as part of the conference.
                         </li>
                         <li>
                             Please note that the fee shown above are exclusive
