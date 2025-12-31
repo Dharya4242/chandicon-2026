@@ -52,16 +52,16 @@ const conferenceData = [
         theme: "Illuminating the future",
     },
     {
-        name: "5th IEEE India Council International Subsections Conference INDISCON 2024 (INDISCON 2024)",
-        dates: "August 22-24, 2024",
-        venue: "Punjab Engineering College, Sector 12, Chandigarh",
-        theme: "Science, Technology and Society",
-    },
-    {
         name: "29th International Symposium on VLSI Design and Test (VDAT 2025)",
         dates: "August 7-9, 2025",
         venue: "Hotel Shivalik View, Sector 17, Chandigarh",
         theme: "VLSI Design and Semiconductor Technology for Next Gen Chips & AI Applications.",
+    },
+    {
+        name: "5th IEEE India Council International Subsections Conference INDISCON 2024 (INDISCON 2024)",
+        dates: "August 22-24, 2024",
+        venue: "Hotel Shivalik View, Sector 17, Chandigarh",
+        theme: "Science, Technology and Society",
     },
     {
         name: "International Conference on Engineered Materials for Sustainable Development (EMSD-2024)",
@@ -102,7 +102,7 @@ function About() {
                         platform for the academicians, researchers, industry
                         professionals and research scholars to exchange and
                         share their knowledge, experience & research. 
-                        Previous events organised by PEC & IEEE Chandigarh Subsection are:
+                        Previous conferences organised by PEC & IEEE Chandigarh Subsection are:
                     </p>
                     {/* <a href="https://ieeexplore.ieee.org/xpl/conhome/1839985/all-proceedings">
                         Previous events organised by PEC & IEEE Chandigarh Subsection are: 

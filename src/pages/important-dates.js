@@ -15,25 +15,25 @@ import {useState} from 'react';
 const events = [
     {
         title: "Call for papers",
-        date: "January 01, 2026",
+        date: "January 10, 2026",
         description: "",
         icon: <AiOutlineForm />,
     },
     {
         title: "Call for tutorials and workshop proposals",
-        date: "January 01, 2026",
+        date: "January 10, 2026",
         description: "",
         icon: <Handshake />,
     },
     {
         title: "Last date of submission for regular papers",
-        date: "February 28, 2026",
+        date: "March 15, 2026",
         description: "",
         icon: <LaptopMac />,
     },
     {
         title: "Last date for submission of tutorials and workshop proposals",
-        date: "February 28, 2026",
+        date: "March 15, 2026",
         description: "",
         icon: <MdChecklist />,
     },
@@ -77,7 +77,7 @@ const events = [
 
 function ImportantDates() {
     const [updatedEvents, setUpdatedEvents] = useState(events.map(event => {
-        if (event.date === "March 31, 2026") {
+        if (event.date === "March 15, 2026") {
             return {
                 ...event,
                 date: (
