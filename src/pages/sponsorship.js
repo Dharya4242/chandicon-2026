@@ -42,7 +42,7 @@ function Sponsorship() {
 
             <h2 className={styles.subheading}>Sponsoring Packages</h2>
             <p className={styles.description}>
-                Five categories of sponsorship packages are available to suit
+                Six categories of sponsorship packages are available to suit
                 your needs at CHANDICON 2026. Sponsorship packages offer you a
                 unique and focused way to showcase your service, technology and
                 solutions, explore opportunities to outreach your potential
@@ -82,7 +82,7 @@ function Sponsorship() {
                         </TableRow>
                         <TableRow hover>
                             <TableCell>Academic Partners</TableCell>
-                            <TableCell>INR 1,00,000</TableCell>
+                            <TableCell>INR 2,00,000</TableCell>
                         </TableRow>
                         <TableRow hover>
                             <TableCell>Exhibitors</TableCell>
@@ -112,7 +112,7 @@ function Sponsorship() {
                     will appear in all announcement materials/documents
                     including banner, poster, proceedings of the conference.
                     Sponsors will be provided space (please mention your
-                    requirement at the time of the contract up to 5mx5m) at the
+                    requirement at the time of the contract upto 5mx5m) at the
                     very strategic place of the conference venue to showcase
                     their products. Compilmentry 10 registrations.
                 </p>
@@ -178,7 +178,7 @@ function Sponsorship() {
             <div className={styles.sponsor_class}>
                 <h3>Academic Partners</h3>
                 <p>
-                    Sponsorship amount: <span>Rs. 1,00,000/-</span>
+                    Sponsorship amount: <span>Rs. 2,00,000/-</span>
                 </p>
 
                 <p>
@@ -188,8 +188,8 @@ function Sponsorship() {
                     banner of the conference. Partner will be provided space
                     (Please mention your requirement at the time of the contract
                     upto 3mX3m) at the exhibition venue of the conference to
-                    showcase their Activities and Innovations. Compilmentry 1
-                    registration.
+                    showcase their Activities and Innovations. Compilmentry 2
+                    registrations.
                 </p>
             </div>
 
