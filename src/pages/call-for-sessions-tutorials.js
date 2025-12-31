@@ -17,7 +17,7 @@ function CallForSessions() {
             <br/>
             <p className={styles.subheading}>
                 Submission of proposals for such Special Sessions 
-                for the CHANDICON 2026 are welcome.</p>
+                for CHANDICON 2026 are welcome.</p>
             <br/><br/>
             <h2 className={styles.subheading}>Guidelines for Special Session Proposers</h2>
             <p className={styles.subheading}>
@@ -51,7 +51,7 @@ function CallForSessions() {
             who provides an oral presentation in the Special Session. The organizers provide 
             the name of the presenter together with an e-mail confirming their acceptance. 
             The presenter, together with possible co-authors, prepares a full paper and 
-            submits it to the CHANDICON 2026 conference by the stipulated deadline. 
+            submits it to CHANDICON 2026 conference by the stipulated deadline. 
             The paper will be peer-reviewed and must reflect an innovation providing a 
             significant novelty to the state-of-the-art in its (sub)field. The paper, 
             if accepted and presented, will be submitted for the possible publication in IEEE Xplore.
