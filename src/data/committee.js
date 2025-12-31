@@ -86,7 +86,7 @@ export const COMMITTEE = {
         },
         {
             name: "Binod Kumar Kanaujia",
-            designation: "Director, NIT Jalandhar",
+            designation: "Director, National Institute of Technology,Jalandhar",
             image_url: "/assets/committee/DrBKKanaujiaNITJ.jpeg",
             link: "https://departments.nitj.ac.in/dept/ece/Faculty/6430446f38bff038a7808ab6",
         },
@@ -239,7 +239,7 @@ export const COMMITTEE = {
     // "National Advisory Committee": [
     //     // {
     //     //     name: "L. K. Awasthi",
-    //     //     designation: "Director, NIT Uttarakhand",
+    //     //     designation: "Director, National Institute of Technology,Uttarakhand",
     //     //     image_url: "/assets/committee/LK Awasthi.png",
     //     // },
     //     // {
@@ -264,7 +264,7 @@ export const COMMITTEE = {
     //     },
     //     {
     //         name: "Gurinder Singh Brar",
-    //         designation: "NIT Uttarakhand",
+    //         designation: "National Institute of Technology,Uttarakhand",
     //         image_url: "/assets/committee/gurinder singh brar.jpg",
     //     },
     //     {
@@ -294,7 +294,7 @@ export const COMMITTEE = {
     //     },
     //     {
     //         name: "N P Phadi",
-    //         designation: "Director NIT Jaipur, India",
+    //         designation: "Director National Institute of Technology,Jaipur, India",
     //         image_url: "/assets/committee/NP Padhy.jpg",
     //     },
     //     {
@@ -775,7 +775,7 @@ export const COMMITTEE = {
         // },
         // {
         //     name: "Anupam Yadav",
-        //     designation: "NIT Jalandhar",
+        //     designation: "National Institute of Technology,Jalandhar",
         //     image_url: "/assets/committee/Dr. Anupam Yadav.png",
         //     track: "Artificial Intelligence and Data Science",
         //     link: "https://v1.nitj.ac.in/index.php/nitj_cinfo/Faculty/186",
@@ -789,7 +789,7 @@ export const COMMITTEE = {
         },
         {
             name: "Shyam Lal",
-            designation: "NIT Surathkal",
+            designation: "National Institute of Technology,Surathkal",
             image_url: "/assets/committee/Dr. Shyam Lal.jpg",
             track: "Computer Networks & IoT",
             link: "https://ece.nitk.ac.in/faculty/shyam-lal",
@@ -831,7 +831,7 @@ export const COMMITTEE = {
         },
         {
             name: "Balwinder Raj",
-            designation: "NIT Jalandhar",
+            designation: "National Institute of Technology,Jalandhar",
             image_url: "/assets/committee/prof-balwinder-raj.jpg",
             track: "Semiconductor Devices",
             link: "https://v1.nitj.ac.in/index.php/nitj_cinfo/Faculty/42",
