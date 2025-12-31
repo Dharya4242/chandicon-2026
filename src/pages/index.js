@@ -89,7 +89,7 @@ export default function Home() {
                         />
                     </div>
                     <h2 className={styles.theme}>
-                        Theme- Science, Technology and Society
+                        Theme- Emerging Technologies Shaping Tomorrow
                     </h2>
                     <div className={styles.venue_details}>
                         <div className={styles.dates}>
