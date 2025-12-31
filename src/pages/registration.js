@@ -259,7 +259,7 @@ function Registration() {
                     <h2 className={styles.section_heading}>FOR ATTENDEES</h2>
                     <ol className={styles.section_details}>
                         <li>
-                            All participants need to be registered to attend the
+                            All participants need to be registered to attend
                             CHANDICON 2026 by paying the requisite registration
                             fee.
                         </li>
