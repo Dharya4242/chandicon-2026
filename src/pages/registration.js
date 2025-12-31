@@ -207,7 +207,7 @@ function Registration() {
             </TableContainer>
 
             <h5 style={{ marginTop: "10px" }}>
-                * The registration fee does not include GST or any other taxes.
+                * The registration fee does not include GST or any other taxes as applicable.
             </h5>
 
             <div className={styles.register}>
