@@ -137,10 +137,15 @@ function CallForSessions() {
             
             <br/>
             <h2 className={styles.subheading}>Tutorial/Workshop Proposal Submissions</h2>
-            <p className={styles.subheading}>           
+            {/* <p className={styles.subheading}>           
                 The Proposals for tutorial/workshop should be submitted by e-mail to 
                 ieeechandicon@gmail.com by  <span style={{ textDecoration: 'line-through' }}>March 31, 2026</span> <span style={{ color: 'red'}}> April 15, 2026 </span>. 
+            </p>  */}
+            <p className={styles.subheading}>           
+                The Proposals for tutorial/workshop should be submitted by e-mail to 
+                ieeechandicon@gmail.com by March 15, 2026. 
             </p> 
+            
             <br/>
             <br/>
 
