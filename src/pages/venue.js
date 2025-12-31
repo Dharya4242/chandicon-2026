@@ -95,8 +95,7 @@ function Venue() {
                             You can check more hotels here.{" "}
                             <FaExternalLinkAlt />
                         </p>
-                    </a>
-
+            </a>
             {/* <p className={styles.popular}> Click <a href="/5th IEEE_0001.pdf" target="_blank" rel="noopener noreferrer" className={styles.link}>here </a> 
               for the notice for participation of foreign nationals in the CHANDICON 2026 conference. </p> */}
 
