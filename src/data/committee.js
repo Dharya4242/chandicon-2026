@@ -540,12 +540,6 @@ export const COMMITTEE = {
     ],
     "Local Arrangement Co-Chairs": [
         {
-            name: "Prof. Balwinder Raj",
-            designation: "NIT Jalandhar",
-            image_url: "/assets/committee/prof-balwinder-raj.jpg",
-            link: "https://v1.nitj.ac.in/index.php/nitj_cinfo/Faculty/42",
-        },
-        {
             name: "Mr. Sushil Kumar",
             designation: "PEC, Chandigarh",
             image_url: "/assets/committee/SushilKumarPEC.jpg",
@@ -814,11 +808,11 @@ export const COMMITTEE = {
             link: "https://iitism.irins.org/profile/97523",
         },
         {
-            name: "Dr. Aditya Sadhanala",
-            designation: "IISC, Bangalore",
-            image_url: "/assets/committee/Aditya Sadhanala_0.jpg",
+            name: "Prof. Balwinder Raj",
+            designation: "NIT Jalandhar",
+            image_url: "/assets/committee/prof-balwinder-raj.jpg",
             track: "Semiconductor Devices",
-            link: "http://www.cense.iisc.ac.in/aditya-sadhanala",
+            link: "https://v1.nitj.ac.in/index.php/nitj_cinfo/Faculty/42",
         },
         {
             name: "Dr. Hitesh Shrimali",
@@ -828,10 +822,17 @@ export const COMMITTEE = {
             link: "https://faculty.iitmandi.ac.in/~hitesh/",
         },
         {
+            name: "Dr. Aditya Sadhanala",
+            designation: "IISC, Bangalore",
+            image_url: "/assets/committee/Aditya Sadhanala_0.jpg",
+            track: "Nanotechnology Materials and Devices",
+            link: "http://www.cense.iisc.ac.in/aditya-sadhanala",
+        },
+        {
             name: "Prof. Suvankar Chakraverty",
             designation: "INST Mohali",
             image_url: "/assets/committee/SuvankarChakraverty.jpg",
-            track: "Nanotechnology Materials and Devices",
+            track: "Quantum Technologies",
             link: "https://inst.ac.in/scientist/19-suvankar-chakraverty",
         },
         
