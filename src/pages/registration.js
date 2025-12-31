@@ -92,7 +92,7 @@ const ieeeRows = [
 
 const nonIeeeRows = [
     createData("Indian Participant", "₹7,000", "₹9,000", "₹8,500", "₹10,500"),
-    createData("Foriegn Participant", "$250", "$400", "$400", "$550"),
+    createData("Foriegn Participant", "$250", "$350", "$400", "$500"),
 ];
 
 function Registration() {
