@@ -146,7 +146,8 @@ export const COMMITTEE = {
         },
         {
             name: "Puneet Mishra",
-            designation: "Vice Chair, IEEE India Council Technical Activities",
+            // designation: "Vice Chair, IEEE India Council Technical Activities",
+            designation: "U R Rao Satellite Centre (ISRO), Bangalore",
             image_url: "/assets/committee/puneet-kumar-mishra.jpeg",
             link: "https://www.linkedin.com/in/puneet-kumar-mishra-252aba5/",
         },
