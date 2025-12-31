@@ -145,7 +145,7 @@ function authors() {
                     Authors are requested to carefully read the guidelines before submitting
                         Camera ready paper. Click {" "}
                     <a
-                        // href="/Instructions for Camera Ready Submission Guidelines.pdf"
+                        href="/Instructions for Camera Ready Submission Guidelines.pdf"
                         target="_blank"
                     >
                         here
