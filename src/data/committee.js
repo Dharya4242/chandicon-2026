@@ -523,7 +523,7 @@ export const COMMITTEE = {
         },
         {
             name: "Preet Yadav",
-            designation: "NXP Semiconductors Gurgaon, IEEE Delhi Section",
+            designation: "NXP Semiconductors Gurgaon",
             image_url: "/assets/committee/mr-preet-yadav.jpg",
             link: "https://www.linkedin.com/in/preet-yadav/?originalSubdomain=in",
         },
@@ -543,13 +543,13 @@ export const COMMITTEE = {
     "Local Arrangement Chairs": [
         {
             name: "R. S. Walia",
-            designation: "Punjab Engineering College, Chandigarh",
+            designation: "PEC, Chandigarh",
             image_url: "/assets/committee/rswalia.jpg",
             link: "https://pec.ac.in/pie/faculty/ravinderjit-singh-walia",
         },
         {
             name: "Sanjeev Kumar",
-            designation: "Punjab Engineering College, Chandigarh",
+            designation: "PEC, Chandigarh",
             image_url: "/assets/committee/sanjeev_0.jpg",
             link: "https://uiet.puchd.ac.in/wp-content/uploads/FacultyCV/EEE/Y-P-Verma.pdf",
         },
@@ -601,7 +601,7 @@ export const COMMITTEE = {
         },
         {
             name: "Pooja Devi",
-            designation: "CSIR-Central Scientific Instruments Organisation (CSIR-CSIO), Chandigarh",
+            designation: "CSIR-CSIO, Chandigarh",
             image_url: "/assets/committee/DrPoojaCSIO.jpg",
             link: "https://icsio.csio.res.in/csio.ems/emp_profile.aspx?id=997",
         },
@@ -670,7 +670,7 @@ export const COMMITTEE = {
         },
         {
             name: "Aparna Akula",
-            designation: "CSIR-Central Scientific Instruments Organisation (CSIR-CSIO), Chandigarh",
+            designation: "CSIR-CSIO, Chandigarh",
             image_url: "/assets/committee/dr-aparna-akula.jpg",
             link: "https://icsio.csio.res.in/csio.ems/emp_profile.aspx?id=1021",
         },
