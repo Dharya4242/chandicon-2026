@@ -43,7 +43,7 @@ function Header() {
                         className={styles.logo}
                     />
                     <img
-                        src={getAssetName("/assets/logos/IC_final.png.png")}
+                        src={getAssetName("/assets/logos/IC_final.png")}
                         alt="chandicon 2026"
                         className={styles.logo}
                     />
