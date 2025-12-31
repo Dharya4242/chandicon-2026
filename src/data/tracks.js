@@ -261,11 +261,11 @@ export const TRACKS = [
     {
         track: "Track 14: Quantum Technologies",
         topics: [
-            "Quantum computing & architectures",
-            "Quantum communication & cryptography",
-            "Quantum sensing & metrology",
-            "Quantum algorithms & applications",
-            "Quantum materials & devices",
+            "Quantum computing and architectures",
+            "Quantum communication and cryptography",
+            "Quantum sensing and metrology",
+            "Quantum algorithms and applications",
+            "Quantum materials and devices",
         ],
     },
 
