@@ -86,6 +86,16 @@ function Venue() {
                     <li><a href="https://www.tajhotels.com/en-in/taj/taj-chandigarh/" target="_blank" rel="noopener noreferrer" className={styles.link}>Hotel Taj, Sector-17</a></li>
                 </ul>
             </p>
+            <a
+                        href="https://www.booking.com/city/in/chandigarh.en.html?aid=306395;label=chandigarh-_Flechj5LaXCg_24SrKjBgS638077223949:pl:ta:p1110:p2:ac:ap:neg:fi:tiaud-1110454565467:kwd-185675056:lp9181709:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YZVcNNsENnH02-pWD53qm9c;ws=&gad_source=1&gclid=Cj0KCQiAwP6sBhDAARIsAPfK_waU_dqxv86Y8qSM3Meyep70TTZsnXuxlRrxiCNMeEWXDGDzoMZd6wAaAppBEALw_wcB"
+                        target="_blank"
+                        referrerPolicy="no-referrer"
+                    >
+                        <p>
+                            You can check more hotels here.{" "}
+                            <FaExternalLinkAlt />
+                        </p>
+                    </a>
 
             {/* <p className={styles.popular}> Click <a href="/5th IEEE_0001.pdf" target="_blank" rel="noopener noreferrer" className={styles.link}>here </a> 
               for the notice for participation of foreign nationals in the CHANDICON 2026 conference. </p> */}
@@ -140,7 +150,7 @@ function Venue() {
                 />
             </ol>
 
-            <h3 className={styles.subheading}>Hotels Near PEC</h3>
+            {/* <h3 className={styles.subheading}>Hotels Near PEC</h3>
             <div className={styles.hotels}>
                 <a
                     href="https://www.google.com/maps/search/hotels+near+pec+chandigarh/@30.7346386,76.7730543,13.15z/data=!4m7!2m6!5m4!3e4!5m2!4m1!1i2!6e3?entry=ttu"
@@ -157,25 +167,16 @@ function Venue() {
                 <div className={styles.good_hotels}>
                     <h4>Some good hotels near PEC</h4>
                     <ul>
-                        <li>The Lalit Chandigarh</li>
+                        <li>The Lalit</li>
                         <li>JW Marriott Hotel</li>
-                        <li>Hyatt Centric Sector 17</li>
-                        <li>Hotel Mountain View</li>
+                        <li>Hyatt Centric</li>
+                        <li>Hotel Mountview</li>
                         <li>Hyatt Regency</li>
                     </ul>
 
-                    <a
-                        href="https://www.booking.com/city/in/chandigarh.en.html?aid=306395;label=chandigarh-_Flechj5LaXCg_24SrKjBgS638077223949:pl:ta:p1110:p2:ac:ap:neg:fi:tiaud-1110454565467:kwd-185675056:lp9181709:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YZVcNNsENnH02-pWD53qm9c;ws=&gad_source=1&gclid=Cj0KCQiAwP6sBhDAARIsAPfK_waU_dqxv86Y8qSM3Meyep70TTZsnXuxlRrxiCNMeEWXDGDzoMZd6wAaAppBEALw_wcB"
-                        target="_blank"
-                        referrerPolicy="no-referrer"
-                    >
-                        <p>
-                            You can check more hotels here.{" "}
-                            <FaExternalLinkAlt />
-                        </p>
-                    </a>
+                    
                 </div>
-            </div>
+            </div> */}
 
             <h3 className={styles.subheading}>Attractions</h3>
 
