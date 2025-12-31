@@ -27,23 +27,28 @@ function Header() {
                     <img
                         src={getAssetName(
                             // "/assets/logos/1.png"
-                            "/assets/logos/logo_blue.png"
+                            "/assets/logos/Chandicon_final.png"
                         )}
                         alt="chandicon 2026"
                         className={styles.logo}
                     />
                     <img
-                        src={getAssetName("/assets/logos/2.png")}
+                        src={getAssetName("/assets/logos/ICSS_final.png")}
                         alt="chandicon 2026"
                         className={styles.logo}
                     />
                     <img
-                        src={getAssetName("/assets/logos/4.png")}
+                        src={getAssetName("/assets/logos/IDS_final.png")}
                         alt="chandicon 2026"
                         className={styles.logo}
                     />
                     <img
-                        src={getAssetName("/assets/logos/5.png")}
+                        src={getAssetName("/assets/logos/IC_final.png.png")}
+                        alt="chandicon 2026"
+                        className={styles.logo}
+                    />
+                    <img
+                        src={getAssetName("/assets/logos/PEC_Final.png")}
                         alt="chandicon 2026"
                         className={styles.logo}
                     />
