@@ -151,7 +151,7 @@
 
                 .nav_items {
                     display: none;
-                    font-size: 22px;
+                    font-size: 32px;
                     font-weight: 600;
                     left: 50vw;
                     margin: 10px 0;
@@ -160,7 +160,12 @@
                     transform: translate(-50%, -50%);
 
                     li {
-                        margin: 5px 0;
+                        margin: 20px 0;
+                        font-size: 24px;
+
+                        .nav_link {
+                            font-size: 24px;
+                        }
                     }
 
                     &.active {
