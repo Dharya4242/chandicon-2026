@@ -35,7 +35,7 @@ function Venue() {
                 Sector 22 Market, is 1 km away. 
                 For more information, please visit: 
                 <a
-                    href="https://citcochandigarh.com/portfolio/hotel-shivalikview/"
+                    href="https://citcochandigarh.com"
                     target="_blank"
                     referrerPolicy="no-referrer"
                     style={{ color: 'blue', textDecoration: 'underline' }}
@@ -76,8 +76,8 @@ function Venue() {
             <p className={styles.description} style={{ marginLeft: '20px' }}>
                 Participants may book hotels in Chandigarh. Here are some recommendations:
                 <ul style={{ marginLeft: '30px' }}>
-                    <li><a href="https://citcochandigarh.com/portfolio/hotel-shivalikview/" target="_blank" rel="noopener noreferrer" className={styles.link}>Hotel Shivalikview, Sector-17</a></li>
-                    <li><a href="https://citcochandigarh.com/portfolio/hotel-mountview/" target="_blank" rel="noopener noreferrer" className={styles.link}>Hotel Mountview, Sector-10</a></li>
+                    <li><a href="https://citcochandigarh.com/hotel-shivalikview.php" target="_blank" rel="noopener noreferrer" className={styles.link}>Hotel Shivalikview, Sector-17</a></li>
+                    <li><a href="https://citcochandigarh.com/hotel-mountview.php" target="_blank" rel="noopener noreferrer" className={styles.link}>Hotel Mountview, Sector-10</a></li>
                     <li><a href="https://www.nitttrchd.ac.in/guesthouse/index.php" target="_blank" rel="noopener noreferrer" className={styles.link}>NITTTR Guest House, Sector-26</a></li>
                     <li><a href="https://forms.puchd.ac.in/forms.php" target="_blank" rel="noopener noreferrer" className={styles.link}>Panjab University Guest House, Sector-14</a></li>
                     <li><a href="http://admser.chd.nic.in/booking/webpages/booking1.aspx" target="_blank" rel="noopener noreferrer" className={styles.link}>UT Guest House, Sector-6</a></li>
