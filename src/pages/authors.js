@@ -23,7 +23,7 @@ function authors() {
                         // href="https://cmt3.research.microsoft.com/INDISCON2026/"
                         target="_blank"
                     >
-                        submission link
+                        submission link.
                     </a>
                 </div>
             </div>
@@ -50,13 +50,13 @@ function authors() {
                             <FaArrowRight /> File Format: Adobe PDF (.pdf)
                         </li>
                         <li>
-                            <FaArrowRight /> Allowed File Size: 2.0Mb
+                            <FaArrowRight /> Allowed File Size: 2 MB
                         </li>
                         <li>
-                            <FaArrowRight /> Do NOT page number your paper.
+                            <FaArrowRight /> DO NOT page number your paper.
                         </li>
                         <li>
-                            <FaArrowRight /> Do NOT apply security settings to
+                            <FaArrowRight /> DO NOT apply security settings to
                             your PDF file.
                         </li>
                     </ul>
