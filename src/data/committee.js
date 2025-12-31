@@ -377,12 +377,6 @@ export const COMMITTEE = {
             image_url: "/assets/committee/DR-Gourab-Das.jpg",
             link: "https://pec.ac.in/ece/faculty/gourab-das",
         },      
-        // {
-        //     name: "Sandeep Harit",
-        //     designation: "PEC, Chandigarh",
-        //     image_url: "/assets/committee/prof-sandeep-harit.jpg",
-        //     link: "https://pec.ac.in/cse/faculty/sandeep-kumar-harit",
-        // },
     ],
     "Conveners": [
         {
@@ -433,11 +427,17 @@ export const COMMITTEE = {
             link: "https://mnit.ac.in/dept_ece/profile?fid=RKyJ",
         },
         {
-            name: "Mohd Tariq",
-            designation: "AMU, Aligarh",
-            image_url: "/assets/committee/dr-mohd-tariq.jpg",
-            link: "https://www.amu.ac.in/faculty/electrical-engineering/mohd-tariq-17",
+            name: "Sandeep Harit",
+            designation: "PEC, Chandigarh",
+            image_url: "/assets/committee/prof-sandeep-harit.jpg",
+            link: "https://pec.ac.in/cse/faculty/sandeep-kumar-harit",
         },
+        // {
+        //     name: "Mohd Tariq",
+        //     designation: "AMU, Aligarh",
+        //     image_url: "/assets/committee/dr-mohd-tariq.jpg",
+        //     link: "https://www.amu.ac.in/faculty/electrical-engineering/mohd-tariq-17",
+        // },
         {
             name: "Gaurav Mani Khanal",
             designation: "JKLU, Jaipur",
@@ -607,7 +607,7 @@ export const COMMITTEE = {
         },
         {
             name: "Sabarinath Pillai",
-            designation: "Secretary, IEEE India Council",
+            designation: "IEEE India Council",
             image_url: "/assets/committee/Mr-Sabarinath-Pillai.webp",
             link: "https://www.linkedin.com/in/sabaripillai/?originalSubdomain=in",
         },
