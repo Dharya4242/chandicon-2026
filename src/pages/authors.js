@@ -134,7 +134,10 @@ function authors() {
                     text etc.
                     <br />
                     <br />
-                    <b>Note</b>: Papers presented in the Conference, duly accepted after peer review, will be eligible for submission for further consideration of publishing in the IEEE Xplore, subject to maintenance of quality, and post-conference scrutiny of response of Conference Organizers to Technical Program of Questionnaire (TPQ) on the Conference.
+                    <b>Note</b>: Papers presented in the Conference, duly accepted after peer review, 
+                    will be eligible for submission for further consideration of publishing in the IEEE Xplore, 
+                    subject to maintenance of quality, and post-conference scrutiny of response of 
+                    Conference Organizers to Technical Program of Questionnaire (TPQ) on the Conference.
                 </div>
             </div>
         <br/>
@@ -154,6 +157,12 @@ function authors() {
                 </div>
             </div>
                              */}
+            <p>
+                    The Microsoft CMT service was used for managing the peer-reviewing 
+                    process for this conference. This service was provided for free by 
+                    Microsoft and they bore all expenses, including costs for Azure cloud 
+                    services as well as for software development and support.
+            </p>
             <div className={styles.paper_wrapper}>
                 <div className={styles.register}>
                     <a

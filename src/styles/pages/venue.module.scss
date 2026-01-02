@@ -18,10 +18,12 @@
     }
 }
 
+/* Main descriptive text */
 .description {
     margin: 20px 0;
     line-height: 25px;
     text-align: justify;
+    text-justify: inter-word;
 }
 
 .link {
@@ -35,15 +37,15 @@
     padding: 10px 20px;
     border-radius: 10px;
     width: 100%;
-    text-align: center;
+    text-align: center; // headings should not be justified
 }
 
 .routes {
     line-height: 25px;
-    text-align: justify;
-
     display: flex;
     flex-direction: column;
+    text-align: justify;
+    text-justify: inter-word;
 }
 
 .image {
@@ -57,12 +59,13 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    // flex-direction: column;
 
     .good_hotels {
         margin: 40px;
-
         line-height: 25px;
+        text-align: justify;
+        text-justify: inter-word;
+
         a {
             color: $acm-primary;
         }
@@ -78,11 +81,13 @@
         height: 400px;
     }
 }
+
 @media screen and (max-width: 900px) {
     .attractions {
         flex-direction: column;
         justify-content: center;
         gap: 20px;
+
         img {
             height: 300px;
         }
@@ -92,6 +97,7 @@
 .popular {
     text-align: center;
     margin: 20px 0;
+
     a {
         color: $acm-primary;
     }
@@ -101,28 +107,34 @@
     display: flex;
     flex-direction: column;
 
-    >div {
+    > div {
         display: flex;
         align-items: center;
         gap: 20px;
         margin: 20px 0;
+
         img {
             height: 200px;
             border-radius: 20px;
         }
 
-        >div {
+        > div {
+            text-align: justify;
+            text-justify: inter-word;
+
             a {
                 color: $acm-primary;
                 text-decoration: underline;
             }
         }
     }
+
     @media screen and (max-width: 900px) {
-        >div {
+        > div {
             flex-direction: column;
             justify-content: center;
             gap: 20px;
+
             img {
                 height: 300px;
             }

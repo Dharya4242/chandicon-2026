@@ -20,14 +20,14 @@
 
 .note {
     text-align: justify;
+    text-justify: inter-word;
     font-size: 14px;
     margin: 10px 0;
-
 }
 
 .section {
     .section_heading {
-        text-align: center;
+        text-align: center;   // headings should NOT be justified
         margin: 10px 0;
         background: $acm-primary-bg;
         border-radius: 200000px;
@@ -40,11 +40,21 @@
     .section_details {
         line-height: 25px;
         margin: 10px 0;
+        text-align: justify;
+        text-justify: inter-word;
+
         a {
             color: $acm-primary;
+            font-weight: 500;
+        }
+
+        p {
+            text-align: justify;
+            text-justify: inter-word;
         }
     }
 }
+
 .register {
     a {
         display: flex;

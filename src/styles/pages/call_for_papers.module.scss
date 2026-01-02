@@ -19,7 +19,6 @@
 }
 
 .paper_wrapper {
-
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
@@ -63,8 +62,8 @@
     margin-top: 10px;
     line-height: 25px;
     text-align: justify;
+    text-justify: inter-word;
 }
-
 
 .technical_tracks {
     line-height: 30px;
@@ -77,12 +76,22 @@
 .submission {
     h2 {
         margin: 10px 0;
+        text-align: left; // headings should not be justified
     }
+
     .submission_details {
+        text-align: justify;
+        text-justify: inter-word;
+
         a {
             color: $acm-primary;
             font-weight: bold;
         }
+    }
+
+    p {
+        text-align: justify;
+        text-justify: inter-word;
     }
 
     ul {
@@ -91,25 +100,35 @@
 
         li {
             display: flex;
-            align-items: center;
-            gap: 5px;
+            align-items: flex-start;
+            gap: 8px;
             line-height: 25px;
 
             svg {
                 height: 16px;
                 width: 16px;
+                margin-top: 4px;
+            }
+
+            span {
+                flex: 1;
+                text-align: justify;
+                text-justify: inter-word;
             }
         }
     }
 
     .special_note {
         margin: 10px 0;
+        text-align: justify;
     }
 }
+
 
 .tracks {
     margin: 20px 0;
     line-height: 25px;
+    text-align: justify;
 }
 
 .download_button {
@@ -117,6 +136,7 @@
     justify-content: center;
     width: 100%;
     margin: 20px 0;
+
     button {
         border: 2px solid $acm-primary;
         padding: 10px 30px;
@@ -141,14 +161,15 @@
 
 /* Track Details bullet indentation */
 .topicList {
-    padding-left: 60px;   // left spacing for bullets
+    padding-left: 60px;
     margin-left: 0;
 }
 
 .topicList li {
-    padding-left: 8px;    // spacing between bullet and text
+    padding-left: 8px;
     line-height: 25px;
 }
+
 .sectionSpacing {
-    margin-top: 40px;   // controls vertical space above
+    margin-top: 40px;
 }
