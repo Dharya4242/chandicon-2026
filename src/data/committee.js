@@ -71,7 +71,7 @@ export const COMMITTEE = {
     //     },
 
     // ],
-    "Honorary Chair": [
+    "Honorary Chairs": [
         {
             name: "Rudra Pratap",
             designation: "Vice Chancellor, Plaksha University, Mohali",
@@ -398,7 +398,7 @@ export const COMMITTEE = {
             link: "https://pec.ac.in/ee/faculty/manohar_singh",
         },
     ],
-    "Organising Secretary": [
+    "Organising Secretaries": [
         {
             name: "Ajay Kumar",
             designation: "PEC, Chandigarh",
