@@ -19,17 +19,30 @@ function Contact() {
                 ></iframe>
 
                 <div className={styles.contact_details}>
-                    <p>General Chair (CHANDICON 2026) </p>
-                    <p></p>
-                    <p>
-                        Department of Electronics and Communication Engineering,
-                    </p>
-                    <p> Punjab Engineering College, </p>
-                    <p>(Deemed to be University),</p>
-                    <p>Sector 12, Chandigarh, India</p>
-                    <a href="mailto:ieeechandicon@gmail.com">
-                        ieeechandicon@gmail.com
-                    </a>
+                <p><strong>General Chair (CHANDICON 2026)</strong></p>
+
+                <p>Department of Electronics and Communication Engineering,</p>
+
+                <a
+                    href="https://maps.google.com/?q=Punjab+Engineering+College,+Chandigarh"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className={styles.address_link}
+                >
+                    Punjab Engineering College,<br />
+                    (Deemed to be University),<br />
+                    Sector 12, Chandigarh, India
+                </a>
+
+                <hr className={styles.divider} />
+
+                <p className={styles.label}>Email: <a href="mailto:ieeechandicon@gmail.com">
+                ieeechandicon@gmail.com
+                </a> </p>
+
+                {/* <a href="mailto:ieeechandicon@gmail.com" className={styles.email_link}>
+                    ieeechandicon@gmail.com
+                </a> */}
                 </div>
             </div>
         </PageLayout>
