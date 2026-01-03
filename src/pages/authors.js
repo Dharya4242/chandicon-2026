@@ -20,7 +20,7 @@ function authors() {
                     </a>{" "}
                     through the{" "}
                     <a
-                        // href="https://cmt3.research.microsoft.com/INDISCON2026/"
+                        href="https://cmt3.research.microsoft.com/CHANDICON2026/Submission/Index"
                         target="_blank"
                     >
                         submission link.
