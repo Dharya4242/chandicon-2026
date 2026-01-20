@@ -802,11 +802,11 @@ export const COMMITTEE = {
             link: "https://ece.nitk.ac.in/faculty/shyam-lal",
         },
         {
-            name: "Nitin Auluck",
+            name: "Deepti R. Bathula",
             designation: "Indian Institute of Technology, Ropar",
-            image_url: "/assets/committee/Dr. Nitin Auluck.jpg",
+            image_url: "/assets/committee/DrDeeptiIITR.jpg",
             track: "Next-Generation Computing and Applications",
-            link: "https://sites.google.com/iitrpr.ac.in/nauluck/home",
+            link: "https://drbathula.github.io/",
         },
         // {
         //     name: "R. K. Agrawal",
