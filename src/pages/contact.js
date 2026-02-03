@@ -39,13 +39,19 @@ function Contact() {
                     <p>
                         <strong>Dr. Ajay Kumar</strong><br />
                         Organising Secretary<br />
-                        Mobile: <a href="tel:+919001027101">+91-9001027101</a>
+                        Mobile: <a href="tel:+918000847695">+91-8000847695</a>
                     </p>
 
                     <p>
                         <strong>Dr. Deepak Kumar Sharma</strong><br />
                         Organising Secretary<br />
                         Mobile: <a href="tel:+919389585817">+91-9389585817</a>
+                    </p>
+
+                    <p>
+                        <strong>Dr. Balwinder Singh Dhaliwal</strong><br />
+                        Organising Secretary<br />
+                        Mobile: <a href="tel:+919814834209">+91-9814834209</a>
                     </p>
 
                     <hr className={styles.divider} />
