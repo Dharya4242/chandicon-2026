@@ -19,34 +19,44 @@ function Contact() {
                 ></iframe>
 
                 <div className={styles.contact_details}>
-                <p><strong>General Chair (CHANDICON 2026)</strong></p>
+                    <p><strong>General Chair (CHANDICON 2026)</strong></p>
 
-                <p>Department of Electronics and Communication Engineering,</p>
+                    <p>Department of Electronics and Communication Engineering,</p>
 
-                <a
-                    href="https://maps.google.com/?q=Punjab+Engineering+College,+Chandigarh"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className={styles.address_link}
-                >
-                    Punjab Engineering College,<br />
-                    (Deemed to be University),<br />
-                    Sector 12, Chandigarh, India
-                </a>
+                    <a
+                        href="https://maps.google.com/?q=Punjab+Engineering+College,+Chandigarh"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className={styles.address_link}
+                    >
+                        Punjab Engineering College,<br />
+                        (Deemed to be University),<br />
+                        Sector 12, Chandigarh, India
+                    </a>
 
-                <hr className={styles.divider} />
+                    <hr className={styles.divider} />
 
-                <p className={styles.label}>Email: <a href="mailto:ieeechandicon@gmail.com">
-                ieeechandicon@gmail.com
-                </a> </p>
+                    <p>
+                        <strong>Dr. Ajay Kumar</strong><br />
+                        Organising Secretary<br />
+                        Mobile: <a href="tel:+919001027101">+91-9001027101</a>
+                    </p>
 
-                {/* <a href="mailto:ieeechandicon@gmail.com" className={styles.email_link}>
+                    <p>
+                        <strong>Dr. Deepak Kumar Sharma</strong><br />
+                        Organising Secretary<br />
+                        Mobile: <a href="tel:+919389585817">+91-9389585817</a>
+                    </p>
+
+                    <hr className={styles.divider} />
+
+                    <p className={styles.label}>Email: <a href="mailto:ieeechandicon@gmail.com">
+                        ieeechandicon@gmail.com
+                    </a> </p>
+
+                    {/* <a href="mailto:ieeechandicon@gmail.com" className={styles.email_link}>
                     ieeechandicon@gmail.com
                 </a> */}
-                <hr className={styles.divider} />
-
-                <p><strong>Dr. Ajay Kumar, Organising Secretary, M: +91-9001027101</strong></p>
-                <p><strong>Dr. Deepak Kumar Sharma, Organising Secretary, M: +91-9389585817</strong></p>
                 </div>
             </div>
         </PageLayout>
