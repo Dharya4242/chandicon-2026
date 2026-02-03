@@ -263,12 +263,12 @@ export default function Home() {
                         </div>
                         <div className={styles.register}>
                             <a
-                                // href="https://cmt3.research.microsoft.com/INDISCON2026/"
+                                href="https://cmt3.research.microsoft.com/CHANDICON2026/Submission/Index"
                                 // href="/INDISOCN Oral and Poster presentation guidelines.pdf"
                                 //href="/List of Oral and Posters.pdf"
                                 target="_blank"
                                 referrerPolicy="no-referrer"
-                                title="Will be activated soon..."
+                                // title="Will be activated soon..."
                             >
                                 <button>Submit Paper</button>
                                 {/* <button> Oral and Poster presentation guidelines</button> */}
@@ -278,9 +278,9 @@ export default function Home() {
 
                     </div>
                     <p>
-                    The Microsoft CMT service was used for managing the peer-reviewing 
-                    process for this conference. This service was provided for free by 
-                    Microsoft and they bore all expenses, including costs for Azure cloud 
+                    The Microsoft CMT service is used for managing the peer-reviewing 
+                    process for this conference. This service is provided for free by 
+                    Microsoft and they bear all expenses, including costs for Azure cloud 
                     services as well as for software development and support.
                     </p>
                 </div>
