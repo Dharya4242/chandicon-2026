@@ -43,6 +43,10 @@ function Contact() {
                 {/* <a href="mailto:ieeechandicon@gmail.com" className={styles.email_link}>
                     ieeechandicon@gmail.com
                 </a> */}
+                <hr className={styles.divider} />
+
+                <p><strong>Dr. Ajay Kumar, Organising Secretary, M: +91-9001027101</strong></p>
+                <p><strong>Dr. Deepak Kumar Sharma, Organising Secretary, M: +91-9389585817</strong></p>
                 </div>
             </div>
         </PageLayout>
