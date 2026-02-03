@@ -1,5 +1,6 @@
 import styles from "@/styles/Home.module.scss";
 import PageLayout from "@/components/layout/PageLayout";
+import Link from "next/link";
 import Marquee from "react-fast-marquee";
 import { getAssetName } from "@/util/githubPagesImagesUtil";
 import { ANNOUNCEMENTS } from "@/data/marquee";
@@ -248,18 +249,11 @@ export default function Home() {
 
                     <div className={styles.paper_wrapper}>
                         <div className={styles.register}>
-                            <a
-                                //href="https://cmt3.research.microsoft.com/INDISCON2026/"
-                                // href="/List of Oral and Posters.pdf"
-                                // href="/Final_schedule_of_conference_21082026.pdf"
-                                target="_blank"
-                                referrerPolicy="no-referrer"
-                                title="Will be activated soon..."
+                            <Link
+                                href="/call-for-papers"
                             >
-                                {/* <button>Submit Paper</button> */}
                                 <button>Call for Papers</button>
-                                {/* <button>Final Schedule of the Conference</button> */}
-                            </a>
+                            </Link>
                         </div>
                         <div className={styles.register}>
                             <a
@@ -268,7 +262,7 @@ export default function Home() {
                                 //href="/List of Oral and Posters.pdf"
                                 target="_blank"
                                 referrerPolicy="no-referrer"
-                                // title="Will be activated soon..."
+                            // title="Will be activated soon..."
                             >
                                 <button>Submit Paper</button>
                                 {/* <button> Oral and Poster presentation guidelines</button> */}
@@ -278,10 +272,10 @@ export default function Home() {
 
                     </div>
                     <p>
-                    The Microsoft CMT service is used for managing the peer-reviewing 
-                    process for this conference. This service is provided for free by 
-                    Microsoft and they bear all expenses, including costs for Azure cloud 
-                    services as well as for software development and support.
+                        The Microsoft CMT service is used for managing the peer-reviewing
+                        process for this conference. This service is provided for free by
+                        Microsoft and they bear all expenses, including costs for Azure cloud
+                        services as well as for software development and support.
                     </p>
                 </div>
 
@@ -292,7 +286,7 @@ export default function Home() {
                 {/* </p>
                  </div> */}
 
-                
+
 
             </PageLayout>
         </>
