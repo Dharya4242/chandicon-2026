@@ -445,28 +445,28 @@ export const COMMITTEE = {
             link: "https://jklu.edu.in/faculty/gaurav-mani-khanal",
         },
     ],
-    "Finance Chairs": [
+    "Finance Chair": [
         {
             name: "Mayank Gupta",
-            // designation: "Treasurer, IEEE Chandigarh Subsection",
-            designation: "IEEE Chandigarh Subsection",
+            designation: "Treasurer, IEEE Chandigarh Subsection",
+            // designation: "IEEE Chandigarh Subsection",
             image_url: "/assets/committee/mr-mayank-gupta.jpeg",
             link: "https://pec.ac.in/cse/faculty/mayank-gupta",
         },
-        {
-            name: "Sneha Kabra",
-            // designation: "Secretary & Treasurer, IEEE Delhi Section",
-            designation: "IEEE Delhi Section",
-            image_url: "/assets/committee/SnehaKabra.jpeg",
-            link: "https://www.rajgurucollege.com/college/docs/Biodata55968408.pdf",
-        },
-        {
-            name: "Rajashree Jain",
-            // designation: "Treasurer, IEEE India Council",
-            designation: "IEEE India Council",
-            image_url: "/assets/committee/DrRajashreeIC.jpeg",
-            link: "https://www.linkedin.com/in/rajashreejain",
-        },
+        // {
+        //     name: "Sneha Kabra",
+        //     // designation: "Secretary & Treasurer, IEEE Delhi Section",
+        //     designation: "IEEE Delhi Section",
+        //     image_url: "/assets/committee/SnehaKabra.jpeg",
+        //     link: "https://www.rajgurucollege.com/college/docs/Biodata55968408.pdf",
+        // },
+        // {
+        //     name: "Rajashree Jain",
+        //     // designation: "Treasurer, IEEE India Council",
+        //     designation: "IEEE India Council",
+        //     image_url: "/assets/committee/DrRajashreeIC.jpeg",
+        //     link: "https://www.linkedin.com/in/rajashreejain",
+        // },
         // {
         //     name: "Vijayalata Yellasiri",
         //     designation: "Treasurer, IEEE India Council",
@@ -547,12 +547,12 @@ export const COMMITTEE = {
             image_url: "/assets/committee/rswalia.jpg",
             link: "https://pec.ac.in/pie/faculty/ravinderjit-singh-walia",
         },
-        {
-            name: "Sanjeev Kumar",
-            designation: "PEC, Chandigarh",
-            image_url: "/assets/committee/sanjeev_0.jpg",
-            link: "https://uiet.puchd.ac.in/wp-content/uploads/FacultyCV/EEE/Y-P-Verma.pdf",
-        },
+        // {
+        //     name: "Sanjeev Kumar",
+        //     designation: "PEC, Chandigarh",
+        //     image_url: "/assets/committee/sanjeev_0.jpg",
+        //     link: "https://uiet.puchd.ac.in/wp-content/uploads/FacultyCV/EEE/Y-P-Verma.pdf",
+        // },
         {
             name: "Rintu Khanna",
             designation: "PEC, Chandigarh",
