@@ -111,11 +111,11 @@ export default function Home() {
                     <p>
 
                         IEEE CHANDICON is a flagship annual international conference
-                        of IEEE Chandigarh Subsection. CHANDICON 2026, scheduled during
-                        August 20-22, 2026, is being organized by IEEE Chandigarh
+                        of IEEE Chandigarh Subsection. CHANDICON 2026 is scheduled during
+                        20-22 August 2026 and is being organized by IEEE Chandigarh
                         Subsection under the guidence of IEEE India Council & IEEE Delhi Section.
                         The conference will be hosted by Punjab Engineering College
-                        (Deemed to beUniversity), Chandigarh. The conference aims to
+                        (Deemed to be University), Chandigarh. The conference aims to
                         provide an interdisciplinary platform for the academicians,
                         researchers, industry professionals and research scholars to exchange and
                         share their knowledge, experience & research. Papers that are selected and
@@ -272,7 +272,7 @@ export default function Home() {
 
                     </div>
                     <p>
-                        The Microsoft CMT service is used for managing the peer-reviewing
+                        The Microsoft CMT service is being used for managing the peer-reviewing
                         process for this conference. This service is provided for free by
                         Microsoft and they bear all expenses, including costs for Azure cloud
                         services as well as for software development and support.

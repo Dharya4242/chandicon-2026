@@ -38,28 +38,28 @@ function CallForSessions() {
             <h3 className={styles.subheading}>(a) Special Session with an invited presentation</h3>
 
             <p className={styles.subheading}>
-            The organizers invite a leading researcher on the topic of the 
-            Special Session who provides an oral presentation in the Special Session. 
-            The organizers provide the name of the presenter together with an email 
-            confirming their acceptance and an abstract. No full paper is requested, 
-            nor will the abstract be published in IEEE Xplore.
+           The organizers will invite leading researcher(s) in the topic of the Special Session to deliver oral presentation(s) during the Special Session. 
+           The organizers will provide the name(s) of the presenter(s), 
+           along with an email confirming their acceptance and an abstract. 
+           No full paper is required, and the abstract will not be published in IEEE Xplore.
             </p>
             <br/>
             <h3 className={styles.subheading}>(b) Special Session with an invited paper</h3>
             <p className={styles.subheading}>
-            The organizers invite a leading researcher on the topic of the Special Session 
-            who provides an oral presentation in the Special Session. The organizers provide 
-            the name of the presenter together with an e-mail confirming their acceptance. 
-            The presenter, together with possible co-authors, prepares a full paper and 
-            submits it to CHANDICON 2026 conference by the stipulated deadline. 
-            The paper will be peer-reviewed and must reflect an innovation providing a 
-            significant novelty to the state-of-the-art in its (sub)field. The paper, 
-            if accepted and presented, will be submitted for the possible publication in IEEE Xplore.
-            <br/>
-            <strong>Note:</strong> No financial assistance is available from the conference to support the 
-            participation of the presenter of an invited paper/presentation. 
-            The Special Session Organizer and all presenters in the session are required to 
-            register and pay for the conference. 
+            The organizers will invite leading researcher(s) in the topic of the Special Session 
+            to deliver an oral presentation during the Special Session. The organizers will provide 
+            the name(s) of the presenter(s), along with an email confirming their acceptance.
+
+            The presenter, together with possible co-authors, will prepare a full paper and submit 
+            it to the CHANDICON 2026 Conference by the stipulated deadline. The paper will undergo 
+            peer review and must demonstrate innovation and significant novelty in its (sub)field. 
+            If accepted and presented, the paper will be submitted for possible publication in 
+            IEEE Xplore.
+            
+            <strong>Note:</strong> No financial assistance will be provided by the conference to 
+            support the participation of invited paper/presentation presenters. The Special 
+            Session Organizer and all presenters in the session are required to register and 
+            pay the conference registration fee.
             </p>
             
             <br/><br/>

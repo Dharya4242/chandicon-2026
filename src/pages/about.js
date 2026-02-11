@@ -86,11 +86,11 @@ function About() {
                     <p className={styles.about_text}>
                         <span className={styles.emphasize}>IEEE CHANDICON</span> is
                         a flagship annual international conference of IEEE Chandigarh Subsection.
-                        CHANDICON 2026, scheduled during{" "}
+                        CHANDICON 2026 is scheduled during{" "}
                         <span className={styles.emphasize}>
                             August 20-22, 2026
                         </span>
-                        , is being organized by IEEE Chandigarh Subsection under the guidence of 
+                        and is being organized by IEEE Chandigarh Subsection under the guidence of 
                         IEEE India Council & IEEE Delhi Section. The
                         conference will be hosted by{" "}
                         <span className={styles.emphasize}>
@@ -309,8 +309,7 @@ function About() {
             <div className={styles.college_description}>
                 Punjab Engineering College (Deemed to be University) having its
                 roots in Lahore as Mugalpura Engineering College since 1921,
-                moved to its present campus in 1953 as PEC affiliated to Panjab
-                University. The institute became Deemed University in 2003
+                moved to its present campus in 1953. The institute became Deemed University in 2003
                 through a MHRD notification and rechristened as PEC University
                 of Technology in 2009. It is a Grant-in-Aid institution under
                 administration of Union Territory of Chandigarh, Government of
@@ -318,13 +317,12 @@ function About() {
                 and is house of Chandigarh College of Architecture also. The
                 academic and administrative processes are similar to IITs in the
                 country. The institute governance is through a vibrant Board of
-                Governors, chaired by a renowned industrialist, Sh. Rajinder
-                Gupta. The institute offers 8 Undergraduate B. Tech. Programmes
-                and 14 Post graduate M. Tech. Programmes in various disciplines
+                Governors. The institute offers 12 B. Tech. Programmes, 1 B.Des. Programme
+                and 12 M. Tech. Programmes in various disciplines
                 of engineering and technology. After becoming University, the
                 institute has also started PhD programme in various disciplines
                 of engineering, science, management, humanities and social
-                sciences. There are 9 academic departments and 2 centers of
+                sciences. There are 11 academic departments and 2 centers of
                 excellence. The faculty of academic departments and centers is
                 involved in cutting edge research and development works. The
                 institute collaborates very closely with research organisations,

@@ -47,7 +47,7 @@ function authors() {
                             use of Type 3 fonts.
                         </li>
                         <li>
-                            <FaArrowRight /> File Format: Adobe PDF (.pdf)
+                            <FaArrowRight /> File Format: PDF (.pdf)
                         </li>
                         <li>
                             <FaArrowRight /> Allowed File Size: 2 MB
@@ -158,9 +158,9 @@ function authors() {
             </div>
                              */}
             <p>
-                    The Microsoft CMT service was used for managing the peer-reviewing 
-                    process for this conference. This service was provided for free by 
-                    Microsoft and they bore all expenses, including costs for Azure cloud 
+                    The Microsoft CMT service is being used for managing the peer-reviewing
+                    process for this conference. This service is provided for free by
+                    Microsoft and they bear all expenses, including costs for Azure cloud
                     services as well as for software development and support.
             </p>
             <div className={styles.paper_wrapper}>

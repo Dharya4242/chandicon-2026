@@ -136,7 +136,7 @@ function Sponsorship() {
                     4mX4m) at the very strategic place of the conference venue
                     to showcase their products. Acknowledgement to the sponsors
                     during inaugural welcome/closing event of the conference.
-                    Compilmentry 5 registrations.
+                    Five complimentary registrations will be provided.
                 </p>
             </div>
 
@@ -150,13 +150,12 @@ function Sponsorship() {
                     Name of the sponsor as well as its logo (Please provide a
                     high resolution jpg file in a CD at the time of the
                     contract) will appear in all announcement materials
-                    including banner, poster, hoarding of the conference.
+                    including banner, poster of the conference.
                     Sponsors will be provided space (Please mention your
                     requirement at the time of the contract upto 4mX4m) at the
                     exhibition venue of the conference to showcase their
                     products. Acknowledgement to the sponsors during inaugural
-                    welcome/closing event of the conference. Compilmentry 3
-                    registrations.
+                    welcome/closing event of the conference. Three complimentary registrations will be provided.
                 </p>
             </div>
 
@@ -171,7 +170,7 @@ function Sponsorship() {
                     conference. Sponsors will be provided space (Please mention
                     your requirement at the time of the contract upto 3mX3m) at
                     the exhibition venue of the conference to showcase their
-                    products. Compilmentry 2 registrations.
+                    products. Two complimentary registrations will be provided.
                 </p>
             </div>
 
@@ -188,8 +187,7 @@ function Sponsorship() {
                     banner of the conference. Partner will be provided space
                     (Please mention your requirement at the time of the contract
                     upto 3mX3m) at the exhibition venue of the conference to
-                    showcase their Activities and Innovations. Compilmentry 2
-                    registrations.
+                    showcase their Activities and Innovations. Two complimentary registrations will be provided.
                 </p>
             </div>
 
@@ -203,7 +201,7 @@ function Sponsorship() {
                 <p>
                     Exhibitors will be provided space at the exhibition venue of
                     the conference to showcase their Activities and Innovations.
-                    Compilmentry 1 registration.
+                    One complimentary registration will be provided.
                 </p>
             </div>
 
