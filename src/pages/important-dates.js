@@ -27,13 +27,13 @@ const events = [
     },
     {
         title: "Last date of submission for regular papers",
-        date: "March 15, 2026",
+        date: "March 31, 2026",
         description: "",
         icon: <LaptopMac />,
     },
     {
         title: "Last date for submission of tutorials and workshop proposals",
-        date: "March 15, 2026",
+        date: "March 31, 2026",
         description: "",
         icon: <MdChecklist />,
     },
@@ -77,7 +77,7 @@ const events = [
 
 function ImportantDates() {
     const [updatedEvents, setUpdatedEvents] = useState(events.map(event => {
-        if (event.date === "March 15, 2026") {
+        if (event.date === "March 31, 2026") {
             return {
                 ...event,
                 date: (

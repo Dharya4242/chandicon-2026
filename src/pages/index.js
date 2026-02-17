@@ -22,7 +22,7 @@ import "react-vertical-timeline-component/style.min.css";
 const events = [
     {
         title: "Last date of submission for regular papers",
-        date: "March 15, 2026",
+        date: "March 31, 2026",
         description: "",
         icon: <LaptopMac />,
     },
