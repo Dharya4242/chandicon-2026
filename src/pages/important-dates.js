@@ -10,7 +10,7 @@ import { Handshake, LaptopMac } from "@mui/icons-material";
 import { MdChecklist } from "react-icons/md";
 import { BiTrophy } from "react-icons/bi";
 import styles from "@/styles/pages/importantdates.module.scss";
-import {useState} from 'react';
+import { useState } from 'react';
 
 const events = [
     {
@@ -27,7 +27,7 @@ const events = [
     },
     {
         title: "Last date of submission for regular papers",
-        date: "March 31, 2026",
+        date: "May 15, 2026",
         description: "",
         icon: <LaptopMac />,
     },
@@ -39,7 +39,7 @@ const events = [
     },
     {
         title: "Notification of regular paper acceptance",
-        date: "May 15, 2026",
+        date: "June 15, 2026",
         description: "",
         icon: <BiTrophy />,
     },
@@ -51,19 +51,19 @@ const events = [
     },
     {
         title: "Last date for early bird registration",
-        date: "May 31, 2026",
+        date: "June 30, 2026",
         description: "",
         icon: <BiTrophy />,
     },
     {
         title: "Last date for camera ready paper submission",
-        date: "June 10, 2026",
+        date: "June 30, 2026",
         description: "",
         icon: <BiTrophy />,
     },
     {
         title: "Last date for conference registration",
-        date: "June 15, 2026",
+        date: "July 10, 2026",
         description: "",
         icon: <BiTrophy />,
     },
@@ -77,19 +77,19 @@ const events = [
 
 function ImportantDates() {
     const [updatedEvents, setUpdatedEvents] = useState(events.map(event => {
-        if (event.date === "March 31, 2026") {
+        if (event.date === "May 15, 2026") {
             return {
                 ...event,
                 date: (
                     <>
                         {/* <del>{event.date}</del> <span style={{ color: 'red' }}>[Extended]: April 15, 2026</span> */}
                         <span>{event.date}</span>
-                        
+
                     </>
                 )
             };
         }
-        if (event.date === "May 15, 2026") {
+        if (event.date === "June 15, 2026") {
             return {
                 ...event,
                 date: (

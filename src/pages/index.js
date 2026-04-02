@@ -22,19 +22,19 @@ import "react-vertical-timeline-component/style.min.css";
 const events = [
     {
         title: "Last date of submission for regular papers",
-        date: "March 31, 2026",
+        date: "May 15, 2026",
         description: "",
         icon: <LaptopMac />,
     },
     {
         title: "Last date for early bird registration",
-        date: "May 31, 2026",
+        date: "June 30, 2026",
         description: "",
         icon: <BiTrophy />,
     },
     {
         title: "Last date for conference registration",
-        date: "June 15, 2026",
+        date: "July 10, 2026",
         description: "",
         icon: <BiTrophy />,
     },
