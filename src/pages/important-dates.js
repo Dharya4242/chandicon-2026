@@ -33,7 +33,7 @@ const events = [
     },
     {
         title: "Last date for submission of tutorials and workshop proposals",
-        date: "March 31, 2026",
+        date: "May 15, 2026",
         description: "",
         icon: <MdChecklist />,
     },
