@@ -74,21 +74,23 @@ export default function Home() {
                         backgroundSize: "cover",
                     }}
                 >
-                    <div className={styles.hero_box}>
-                        <p className={styles.sub_heading}>
-                            2026 IEEE Chandigarh Subsection International
-                            Conference (CHANDICON 2026)
-                        </p>
-{/* <h1>
-                          CHANDICON <span>2026</span>
-                        </h1>*/}
-                        <div
-                            style={{
-                                borderBottom: "4px solid #000",
-                                width: "50px",
-                            }}
-                        />
-                    </div>
+                   <div className={styles.hero_box}>
+    <p className={styles.sub_heading}>
+        2026 IEEE Chandigarh Subsection International
+        Conference (CHANDICON 2026)
+    </p>
+
+    {/* <h1>
+      CHANDICON <span>2026</span>
+    </h1>*/}
+
+    <div
+        style={{
+            borderBottom: "4px solid #000",
+            width: "50px",
+        }}
+    />
+</div>
                     <h2 className={styles.theme}>
                         Theme- Emerging Technologies Shaping Tomorrow
                     </h2>
