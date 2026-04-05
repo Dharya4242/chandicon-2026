@@ -77,11 +77,11 @@ export default function Home() {
                     <div className={styles.hero_box}>
                         <p className={styles.sub_heading}>
                             2026 IEEE Chandigarh Subsection International
-                            Conference
+                            Conference (CHANDICON 2026)
                         </p>
-                        <h1>
-                            (CHANDICON <span>2026)</span>
-                        </h1>
+                      //  <h1>
+                        //    CHANDICON <span>2026</span>
+                      //  </h1>
                         <div
                             style={{
                                 borderBottom: "4px solid #000",
