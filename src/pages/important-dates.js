@@ -45,7 +45,7 @@ const events = [
     },
     {
         title: "Notification of tutorials and workshop proposals acceptance",
-        date: "May 15, 2026",
+        date: "June 15, 2026",
         description: "",
         icon: <BiTrophy />,
     },
