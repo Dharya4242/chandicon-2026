@@ -613,7 +613,7 @@ export const COMMITTEE = {
         // },
         {
             name: "Dr. Arun K. Verma",
-            image: "/assets/committee/Dr. Arun Kumar Verma.jpg",
+            image_url: "/assets/committee/Dr. Arun Kumar Verma.jpg",
             designation: "Associate Professor, IIT Jammu",
             link: "https://www.iitjammu.ac.in/faculty/~arunkumarverma",
         },
