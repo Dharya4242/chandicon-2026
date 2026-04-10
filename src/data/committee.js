@@ -605,11 +605,17 @@ export const COMMITTEE = {
             image_url: "/assets/committee/DrPoojaCSIO.jpg",
             link: "https://icsio.csio.res.in/csio.ems/emp_profile.aspx?id=997",
         },
+        // {
+        //     name: "Sabarinath Pillai",
+        //     designation: "IEEE India Council",
+        //     image_url: "/assets/committee/Mr-Sabarinath-Pillai.webp",
+        //     link: "https://www.linkedin.com/in/sabaripillai/?originalSubdomain=in",
+        // },
         {
-            name: "Sabarinath Pillai",
-            designation: "IEEE India Council",
-            image_url: "/assets/committee/Mr-Sabarinath-Pillai.webp",
-            link: "https://www.linkedin.com/in/sabaripillai/?originalSubdomain=in",
+            name: "Dr. Arun K. Verma",
+            image: "/assets/committee/Dr. Arun Kumar Verma.jpg",
+            designation: "Associate Professor, IIT Jammu",
+            link: "https://www.iitjammu.ac.in/faculty/~arunkumarverma",
         },
 
     ],
