@@ -547,18 +547,24 @@ export const COMMITTEE = {
             image_url: "/assets/committee/rswalia.jpg",
             link: "https://pec.ac.in/pie/faculty/ravinderjit-singh-walia",
         },
-        // {
-        //     name: "Sanjeev Kumar",
-        //     designation: "PEC, Chandigarh",
-        //     image_url: "/assets/committee/sanjeev_0.jpg",
-        //     link: "https://uiet.puchd.ac.in/wp-content/uploads/FacultyCV/EEE/Y-P-Verma.pdf",
-        // },
-        {
-            name: "Rintu Khanna",
-            designation: "PEC, Chandigarh",
-            image_url: "/assets/committee/RintuKhanna.jpeg",
-            link: "https://pec.ac.in/ee/faculty/rintu-khanna",
+         {
+            name: "Y. P. Verma",
+            designation: "Punjab University, Chandigarh",
+            image_url: "/assets/committee/prof-y.p.-verma.jpg",
+            link: "https://uiet.puchd.ac.in/wp-content/uploads/FacultyCV/EEE/Y-P-Verma.pdf",
         },
+        {
+            name: "Sanjeev Kumar",
+            designation: "PEC, Chandigarh",
+            image_url: "/assets/committee/sanjeev_0.jpg",
+            link: "https://pec.ac.in/physics/faculty/sanjeev-kumar",
+        },
+        // {
+        //     name: "Rintu Khanna",
+        //     designation: "PEC, Chandigarh",
+        //     image_url: "/assets/committee/RintuKhanna.jpeg",
+        //     link: "https://pec.ac.in/ee/faculty/rintu-khanna",
+        // },
     ],
     "Local Arrangement Co-Chairs": [
         {
@@ -905,6 +911,12 @@ export const COMMITTEE = {
             designation: "Indian Institute of Technology, Guwahati",
             image_url: "/assets/committee/dr-john-jose.jpg",
             link: "https://www.iitg.ac.in/johnjose/",
+        },
+        {
+            name: "Rintu Khanna",
+            designation: "PEC, Chandigarh",
+            image_url: "/assets/committee/RintuKhanna.jpeg",
+            link: "https://pec.ac.in/ee/faculty/rintu-khanna",
         },
     ],
 
