@@ -114,7 +114,7 @@ function Sponsorship() {
                     Sponsors will be provided space (please mention your
                     requirement at the time of the contract upto 5mx5m) at the
                     very strategic place of the conference venue to showcase
-                    their products. Compilmentry 10 registrations.
+                    their products. Ten complementary registrations will be provided.
                 </p>
             </div>
 
