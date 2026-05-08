@@ -27,26 +27,17 @@ function CallForPapers() {
                     services as well as for software development and support.
             </p> */}
 
-            {/* <div className={styles.paper_wrapper}>
+            <div className={styles.paper_wrapper}>
                 <div className={styles.register}>
                     <a
-                        // href="/CFP CHANDICON 2026 Extended Deadline.pdf"
+                        href="https://cmt3.research.microsoft.com/CHANDICON2026/Submission/Index"
                         target="_blank"
                         referrerPolicy="no-referrer"
                     >
-                        <button>Click here to download</button>
+                        <button>Submit Paper</button>
                     </a>
                 </div>
-                <div className={styles.register}>
-                    <a
-                        // href="https://cmt3.research.microsoft.com/INDISCON2026/"
-                        target="_blank"
-                        referrerPolicy="no-referrer"
-                    >
-                        <button>Submit your paper</button>
-                    </a>
-                </div>
-            </div> */}
+            </div>
             
             <h2 className={`${styles.subheading} ${styles.sectionSpacing}`}>Technical Tracks</h2>
 

@@ -86,12 +86,12 @@ function createData(
 }
 
 const ieeeRows = [
-    createData("Indian Participant", "₹6,000", "₹8,000", "₹7,000", "₹9,000"),
+    createData("Indian Participant", "₹6,000", "₹9,000", "₹7,000", "₹11,000"),
     createData("Foriegn Participant", "$200", "$300", "$300", "$400"),
 ];
 
 const nonIeeeRows = [
-    createData("Indian Participant", "₹7,000", "₹9,000", "₹8,500", "₹10,500"),
+    createData("Indian Participant", "₹7,000", "₹10,000", "₹8,500", "₹12,000"),
     createData("Foriegn Participant", "$250", "$350", "$400", "$500"),
 ];
 
