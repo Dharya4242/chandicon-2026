@@ -59,7 +59,7 @@ function Sponsorship() {
                                 Sponsorship grade
                             </TableCell>
                             <TableCell sx={{ fontWeight: 700 }}>
-                                Amount of Contribution
+                                Amount of Contribution [excluding GST (18%)]
                             </TableCell>
                         </TableRow>
                     </TableHead>
@@ -99,7 +99,7 @@ function Sponsorship() {
             <div className={styles.sponsor_class}>
                 <h3>Title sponsors</h3>
                 <p>
-                    Sponsorship amount: <span>Rs. 10,00,000/-</span>
+                    Sponsorship amount: <span>Rs. 10,00,000/- + GST (18%)</span>
                 </p>
 
                 <p>
@@ -121,7 +121,7 @@ function Sponsorship() {
             <div className={styles.sponsor_class}>
                 <h3>Platinum sponsors</h3>
                 <p>
-                    Sponsorship amount: <span>Rs. 5,00,000/-</span>
+                    Sponsorship amount: <span>Rs. 5,00,000/- + GST (18%)</span>
                 </p>
 
                 <p>
@@ -136,14 +136,14 @@ function Sponsorship() {
                     4mX4m) at the very strategic place of the conference venue
                     to showcase their products. Acknowledgement to the sponsors
                     during inaugural welcome/closing event of the conference.
-                    Five complimentary registrations will be provided.
+                    Five complementary registrations will be provided.
                 </p>
             </div>
 
             <div className={styles.sponsor_class}>
                 <h3>Gold sponsors</h3>
                 <p>
-                    Sponsorship amount: <span>Rs. 3,00,000/-</span>
+                    Sponsorship amount: <span>Rs. 3,00,000/-  + GST (18%)</span>
                 </p>
 
                 <p>
@@ -155,14 +155,14 @@ function Sponsorship() {
                     requirement at the time of the contract upto 4mX4m) at the
                     exhibition venue of the conference to showcase their
                     products. Acknowledgement to the sponsors during inaugural
-                    welcome/closing event of the conference. Three complimentary registrations will be provided.
+                    welcome/closing event of the conference. Three complementary registrations will be provided.
                 </p>
             </div>
 
             <div className={styles.sponsor_class}>
                 <h3>Silver sponsors</h3>
                 <p>
-                    Sponsorship amount: <span>Rs. 2,00,000/-</span>
+                    Sponsorship amount: <span>Rs. 2,00,000/- + GST (18%)</span>
                 </p>
 
                 <p>
@@ -170,14 +170,14 @@ function Sponsorship() {
                     conference. Sponsors will be provided space (Please mention
                     your requirement at the time of the contract upto 3mX3m) at
                     the exhibition venue of the conference to showcase their
-                    products. Two complimentary registrations will be provided.
+                    products. Two complementary registrations will be provided.
                 </p>
             </div>
 
             <div className={styles.sponsor_class}>
                 <h3>Academic Partners</h3>
                 <p>
-                    Sponsorship amount: <span>Rs. 2,00,000/-</span>
+                    Sponsorship amount: <span>Rs. 2,00,000/-  + GST (18%)</span>
                 </p>
 
                 <p>
@@ -187,21 +187,21 @@ function Sponsorship() {
                     banner of the conference. Partner will be provided space
                     (Please mention your requirement at the time of the contract
                     upto 3mX3m) at the exhibition venue of the conference to
-                    showcase their Activities and Innovations. Two complimentary registrations will be provided.
+                    showcase their Activities and Innovations. Two complementary registrations will be provided.
                 </p>
             </div>
 
             <div className={styles.sponsor_class}>
                 <h3>Exhibitors</h3>
                 <p>
-                    Sponsorship amount: <span>Rs. 50,000/-</span>
+                    Sponsorship amount: <span>Rs. 50,000/-  + GST (18%)</span>
                 </p>
 
 
                 <p>
                     Exhibitors will be provided space at the exhibition venue of
                     the conference to showcase their Activities and Innovations.
-                    One complimentary registration will be provided.
+                    One complementary registration will be provided.
                 </p>
             </div>
 
