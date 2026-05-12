@@ -720,11 +720,23 @@ export const COMMITTEE = {
             link: "https://pec.ac.in/ece/faculty/Jaskirat-kaur",
         },
         {
-            name: "Amandeep Kaur",
+            name: " Jimmy Karloopia",
             designation: "PEC, Chandigarh",
-            image_url: "/assets/committee/DrAmandeepPEC.jpeg",
-            link: "https://pec.ac.in/cse/faculty/amandeep-kaur",
+            image_url: "/assets/committee/Jimmy Karloopia.png",
+            link: "https://pec.ac.in/pie/faculty/jimmy-karloopia",
         },
+        {
+            name: "Lokesh Rohilla",
+            designation: "PEC, Chandigarh",
+            image_url: "/assets/committee/Lokesh.jpg",
+            link: "https://pec.ac.in/me/faculty/lokesh",
+        },
+        // {
+        //     name: "Amandeep Kaur",
+        //     designation: "PEC, Chandigarh",
+        //     image_url: "/assets/committee/DrAmandeepPEC.jpeg",
+        //     link: "https://pec.ac.in/cse/faculty/amandeep-kaur",
+        // },
         // {
         //     name: "B. Adinarayana",
         //     designation: "PEC, Chandigarh",
