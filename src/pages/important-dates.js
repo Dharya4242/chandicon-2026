@@ -27,13 +27,21 @@ const events = [
     },
     {
         title: "Last date of submission for regular papers",
-        date: "May 15, 2026",
+        date: (
+            <span style={{ color: "red", textDecoration: "line-through" }}>
+                May 15, 2026
+            </span>
+        ),
         description: "",
         icon: <LaptopMac />,
     },
     {
         title: "Last date for submission of tutorials and workshop proposals",
-        date: "May 15, 2026",
+        date: (
+            <span style={{ color: "red", textDecoration: "line-through" }}>
+                May 15, 2026
+            </span>
+        ),
         description: "",
         icon: <MdChecklist />,
     },
