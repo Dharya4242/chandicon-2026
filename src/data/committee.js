@@ -376,6 +376,12 @@ export const COMMITTEE = {
             designation: "PEC, Chandigarh",
             image_url: "/assets/committee/DR-Gourab-Das.jpg",
             link: "https://pec.ac.in/ece/faculty/gourab-das",
+        },
+        {
+            name: "Savita Kashyap",
+            designation: "PEC, Chandigarh",
+            image_url: "/assets/committee/Dr_Savita_kashyap.png",
+            link: "https://www.linkedin.com/in/dr-savita-kashyap-a6070a13a/",
         },      
     ],
     "Conveners": [
