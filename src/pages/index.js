@@ -276,7 +276,7 @@ export default function Home() {
                                 referrerPolicy="no-referrer"
                             // title="Will be activated soon..."
                             >
-                                <button>Submit Paper</button>
+                                <button disabled>Submit Paper</button>
                                 {/* <button> Oral and Poster presentation guidelines</button> */}
                                 {/* <button>List of accepted papers</button>*/}
                             </a>
