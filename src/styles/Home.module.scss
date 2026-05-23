@@ -237,12 +237,10 @@
                 }
 
                 &:disabled {
-                    background-color: #bdbdbd;
+                    background-color: #9e9e9e;
                     border: 2px solid #9e9e9e;
-                    color: #666;
+                    color: white;
                     cursor: not-allowed;
-                    box-shadow: none;
-                    opacity: 0.8;
                 }
             }
         }
