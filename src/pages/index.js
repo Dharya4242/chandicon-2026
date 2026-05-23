@@ -31,6 +31,12 @@ const events = [
         icon: <LaptopMac />,
     },
     {
+        title: "Notification of regular paper acceptance",
+        date: "June 15, 2026",
+        description: "",
+        icon: <BiTrophy />,
+    },
+    {
         title: "Last date for early bird registration",
         date: "June 30, 2026",
         description: "",
