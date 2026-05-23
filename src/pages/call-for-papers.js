@@ -34,7 +34,7 @@ function CallForPapers() {
                         target="_blank"
                         referrerPolicy="no-referrer"
                     >
-                        <button>Submit Paper</button>
+                        <button disabled>Submit Paper</button>
                     </a>
                 </div>
             </div>
