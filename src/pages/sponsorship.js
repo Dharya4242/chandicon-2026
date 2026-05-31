@@ -85,6 +85,10 @@ function Sponsorship() {
                             <TableCell>INR 2,00,000</TableCell>
                         </TableRow>
                         <TableRow hover>
+                            <TableCell>Bronze Sponsors</TableCell>
+                            <TableCell>INR 1,00,000</TableCell>
+                        </TableRow>
+                        <TableRow hover>
                             <TableCell>Exhibitors</TableCell>
                             <TableCell>INR 50,000</TableCell>
                         </TableRow>
@@ -111,10 +115,9 @@ function Sponsorship() {
                     resolution jpg file in a CD at the time of the contract)
                     will appear in all announcement materials/documents
                     including banner, poster, proceedings of the conference.
-                    Sponsors will be provided space (please mention your
-                    requirement at the time of the contract upto 5mx5m) at the
+                    Sponsors will be provided space (upto 5mx5m) at the
                     very strategic place of the conference venue to showcase
-                    their products. Ten complementary registrations will be provided.
+                    their products. Complimentary 10 registrations will be provided.
                 </p>
             </div>
 
@@ -125,19 +128,19 @@ function Sponsorship() {
                 </p>
 
                 <p>
-                    Main stage panels, Podium, Inaugural ceremony presence, Gala
-                    dinner Invite, Social media mentions, Inclusion in PR
-                    Activity, Name of the sponsor as well as its logo (Please
-                    provide a high resolution jpg file in a CD at the time of
-                    the contract) will appear in all announcement
-                    materials/documents including banner, poster, proceedings of
-                    the conference. Sponsors will be provided space (please
-                    mention your requirement at the time of the contract upto
-                    4mX4m) at the very strategic place of the conference venue
-                    to showcase their products. Acknowledgement to the sponsors
-                    during inaugural welcome/closing event of the conference.
-                    Five complementary registrations will be provided.
+                    Main stage panels, Podium, Inaugural ceremony presence, 
+                    Gala dinner Invite, Social media mentions, Inclusion in PR 
+                    Activity, Name of the sponsor as well as its logo 
+                    (Please provide a high resolution jpg file in a CD at 
+                    the time of the contract) will appear in all announcement 
+                    materials/documents including banner, poster, proceedings 
+                    of the conference. Sponsors will be provided space 
+                    (upto 4mX4m) at the very strategic place of the conference 
+                    venue to showcase their products. Acknowledgement to the 
+                    sponsors during inaugural welcome/closing event of the 
+                    conference. Complimentary 5 registrations will be provided.
                 </p>
+
             </div>
 
             <div className={styles.sponsor_class}>
@@ -147,15 +150,14 @@ function Sponsorship() {
                 </p>
 
                 <p>
-                    Name of the sponsor as well as its logo (Please provide a
-                    high resolution jpg file in a CD at the time of the
-                    contract) will appear in all announcement materials
-                    including banner, poster of the conference.
-                    Sponsors will be provided space (Please mention your
-                    requirement at the time of the contract upto 4mX4m) at the
-                    exhibition venue of the conference to showcase their
-                    products. Acknowledgement to the sponsors during inaugural
-                    welcome/closing event of the conference. Three complementary registrations will be provided.
+                    Name of the sponsor as well as its logo (Please provide a 
+                    high resolution jpg file in a CD at the time of the contract) 
+                    will appear in all announcement materials including banner, 
+                    poster of the conference. Sponsors will be provided space 
+                    (upto 4mX4m) at the exhibition venue of the conference to 
+                    showcase their products. Acknowledgement to the sponsors 
+                    during inaugural welcome/closing event of the conference. 
+                    Complimentary 3 registrations will be provided.
                 </p>
             </div>
 
@@ -166,11 +168,10 @@ function Sponsorship() {
                 </p>
 
                 <p>
-                    Sponsors name will be displayed in the event banner of the
-                    conference. Sponsors will be provided space (Please mention
-                    your requirement at the time of the contract upto 3mX3m) at
-                    the exhibition venue of the conference to showcase their
-                    products. Two complementary registrations will be provided.
+                    Sponsors name will be displayed in the event banner of the 
+                    conference. Sponsors will be provided space (upto 3mX3m) 
+                    at the exhibition venue of the conference to showcase their 
+                    products. Complimentary 2 registrations will be provided.
                 </p>
             </div>
 
@@ -181,13 +182,27 @@ function Sponsorship() {
                 </p>
 
                 <p>
-                    This option is only open to the Academic
-                    institution/Colleges/Universities where IEEE Student
-                    branches exist. Partner name will be displayed in the event
-                    banner of the conference. Partner will be provided space
-                    (Please mention your requirement at the time of the contract
-                    upto 3mX3m) at the exhibition venue of the conference to
-                    showcase their Activities and Innovations. Two complementary registrations will be provided.
+                    This option is only open to the Academic 
+                    institution/Colleges/Universities where IEEE Student branches 
+                    exist. Partner name will be displayed in the event banner of 
+                    the conference. Partner will be provided space (upto 3mX3m) 
+                    at the exhibition venue of the conference to showcase their 
+                    Activities and Innovations. Complimentary 2 registrations 
+                    will be provided.
+                </p>
+            </div>
+
+            <div className={styles.sponsor_class}>
+                <h3>Bronze sponsors</h3>
+                <p>
+                    Sponsorship amount: <span>Rs. 1,00,000/- + GST (18%)</span>
+                </p>
+
+                <p>
+                    Sponsors name will be displayed in the event banner of the 
+                    conference. Sponsors will be provided space (upto 3mX3m) at 
+                    the exhibition venue of the conference to showcase their products. 
+                    Complimentary 1 registration will be provided.
                 </p>
             </div>
 
@@ -199,9 +214,9 @@ function Sponsorship() {
 
 
                 <p>
-                    Exhibitors will be provided space at the exhibition venue of
-                    the conference to showcase their Activities and Innovations.
-                    One complementary registration will be provided.
+                    Exhibitors will be provided space at the exhibition venue 
+                    of the conference to showcase their Activities and Innovations. 
+                    Complimentary 1 registration will be provided.
                 </p>
             </div>
 
