@@ -261,17 +261,18 @@ export default function Home() {
 
                     <div className={styles.paper_wrapper}>
                         <div className={styles.register}>
-                            <Link
-                                href="/call-for-papers"
+                            <a
+                                href="https://force-india.com/chandicon/"
+                                target="_blank"
+                                rel="noopener noreferrer"
                             >
-                                {/* <button>Call for Papers</button> */}
-                                <button>Camera Ready Submission Guidelines</button>
-                            </Link>
+                                <button>Conference Registration</button>
+                            </a>
                         </div>
                         <div className={styles.register}>
                             <a
-                                // href="https://cmt3.research.microsoft.com/CHANDICON2026/Submission/Index"
-                                href="/Instructions for Camera ready Website.pdf"
+                                href="https://cmt3.research.microsoft.com/CHANDICON2026/Submission/Index"
+                                // href="/Instructions for Camera ready Website.pdf"
                                 
                                 // href="/INDISOCN Oral and Poster presentation guidelines.pdf"
                                 //href="/List of Oral and Posters.pdf"
@@ -283,6 +284,13 @@ export default function Home() {
                                 {/* <button> Oral and Poster presentation guidelines</button> */}
                                 {/* <button>List of accepted papers</button>*/}
                             </a>
+                        </div>
+                        <div className={styles.register}>
+                            <Link
+                                href="/Instructions for Camera Ready Submission Guidelines.pdf"
+                            >
+                                <button>Camera Ready Submission Guidelines</button>
+                            </Link>
                         </div>
 
                     </div>
