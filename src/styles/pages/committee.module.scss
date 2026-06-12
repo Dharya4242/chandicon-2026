@@ -79,7 +79,13 @@
             }
         }
     }
+    .wideCard {
+        width: 500px !important;
+        max-width: 600px !important;
+    }
 }
+
+
 
 @media screen and (max-width: $navbar-breakpoint) {
     .heads {
@@ -131,3 +137,5 @@
         }
     }
 }
+
+

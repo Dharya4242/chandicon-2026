@@ -80,7 +80,14 @@ function Committees() {
                                                   "/assets/logos/ieee-logo.png"
                                               );
                                     return (
-                                        <div className={styles.card} key={i}>
+                                        <div
+                                            className={`${styles.card} ${
+                                                key === "Professional Conference Organiser (Official Event Partner)"
+                                                    ? styles.wideCard
+                                                    : ""
+                                            }`}
+                                            key={i}
+                                        >
                                             {/*  eslint-disable-next-line @next/next/no-img-element */}
                                             <img
                                                 height={70}
