@@ -264,12 +264,15 @@ export default function Home() {
                             <Link
                                 href="/call-for-papers"
                             >
-                                <button>Call for Papers</button>
+                                {/* <button>Call for Papers</button> */}
+                                <button>Camera Ready Submission Guidelines</button>
                             </Link>
                         </div>
                         <div className={styles.register}>
                             <a
-                                href="https://cmt3.research.microsoft.com/CHANDICON2026/Submission/Index"
+                                // href="https://cmt3.research.microsoft.com/CHANDICON2026/Submission/Index"
+                                href="/Instructions for Camera ready Website.pdf"
+                                
                                 // href="/INDISOCN Oral and Poster presentation guidelines.pdf"
                                 //href="/List of Oral and Posters.pdf"
                                 target="_blank"
