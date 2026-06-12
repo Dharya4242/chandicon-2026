@@ -255,6 +255,11 @@ function Registration() {
                             or before 30th June 2026 and Camera Ready 
                             Paper is submitted.
                         </li>
+                        <li>
+                            Non-refundable registration fee must be paid prior
+                            to uploading the final IEEE formatted, Camera-ready
+                            version of the paper and e-copyright form.
+                        </li>
                         
 {/*                             
                         
