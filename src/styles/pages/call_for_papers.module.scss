@@ -179,3 +179,17 @@
 .sectionSpacing {
     margin-top: 40px;
 }
+
+.paperTable {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+
+    td {
+        border: 1px solid #cfcfcf;
+        padding: 12px;
+        text-align: center;
+        width: 16.66%;
+        font-weight: 500;
+    }
+}

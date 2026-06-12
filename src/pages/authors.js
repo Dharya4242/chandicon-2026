@@ -157,6 +157,59 @@ function authors() {
                 </div>
             </div>
                              */}
+           
+            {/* <div className={styles.submission}>
+                <h2>List of Papers for Oral Presentation</h2>
+
+                <table className={styles.paperTable}>
+                    <tbody>
+                        <tr>
+                            <td>101</td>
+                            <td>105</td>
+                            <td>112</td>
+                            <td>118</td>
+                            <td>125</td>
+                            <td>130</td>
+                        </tr>
+
+                        <tr>
+                            <td>135</td>
+                            <td>140</td>
+                            <td>145</td>
+                            <td>150</td>
+                            <td>155</td>
+                            <td>160</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <div className={styles.submission}>
+                <h2>List of Papers for Poster Presentation</h2>
+
+                <table className={styles.paperTable}>
+                    <tbody>
+                        <tr>
+                            <td>203</td>
+                            <td>207</td>
+                            <td>214</td>
+                            <td>225</td>
+                            <td>231</td>
+                            <td>240</td>
+                        </tr>
+
+                        <tr>
+                            <td>245</td>
+                            <td>250</td>
+                            <td>255</td>
+                            <td>260</td>
+                            <td>265</td>
+                            <td>270</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div> */}
+                
             <p>
                     The Microsoft CMT service is being used for managing the peer-reviewing
                     process for this conference. This service is provided for free by

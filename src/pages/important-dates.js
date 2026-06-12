@@ -47,7 +47,12 @@ const events = [
     },
     {
         title: "Notification of regular paper acceptance",
-        date: "June 15, 2026",
+        date: (
+            <>
+                <del style={{ color: "red" }}>June 15, 2026</del>
+                {" "}June 12, 2026
+            </>
+        ),
         description: "",
         icon: <BiTrophy />,
     },

@@ -32,12 +32,23 @@ const events = [
     },
     {
         title: "Notification of regular paper acceptance",
-        date: "June 15, 2026",
+        date: (
+            <>
+                <del style={{ color: "red" }}>June 15, 2026</del>
+                {" "}June 12, 2026
+            </>
+        ),
         description: "",
         icon: <BiTrophy />,
     },
     {
-        title: "Last date for early bird registration",
+        title: (
+            <>
+                Last Date for Camera Ready Paper Submission /   
+                <br />
+                Early Bird Registration
+            </>
+        ),
         date: "June 30, 2026",
         description: "",
         icon: <BiTrophy />,
