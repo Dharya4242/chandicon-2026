@@ -938,4 +938,12 @@ export const COMMITTEE = {
         },
     ],
 
+     "Professional Conference Organiser (Official Event Partner)": [
+        {
+            name: "FORCE (Future Oriented Research Conferences and Exhibitions) Pvt. Ltd.",
+            designation: "Contact Person: Mr. Deepak Aggarwal",
+            image_url: "force-main-logo.png",
+        },
+    ]
+
 };
