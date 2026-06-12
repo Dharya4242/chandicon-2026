@@ -238,6 +238,26 @@ function Registration() {
                             library.
                         </li>
                         <li>
+                            One author can register for maximum of two 
+                            papers only.
+                        </li>
+                        <li>
+                            In case an author wants to register for 
+                            two papers, full registration fee will be 
+                            applicable for first paper and 50% of 
+                            registration fee will apply for second 
+                            paper as per registration category.
+                        </li>
+                        <li>
+                            For the paper to be accepted in the Final 
+                            Programme of the conference, it is expected 
+                            that at least one author is registered on 
+                            or before 30th June 2026 and Camera Ready 
+                            Paper is submitted.
+                        </li>
+                        
+{/*                             
+                        
                             If more than one author of an accepted paper wishes
                             to attend the conference, all such authors need to
                             be registered separately by paying applicable
@@ -252,7 +272,7 @@ function Registration() {
                             Non-refundable registration fee must be paid prior
                             to uploading the final IEEE formatted, Camera-ready
                             version of the paper and e-copyright form.
-                        </li>
+                        </li> */}
                     </ol>
                 </div>
                 <div className={styles.section}>
