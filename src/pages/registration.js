@@ -211,6 +211,12 @@ function Registration() {
             </h5>
 
             <div className={styles.register}>
+                <Link href="https://force-india.com/chandicon/" >
+                    <button>Conference Registration</button>
+                </Link>
+            </div>
+
+            <div className={styles.register}>
                 <a
                     // href="https://web.ticketdude.app/e/72"
                     target="_blank"
