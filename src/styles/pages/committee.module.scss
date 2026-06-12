@@ -80,8 +80,12 @@
         }
     }
     .wideCard {
-        width: 500px !important;
+        width: 700px !important;
         max-width: 600px !important;
+    }
+    .wideCard img {
+        width: 140px;
+        height: 140px;
     }
 }
 
