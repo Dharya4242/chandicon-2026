@@ -7,7 +7,6 @@ import TableCell from "@mui/material/TableCell";
 import TableContainer from "@mui/material/TableContainer";
 import TableHead from "@mui/material/TableHead";
 import TableRow from "@mui/material/TableRow";
-import { BANK_DETAILS } from "@/data/bank";
 
 const ieeeColumns = [
     {
@@ -87,12 +86,12 @@ function createData(
 
 const ieeeRows = [
     createData("Indian Participant", "₹6,000", "₹9,000", "₹7,000", "₹11,000"),
-    createData("Foriegn Participant", "$200", "$300", "$300", "$400"),
+    createData("Foreign Participant", "$200", "$300", "$300", "$400"),
 ];
 
 const nonIeeeRows = [
     createData("Indian Participant", "₹7,000", "₹10,000", "₹8,500", "₹12,000"),
-    createData("Foriegn Participant", "$250", "$350", "$400", "$500"),
+    createData("Foreign Participant", "$250", "$350", "$400", "$500"),
 ];
 
 function Registration() {
@@ -114,7 +113,7 @@ function Registration() {
                             </TableCell>
                             <TableCell
                                 align="center"
-                                colSpan={3}
+                                colSpan={2}
                                 style={{ fontWeight: "800" }}
                             >
                                 Late Registration
@@ -211,20 +210,24 @@ function Registration() {
             </h5>
 
             <div className={styles.register}>
-                <Link href="https://force-india.com/chandicon/" >
+                <a
+                    href="https://force-india.com/chandicon/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
                     <button>Conference Registration</button>
-                </Link>
+                </a>
             </div>
 
-            <div className={styles.register}>
+            {/* <div className={styles.register}>
                 <a
                     // href="https://web.ticketdude.app/e/72"
                     target="_blank"
                     referrerPolicy="no-referrer"
                 >
-                    {/* <button>Conference Registration</button> */}
+                    <button>Conference Registration</button>
                 </a>
-            </div>
+            </div> */}
             <p style={{ margin: "20px 0", textAlign: 'center', fontWeight: "600" }}>
                         Note: Download the receipt and deposit a copy at
                         conference venue.
