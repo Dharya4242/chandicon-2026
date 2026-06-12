@@ -287,7 +287,7 @@ export default function Home() {
                         </div>
                         <div className={styles.register}>
                             <Link
-                                href="/Instructions for Camera Ready Submission Guidelines.pdf"
+                                href="/Instructions for Camera ready Website.pdf"
                             >
                                 <button>Camera Ready Submission Guidelines</button>
                             </Link>
