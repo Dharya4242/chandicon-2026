@@ -288,24 +288,32 @@
     margin: 30px 0;
 }
 
-.acceptedMarquee {
-    background: #fff1f1;
-    color: #b30000;
-    padding: 10px 0;
-    font-size: 18px;
-    font-weight: 700;
-    border-top: 2px solid #b30000;
-    border-bottom: 2px solid #b30000;
+.noticeMarquee {
+    background: #fff7f7;
+    border-top: 1px solid #e0b4b4;
+    border-bottom: 1px solid #e0b4b4;
+    padding: 8px 0;
 }
 
-.acceptedLink {
-    color: #d10000;
-    font-weight: 800;
+.noticeText {
+    color: #b30000;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.noticeLink {
+    color: inherit;
+    font-weight: 600;
     text-decoration: underline;
     cursor: pointer;
-    margin: 0 4px;
+    margin: 0 3px;
 
     &:hover {
-        color: #7a0000;
+        opacity: 0.8;
     }
+}
+
+.noticeSeparator {
+    margin: 0 18px;
+    color: #b30000;
 }

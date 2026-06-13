@@ -85,25 +85,38 @@ export default function Home() {
                 </Marquee>
                 
                 <Marquee
-                    speed={60}
+                    speed={55}
                     pauseOnHover={true}
                     gradient={false}
-                    className={styles.acceptedMarquee}
+                    className={styles.noticeMarquee}
                 >
-                    <span style={{ fontWeight: "700" }}>
+                    <span className={styles.noticeText}>
                         📢{" "}
 
                         <Link href="/authors#accepted-papers">
-                            <span className={styles.acceptedLink}>
+                            <span className={styles.noticeLink}>
                                 Click Here
                             </span>
                         </Link>
 
                         {" "}
-                        to view the Accepted Papers and Presentation Type List.
+                        to view the Accepted Papers &
+                        Presentation Type List.
+
+                        <span className={styles.noticeSeparator}>
+                            |
+                        </span>
+
+                        <Link href="/registration#registration-button">
+                            <span className={styles.noticeLink}>
+                                Click Here
+                            </span>
+                        </Link>
+
+                        {" "}
+                        for Conference Registration.
                     </span>
                 </Marquee>
-
                 <main
                     className={styles.main}
                     style={{

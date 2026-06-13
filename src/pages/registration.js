@@ -209,7 +209,10 @@ function Registration() {
                 * The registration fee does not include GST or any other taxes/convenience charges as applicable.
             </h5>
 
-            <div className={styles.register}>
+            <div
+                id="registration-button"
+                className={styles.register}
+            >
                 <a
                     href="https://force-india.com/chandicon/"
                     target="_blank"
