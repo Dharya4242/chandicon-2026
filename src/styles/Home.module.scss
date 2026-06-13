@@ -287,3 +287,25 @@
 .divider {
     margin: 30px 0;
 }
+
+.acceptedMarquee {
+    background: #fff1f1;
+    color: #b30000;
+    padding: 10px 0;
+    font-size: 18px;
+    font-weight: 700;
+    border-top: 2px solid #b30000;
+    border-bottom: 2px solid #b30000;
+}
+
+.acceptedLink {
+    color: #d10000;
+    font-weight: 800;
+    text-decoration: underline;
+    cursor: pointer;
+    margin: 0 4px;
+
+    &:hover {
+        color: #7a0000;
+    }
+}

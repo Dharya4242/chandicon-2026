@@ -83,6 +83,27 @@ export default function Home() {
                         </p>
                     ))}
                 </Marquee>
+                
+                <Marquee
+                    speed={60}
+                    pauseOnHover={true}
+                    gradient={false}
+                    className={styles.acceptedMarquee}
+                >
+                    <span style={{ fontWeight: "700" }}>
+                        📢{" "}
+
+                        <Link href="/authors#accepted-papers">
+                            <span className={styles.acceptedLink}>
+                                Click Here
+                            </span>
+                        </Link>
+
+                        {" "}
+                        to view the Accepted Papers and Presentation Type List.
+                    </span>
+                </Marquee>
+
                 <main
                     className={styles.main}
                     style={{
