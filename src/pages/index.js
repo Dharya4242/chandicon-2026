@@ -115,6 +115,17 @@ export default function Home() {
 
                         {" "}
                         for Conference Registration.
+
+                        <span className={styles.noticeSeparator}>
+                            |
+                        </span>
+
+                        <Link href="/Instructions for Camera Ready Submission Guidelines.pdf">
+                            <span className={styles.noticeLink}>
+                                Camera Ready Submission Guidelines
+                            </span>
+                        </Link>
+
                     </span>
                 </Marquee>
                 <main
@@ -317,8 +328,6 @@ export default function Home() {
                         <div className={styles.register}>
                             <a
                                 href="https://cmt3.research.microsoft.com/CHANDICON2026/Submission/Index"
-                                // href="/Instructions for Camera ready Website.pdf"
-                                
                                 // href="/INDISOCN Oral and Poster presentation guidelines.pdf"
                                 //href="/List of Oral and Posters.pdf"
                                 target="_blank"
@@ -332,7 +341,7 @@ export default function Home() {
                         </div>
                         <div className={styles.register}>
                             <Link
-                                href="/Instructions for Camera ready Website.pdf"
+                                href="/Instructions for Camera Ready Submission Guidelines.pdf"
                             >
                                 <button>Camera Ready Submission Guidelines</button>
                             </Link>
