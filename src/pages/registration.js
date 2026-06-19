@@ -218,7 +218,7 @@ function Registration() {
                     target="_blank"
                     rel="noopener noreferrer"
                 >
-                    <button>Conference Registration</button>
+                    <button>Register Here</button>
                 </a>
             </div>
 
