@@ -34,7 +34,7 @@ const events = [
         title: "Notification of regular paper acceptance",
         date: (
             <>
-                <del style={{ color: "red" }}>June 15, 2026</del>
+                <del style={{ color: "red",textDecoration: "line-through" }}>June 15, 2026</del>
                 {" "}June 12, 2026
             </>
         ),
@@ -44,12 +44,17 @@ const events = [
     {
         title: (
             <>
-                Last Date for Camera Ready Paper Submission /   
-                <br />
-                Early Bird Registration
+                Last Date for Camera Ready Paper Submission 
+                {/* /<br /> 
+                 Early Bird Registration */}
             </>
         ),
-        date: "June 30, 2026",
+        date: (
+            <>
+                <del style={{ color: "red",textDecoration: "line-through"}}>June 30, 2026</del>
+                {" "}July 10, 2026
+            </>
+        ),
         description: "",
         icon: <BiTrophy />,
     },

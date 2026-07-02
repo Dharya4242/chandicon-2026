@@ -15,13 +15,21 @@ import { useState } from 'react';
 const events = [
     {
         title: "Call for papers",
-        date: "January 10, 2026",
+        date: (
+            <span style={{ color: "red", textDecoration: "line-through" }}>
+                January 10, 2026
+            </span>
+        ),
         description: "",
         icon: <AiOutlineForm />,
     },
     {
         title: "Call for tutorials and workshop proposals",
-        date: "January 10, 2026",
+        date: (
+            <span style={{ color: "red", textDecoration: "line-through" }}>
+                January 10, 2026
+            </span>
+        ),
         description: "",
         icon: <Handshake />,
     },
@@ -58,19 +66,24 @@ const events = [
     },
     {
         title: "Notification of tutorials and workshop proposals acceptance",
-        date: "June 15, 2026",
+        date: ( <del style={{ color: "red" }}>June 15, 2026</del> ),
         description: "",
         icon: <BiTrophy />,
     },
     {
         title: "Last date for early bird registration",
-        date: "June 30, 2026",
+        date: ( <del style={{ color: "red" }}>June 30, 2026</del> ),
         description: "",
         icon: <BiTrophy />,
     },
     {
         title: "Last date for camera ready paper submission",
-        date: "June 30, 2026",
+        date: (
+            <>
+                <del style={{ color: "red" }}>June 30, 2026</del>
+                {" "}July 10, 2026
+            </>
+        ),
         description: "",
         icon: <BiTrophy />,
     },
