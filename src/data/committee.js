@@ -565,12 +565,12 @@ export const COMMITTEE = {
             image_url: "/assets/committee/sanjeev_0.jpg",
             link: "https://pec.ac.in/physics/faculty/sanjeev-kumar",
         },
-        // {
-        //     name: "Rintu Khanna",
-        //     designation: "PEC, Chandigarh",
-        //     image_url: "/assets/committee/RintuKhanna.jpeg",
-        //     link: "https://pec.ac.in/ee/faculty/rintu-khanna",
-        // },
+        {
+            name: "Divya Agrawal",
+            designation: "CSIR-CSIO, Chandigarh",
+            image_url: "/assets/committee/divya_agrawal.jpg",
+            link: "https://icsio.csio.res.in/csio.ems/emp_profile.aspx?id=1023",
+        },
     ],
     "Local Arrangement Co-Chairs": [
         {
