@@ -105,7 +105,7 @@ export default function Home() {
                         </Link>
 
                         {" "}
-                        to view the Accepted Papers &
+                        to view Accepted Papers &
                         Presentation Type List.
 
                         <span className={styles.noticeSeparator}>
