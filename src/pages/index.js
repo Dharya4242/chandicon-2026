@@ -98,15 +98,16 @@ export default function Home() {
                     <span className={styles.noticeText}>
                         📢{" "}
 
-                        <Link href="/authors#accepted-papers">
-                            <span className={styles.noticeLink}>
-                                Click Here
-                            </span>
-                        </Link>
+                        <a
+                            href="/tentative_schedule_website.pdf"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className={styles.noticeLink}
+                        >
+                            Click Here
+                        </a>
 
-                        {" "}
-                        to view Accepted Papers &
-                        Presentation Type List.
+                        {" "}to view the Tentative Schedule
 
                         <span className={styles.noticeSeparator}>
                             |
