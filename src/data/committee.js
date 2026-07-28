@@ -565,12 +565,7 @@ export const COMMITTEE = {
             image_url: "/assets/committee/sanjeev_0.jpg",
             link: "https://pec.ac.in/physics/faculty/sanjeev-kumar",
         },
-        {
-            name: "Divya Agrawal",
-            designation: "CSIR-CSIO, Chandigarh",
-            image_url: "/assets/committee/divya_agrawal.jpg",
-            link: "https://icsio.csio.res.in/csio.ems/emp_profile.aspx?id=1023",
-        },
+        
     ],
     "Local Arrangement Co-Chairs": [
         {
@@ -584,6 +579,12 @@ export const COMMITTEE = {
             designation: "Chandigarh University",
             image_url: "/assets/committee/dr-birinderjit-singh.jpg",
             link: "https://www.linkedin.com/in/birinderjit-singh-801348173/?originalSubdomain=in",
+        },
+        {
+            name: "Divya Agrawal",
+            designation: "CSIR-CSIO, Chandigarh",
+            image_url: "/assets/committee/divya_agrawal.jpg",
+            link: "https://icsio.csio.res.in/csio.ems/emp_profile.aspx?id=1023",
         },
     ],
     "Publicity Chairs": [
