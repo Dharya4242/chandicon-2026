@@ -317,3 +317,141 @@
     margin: 0 10px;
     color: #b30000;
 }
+
+/* ===========================
+   Sponsors Section
+=========================== */
+
+.sponsorsSection {
+    max-width: 1280px;
+    margin: 70px auto;
+    padding: 0 20px;
+    text-align: center;
+
+    h2 {
+        color: $acm-primary;
+        font-size: 42px;
+        font-weight: 700;
+        margin-bottom: 50px;
+    }
+}
+
+.sponsorCategory {
+    margin-bottom: 55px;
+
+    h3 {
+        color: $acm-primary;
+        font-size: 28px;
+        font-weight: 600;
+        margin-bottom: 25px;
+        display: inline-block;
+        padding-bottom: 8px;
+        border-bottom: 3px solid $acm-primary;
+    }
+}
+
+.sponsorGrid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 32px;
+}
+
+.sponsorCard {
+    width: 260px;
+    height: 140px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background: #fff;
+    border: 1px solid #e6e6e6;
+    border-radius: 12px;
+
+    padding: 12px;
+
+    transition: transform 0.25s ease,
+                box-shadow 0.25s ease;
+
+    img {
+        max-width: 220px;
+        max-height: 100px;
+        width: auto;
+        height: auto;
+        object-fit: contain;
+        display: block;
+    }
+
+    &:hover {
+        transform: translateY(-4px);
+        box-shadow: 0 10px 22px rgba(0,0,0,0.12);
+    }
+}
+
+/* ---------- Responsive ---------- */
+
+@media (max-width: 992px) {
+
+    .sponsorsSection h2 {
+        font-size: 36px;
+    }
+
+    .sponsorCategory h3 {
+        font-size: 24px;
+    }
+
+    .sponsorCard {
+        width: 220px;
+        height: 120px;
+
+        img {
+            max-width: 180px;
+            max-height: 80px;
+        }
+    }
+}
+
+@media (max-width: 768px) {
+
+    .sponsorGrid {
+        gap: 24px;
+    }
+
+    .sponsorCard {
+        width: 190px;
+        height: 105px;
+
+        img {
+            max-width: 155px;
+            max-height: 70px;
+        }
+    }
+}
+
+@media (max-width: 500px) {
+
+    .sponsorsSection h2 {
+        font-size: 30px;
+    }
+
+    .sponsorCategory h3 {
+        font-size: 22px;
+    }
+
+    .sponsorGrid {
+        gap: 16px;
+    }
+
+    .sponsorCard {
+        width: 150px;
+        height: 90px;
+        padding: 8px;
+
+        img {
+            max-width: 125px;
+            max-height: 55px;
+        }
+    }
+}

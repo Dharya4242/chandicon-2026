@@ -369,7 +369,93 @@ export default function Home() {
                 {/* </p>
                  </div> */}
 
+            <div className={styles.sponsorsSection}>
+                <h2>Our Sponsors</h2>
 
+                {/* Silver Sponsors */}
+                <div className={styles.sponsorCategory}>
+                    <h3>Silver Sponsors</h3>
+
+                    <div className={styles.sponsorGrid}>
+                        <div className={styles.sponsorCard}>
+                            <img
+                                src={getAssetName("/assets/logos/OPAL-RT_2.png")}
+                                alt="Opal-RT"
+                            />
+                        </div>
+
+                        <div className={styles.sponsorCard}>
+                            <img
+                                src={getAssetName("/assets/logos/Syngient logo.png")}
+                                alt="Syngient"
+                            />
+                        </div>
+                    </div>
+                </div>
+
+                {/* Bronze Sponsors */}
+                <div className={styles.sponsorCategory}>
+                    <h3>Bronze Sponsors</h3>
+
+                    <div className={styles.sponsorGrid}>
+                        <div className={styles.sponsorCard}>
+                            <img
+                                src={getAssetName("/assets/logos/logo_BP_Infra.png")}
+                                alt="BP Infra"
+                            />
+                        </div>
+
+                        <div className={styles.sponsorCard}>
+                            <img
+                                src={getAssetName("/assets/logos/Ansys Synopsys logo.png")}
+                                alt="ANSYS"
+                            />
+                        </div>
+
+                        <div className={styles.sponsorCard}>
+                            <img
+                                src={getAssetName("/assets/logos/intechadditive_logo.jpeg")}
+                                alt="Intech Additive"
+                            />
+                        </div>
+                    </div>
+                </div>
+
+                {/* Exhibitors */}
+                <div className={styles.sponsorCategory}>
+                    <h3>Exhibitors</h3>
+
+                    <div className={styles.sponsorGrid}>
+                        <div className={styles.sponsorCard}>
+                            <img
+                                src={getAssetName("/assets/logos/Verka-Logo.png")}
+                                alt="Verka"
+                            />
+                        </div>
+                    </div>
+                </div>
+
+                {/* Other Sponsors */}
+                <div className={styles.sponsorCategory}>
+                    <h3>Other Sponsors</h3>
+
+                    <div className={styles.sponsorGrid}>
+                        <div className={styles.sponsorCard}>
+                            <img
+                                src={getAssetName("/assets/logos/Agmatel+Keysight Logo.png")}
+                                alt="Agmatel"
+                            />
+                        </div>
+
+                        <div className={styles.sponsorCard}>
+                            <img
+                                src={getAssetName("/assets/logos/Logo_nanogloabal.png")}
+                                alt="Nanoglobal"
+                            />
+                        </div>
+                    </div>
+                </div>
+            </div>
 
             </PageLayout>
         </>
