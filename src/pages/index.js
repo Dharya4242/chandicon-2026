@@ -60,7 +60,11 @@ const events = [
     },
     {
         title: "Last date for conference registration",
-        date: "July 10, 2026",
+        date: (
+            <>
+                <del style={{ color: "red",textDecoration: "line-through"}}>July 10, 2026</del>
+            </>
+        ),
         description: "",
         icon: <BiTrophy />,
     },
