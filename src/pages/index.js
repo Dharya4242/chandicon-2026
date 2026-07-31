@@ -270,7 +270,7 @@ export default function Home() {
                     <div className={styles.sponsorGrid}>
                         <div className={styles.sponsorCard}>
                             <img
-                                src={getAssetName("/assets/logos/Agmatel+Keysight Logo.png")}
+                                src={getAssetName("/assets/logos/Agmatel Keysight Logo.png")}
                                 alt="Agmatel"
                             />
                         </div>
