@@ -35,7 +35,7 @@ const events = [
         date: (
             <>
                 <del style={{ color: "red",textDecoration: "line-through" }}>June 15, 2026</del>
-                {" "}June 12, 2026
+                {" "}<del style={{ color: "red",textDecoration: "line-through" }}>June 12, 2026</del>
             </>
         ),
         description: "",
@@ -52,7 +52,7 @@ const events = [
         date: (
             <>
                 <del style={{ color: "red",textDecoration: "line-through"}}>June 30, 2026</del>
-                {" "}July 10, 2026
+                {" "}<del style={{ color: "red",textDecoration: "line-through"}}>July 10, 2026</del>
             </>
         ),
         description: "",
