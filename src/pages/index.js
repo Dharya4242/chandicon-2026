@@ -130,11 +130,14 @@ export default function Home() {
                             |
                         </span>
 
-                        <Link href="/Instructions for Camera Ready Submission Guidelines.pdf">
+                        <Link href="/2026_presentation_guidelines.pdf">
                             <span className={styles.noticeLink}>
-                                Camera Ready Submission Guidelines
+                                Click Here
                             </span>
                         </Link>
+                        
+                        {" "}
+                        for Presentation Guidelines
 
                     </span>
                 </Marquee>
