@@ -217,7 +217,7 @@ export const SPEAKERS = [
     },
     {
         name: "Dr. Satish Kumar",
-        image: "/assets/speakers/Satish_Kumar_CSIO.jpeg",
+        image: "/assets/speakers/Chandicon_speaker_SatishKumar_CSIO.jpg",
         designation: "Chief Scientist, CSIO Chandigarh",
         link: "https://icsio.csio.res.in/CSIO.EMS/HoD.aspx?id=746",
     },
@@ -280,12 +280,6 @@ export const SPEAKERS = [
         image: "/assets/speakers/chandicon_speaker_manju_nanda.jpg",
         designation: "CSIO-CSIR, Bangalore",
         link: "https://www.nal.res.in/en/manju-nanda-drmrs",
-    },
-    {
-        name: "Satish Kumar",
-        image: "/assets/speakers/user.png",
-        designation: "CSIO Chandigarh",
-        link: "https://icsio.csio.res.in/CSIO.EMS/HoD.aspx?id=746",
     },
     {
         name: "C. C. Reddy",
