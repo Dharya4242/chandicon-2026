@@ -177,7 +177,7 @@ export const SPEAKERS = [
         name: "Rahul Sharma",
         image: "/assets/speakers/user.png",
         designation: "Microsoft Corporation Pvt. Ltd.",
-        link: "",
+        link: "https://in.linkedin.com/in/rahshar",
     },
     {
         name: "Subham Sahay",
