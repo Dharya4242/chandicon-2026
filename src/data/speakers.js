@@ -282,10 +282,10 @@ export const SPEAKERS = [
         link: "https://www.nal.res.in/en/manju-nanda-drmrs",
     },
     {
-        name: "Satish Chandra",
+        name: "Satish Kumar",
         image: "/assets/speakers/user.png",
         designation: "CSIO Chandigarh",
-        link: "",
+        link: "https://icsio.csio.res.in/CSIO.EMS/HoD.aspx?id=746",
     },
     {
         name: "C. C. Reddy",
