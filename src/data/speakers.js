@@ -323,12 +323,12 @@ export const SPEAKERS = [
         designation: "DTU, Delhi",
         link: "https://www.dtu.ac.in/Web/Departments/InformationTechnology/faculty/dkvishwakarma.php",
     },
-    {
-        name: "Anil Singh",
-        image: "/assets/speakers/user.png",
-        designation: "IIIT Jabalpur",
-        link: "http://faculty.iiitdmj.ac.in/faculty/anilk",
-    },
+    // {
+    //     name: "Anil Singh",
+    //     image: "/assets/speakers/user.png",
+    //     designation: "IIIT Jabalpur",
+    //     link: "http://faculty.iiitdmj.ac.in/faculty/anilk",
+    // },
     {
         name: "Thomas Stengel",
         image: "/assets/speakers/chandicon_speaker_thomas_stengel.jpg",
