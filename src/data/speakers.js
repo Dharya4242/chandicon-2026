@@ -7,7 +7,7 @@ export const SPEAKERS = [
     },
     {
         name: "Bhim Singh",
-        image: "/assets/speakers/user.png",
+        image: "/assets/speakers/Chandicon_speaker_BhimSingh.jpg",
         designation: "IIT Delhi",
         link: "https://web.iitd.ac.in/~bsingh/",
     },
@@ -222,8 +222,8 @@ export const SPEAKERS = [
         link: "https://iitd.irins.org/profile/70509",
     },
     {
-        name: "Nagendra Pathak",
-        image: "/assets/speakers/user.png",
+        name: "Nagendra Prasad Pathak",
+        image: "/assets/speakers/Chandicon_speaker_NPPathak.jpeg",
         designation: "IIT Roorkee",
         link: "https://www.iitr.ac.in/~ECE/Nagendra_Prasad_Pathak",
     },
@@ -246,8 +246,8 @@ export const SPEAKERS = [
         link: "https://www.linkedin.com/in/sreedevi-jinkala-80575413/",
     },
     {
-        name: "Subham Sahay",
-        image: "/assets/speakers/user.png",
+        name: "Shubham Sahay",
+        image: "/assets/speakers/Chandicon_speaker_Shubham_Sahay.jpeg",
         designation: "IIT Kanpur",
         link: "https://home.iitk.ac.in/~ssahay/",
     },
@@ -265,7 +265,7 @@ export const SPEAKERS = [
     },
     {
         name: "Rahul Sharma",
-        image: "/assets/speakers/user.png",
+        image: "/assets/speakers/Chandicon_speaker_Rahul_Sharma.jpeg",
         designation: "Microsoft Corporation Pvt. Ltd.",
         link: "https://in.linkedin.com/in/rahshar",
     },
