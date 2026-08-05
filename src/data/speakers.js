@@ -216,10 +216,10 @@ export const SPEAKERS = [
         link: "https://www.pgimer.edu.in/PGIMER_PORTAL/PGIMERPORTAL/Department/Global/JSP/empview.jsp?id=790",
     },
     {
-        name: "Florimond Gueniat",
-        image: "/assets/speakers/chandicon_speaker_florimond_gueniat.webp",
-        designation: "Birmingham City University, UK",
-        link: "https://www.bcu.ac.uk/subject-areas/engineering/staff/florimond-gueniat",
+        name: "Dr. Satish Kumar",
+        image: "/assets/speakers/Satish_Kumar_CSIO.jpeg",
+        designation: "Chief Scientist, CSIO Chandigarh",
+        link: "https://icsio.csio.res.in/CSIO.EMS/HoD.aspx?id=746",
     },
     {
         name: "Bhim Singh",
