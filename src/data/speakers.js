@@ -277,9 +277,9 @@ export const SPEAKERS = [
     },
     {
         name: "Sandeep Sharma",
-        image: "/assets/speakers/chandicon_speaker_sandeep_sharma.webp",
+        image: "/assets/speakers/Chandicon_speaker_Sandeep Sharma.jpeg",
         designation: "Tech Mahindra",
-        link: "https://www.techmahindra.com/author/sandeep-sharma-0",
+        link: "https://www.linkedin.com/in/sandeep6g/",
     },
     {
         name: "Himanshu Chawla",
@@ -306,8 +306,8 @@ export const SPEAKERS = [
         link: "",
     },
     {
-        name: "Rajinder Singh",
-        image: "/assets/speakers/user.png",
+        name: "Rajendra Singh",
+        image: "/assets/speakers/Chandicon_speaker_Rajendra_Singh.jpeg",
         designation: "DEAL, DRDO",
         link: "",
     },
@@ -335,10 +335,10 @@ export const SPEAKERS = [
         designation: "IETE",
         link: "https://www.iete.org/governing-council2025-26/",
     },
-    {
-        name: "M. H. Kori",
-        image: "/assets/speakers/chandicon_speaker_m_kori.jpg",
-        designation: "IETE",
-        link: "https://www.iete.org/governing-council2025-26/",
-    }
+    // {
+    //     name: "M. H. Kori",
+    //     image: "/assets/speakers/chandicon_speaker_m_kori.jpg",
+    //     designation: "IETE",
+    //     link: "https://www.iete.org/governing-council2025-26/",
+    // }
 ];
