@@ -1,47 +1,12 @@
 export const SPEAKERS = [
     {
-        name: "Ramesh Gupta",
-        image: "/assets/speakers/chandicon_speaker_ramesh_gupta.jpg",
-        designation: "IEEE MTT-S MarCom",
-        link: "https://mtt.org/profile/ramesh-gupta/",
-    },
-    {
-        name: "Rene Cortez",
-        image: "/assets/speakers/user.png",
-        designation: "CGSEMI",
-        link: "https://www.linkedin.com/in/rene-cortez-79450819/",
-    },
-    {
-        name: "Florimond Gueniat",
-        image: "/assets/speakers/chandicon_speaker_florimond_gueniat.webp",
-        designation: "Birmingham City University, UK",
-        link: "https://www.bcu.ac.uk/subject-areas/engineering/staff/florimond-gueniat",
-    },
-    {
-        name: "Aimin Song",
-        image: "/assets/speakers/aimin.png",
-        designation: "University of Manchester (UK)",
-        link: "https://research.manchester.ac.uk/en/persons/a.song/",
-    },
-    {
-        name: "Thomas Stengel",
-        image: "/assets/speakers/chandicon_speaker_thomas_stengel.jpg",
-        designation: "Efinix Inc., USA",
-        link: "https://www.linkedin.com/in/thomas-stengel/",
-    },
-    {
-        name: "Gouri Sankar Kar",
-        image: "/assets/speakers/chandicon_speaker_gouri_kar.avif",
-        designation: "R&D Compute and Memory Device Technologies, IMEC Leuven, Belgium",
-        link: "https://www.linkedin.com/in/gouri-sankar-kar-84686b14/",
-    },
-    {
         name: "Saptarshi Das",
         image: "/assets/speakers/Saptarshi Das.jpg",
         designation: "Pennsylvania State University, USA",
         link: "https://iee.psu.edu/people/saptarshi-das",
     },
     {
+<<<<<<< HEAD
         name: "Bob Gill",
         image: "/assets/speakers/Bob Gill.jpeg",
         designation: "British Columbia Institute of Technology (BCIT), British Columbia, Canada",
@@ -90,52 +55,12 @@ export const SPEAKERS = [
         link: "https://home.iitk.ac.in/~chauhan/",
     },
     {
+=======
+>>>>>>> 754c2d3 (Speakers-Image-Update)
         name: "Manoj Tripathi",
         image: "/assets/speakers/user.png",
         designation: "BBMB Chandigarh",
         link: "",
-    },
-    {
-        name: "Jatinder Singh",
-        image: "/assets/speakers/user.png",
-        designation: "Micron Technology",
-        link: "",
-    },
-    {
-        name: "Wasi Uddin",
-        image: "/assets/speakers/user.png",
-        designation: "Kaynes Semiconductor",
-        link: "https://www.linkedin.com/in/wasiuddin-ism/",
-    },
-    {
-        name: "Jaleel Akhtar",
-        image: "/assets/speakers/chandicon_speaker_jaleel_akhtar.jpg",
-        designation: "IIT Kanpur",
-        link: "https://home.iitk.ac.in/~mjakhtar/",
-    },
-    {
-        name: "Nagendra Pathak",
-        image: "/assets/speakers/user.png",
-        designation: "IIT Roorkee",
-        link: "https://www.iitr.ac.in/~ECE/Nagendra_Prasad_Pathak",
-    },
-    {
-        name: "Ram Bilas Pachori",
-        image: "/assets/speakers/chandicon_speaker_ram_bilas_pachori.jpg",
-        designation: "IIT Indore",
-        link: "https://people.iiti.ac.in/~pachori/",
-    },
-    {
-        name: "Manju Nanda",
-        image: "/assets/speakers/chandicon_speaker_manju_nanda.jpg",
-        designation: "CSIO-CSIR, Bangalore",
-        link: "https://www.nal.res.in/en/manju-nanda-drmrs",
-    },
-    {
-        name: "Satinder Sharma",
-        image: "/assets/speakers/chandicon_speaker_satinder_sharma.jpg",
-        designation: "IIT Mandi",
-        link: "https://faculty.iitmandi.ac.in/~satinder/",
     },
     {
         name: "H. S. Jattana",
@@ -162,10 +87,28 @@ export const SPEAKERS = [
         link: "",
     },
     {
+        name: "Gouri Sankar Kar",
+        image: "/assets/speakers/chandicon_speaker_gouri_kar.avif",
+        designation: "R&D Compute and Memory Device Technologies, IMEC Leuven, Belgium",
+        link: "https://www.linkedin.com/in/gouri-sankar-kar-84686b14/",
+    },
+    {
+        name: "Charan Gurumurthy",
+        image: "/assets/speakers/user.png",
+        designation: "TATA Electronics Systems Solutions PVT Ltd.",
+        link: "",
+    },
+    {
         name: "Sunil",
         image: "/assets/speakers/chandicon_speaker_sunil.jpg",
         designation: "IETE",
         link: "https://www.iete.org/iete-president-profile/",
+    },
+    {
+        name: "Anajan Basu",
+        image: "/assets/speakers/chandicon_speaker_anajan_basu.jpg",
+        designation: "IIT Delhi",
+        link: "https://iitd.irins.org/profile/70509",
     },
     {
         name: "D. C. Pande",
@@ -222,6 +165,24 @@ export const SPEAKERS = [
         link: "https://www.iitrpr.ac.in/ee/profile.faculty.php?mail=skvipparthi%40iitrpr.ac.in",
     },
     {
+        name: "Thomas Stengel",
+        image: "/assets/speakers/chandicon_speaker_thomas_stengel.jpg",
+        designation: "Efinix Inc., USA",
+        link: "https://www.linkedin.com/in/thomas-stengel/",
+    },
+    {
+        name: "Bob Gill",
+        image: "/assets/speakers/Bob Gill.jpeg",
+        designation: "British Columbia Institute of Technology (BCIT), British Columbia, Canada",
+        link: "https://www.linkedin.com/in/bob-gill-p-190a1117/",
+    },
+    {
+        name: "B. K. Panigrahi",
+        image: "/assets/speakers/panigrahi.jpeg",
+        designation: "IIT Delhi",
+        link: "https://ee.iitd.ac.in/faculty-profile/16",
+    },
+    {
         name: "Sujata Pal",
         image: "/assets/speakers/user.png",
         designation: "IIT Ropar",
@@ -235,7 +196,7 @@ export const SPEAKERS = [
     },
     {
         name: "Bhupendra Suman",
-        image: "/assets/speakers/Bhupendra_Suman.jpg",
+        image: "/assets/speakers/user.png",
         designation: "DEAL, DRDO",
         link: "",
     },
@@ -256,6 +217,36 @@ export const SPEAKERS = [
         image: "/assets/speakers/user.png",
         designation: "NIT Delhi",
         link: "https://faculty.nitdelhi.ac.in/KaranVerma/profile",
+    },
+    {
+        name: "Manish Gupta",
+        image: "/assets/speakers/chandicon_speaker_manish_gupta.png",
+        designation: "Google DeepMind",
+        link: "https://www.linkedin.com/in/manish-gupta-4556591/",
+    },
+    {
+        name: "Yogesh Singh Chauhan",
+        image: "/assets/speakers/user.png",
+        designation: "IIT Kanpur",
+        link: "https://home.iitk.ac.in/~chauhan/",
+    },
+    {
+        name: "Rene Cortez",
+        image: "/assets/speakers/user.png",
+        designation: "CGSEMI",
+        link: "https://www.linkedin.com/in/rene-cortez-79450819/",
+    },
+    {
+        name: "Jatinder Singh",
+        image: "/assets/speakers/user.png",
+        designation: "Micron Technology",
+        link: "",
+    },
+    {
+        name: "Wasi Uddin",
+        image: "/assets/speakers/user.png",
+        designation: "Kaynes Semiconductor",
+        link: "https://www.linkedin.com/in/wasiuddin-ism/",
     },
     {
         name: "Manoj Wadhwa",
@@ -289,7 +280,7 @@ export const SPEAKERS = [
     },
     {
         name: "R.S. Meena",
-        image: "/assets/speakers/R_S_Meena.jpg",
+        image: "/assets/speakers/user.png",
         designation: "Delhi Transco Ltd.",
         link: "https://www.linkedin.com/in/radhey-shyam-meena-0a803383/",
     },
@@ -330,14 +321,26 @@ export const SPEAKERS = [
         link: "",
     },
     {
+        name: "Ram Bilas Pachori",
+        image: "/assets/speakers/chandicon_speaker_ram_bilas_pachori.jpg",
+        designation: "IIT Indore",
+        link: "https://people.iiti.ac.in/~pachori/",
+    },
+    {
         name: "D. K. Lobiyal",
-        image: "/assets/speakers/user.png",
+        image: "/assets/speakers/D. K. Lobiyal.jpg",
         designation: "Jawaharlal Nehru University",
         link: "https://www.jnu.ac.in/content/dkl",
     },
     {
+        name: "Aimin Song",
+        image: "/assets/speakers/aimin.png",
+        designation: "University of Manchester (UK)",
+        link: "https://research.manchester.ac.uk/en/persons/a.song/",
+    },
+    {
         name: "Rajinder Singh",
-        image: "/assets/speakers/Rajinder_Singh.jpg",
+        image: "/assets/speakers/user.png",
         designation: "DEAL, DRDO",
         link: "",
     },
@@ -355,7 +358,7 @@ export const SPEAKERS = [
     },
     {
         name: "Gurjeet Walia",
-        image: "/assets/speakers/user.png",
+        image: "/assets/speakers/GSWalia.gif",
         designation: "SAG DRDO Delhi",
         link: "",
     },
@@ -373,7 +376,7 @@ export const SPEAKERS = [
     },
     {
         name: "Subham Sahay",
-        image: "/assets/speakers/Subham_Sahay.jpg",
+        image: "/assets/speakers/Chandicon_speaker_Shubham_Sahay.jpeg",
         designation: "IIT Kanpur",
         link: "https://home.iitk.ac.in/~ssahay/",
     },
@@ -385,7 +388,7 @@ export const SPEAKERS = [
     },
     {
         name: "Rahul Sharma",
-        image: "/assets/speakers/Rahul_Sharma.jpg",
+        image: "/assets/speakers/Chandicon_speaker_Rahul_Sharma.jpeg",
         designation: "Microsoft Corporation Pvt. Ltd.",
         link: "",
     },
@@ -400,6 +403,12 @@ export const SPEAKERS = [
         image: "/assets/speakers/user.png",
         designation: "CADFEM/Ansys Electronics Solutions",
         link: "https://www.linkedin.com/in/vpy/",
+    },
+    {
+        name: "Satinder Sharma",
+        image: "/assets/speakers/chandicon_speaker_satinder_sharma.jpg",
+        designation: "IIT Mandi",
+        link: "https://faculty.iitmandi.ac.in/~satinder/",
     },
     {
         name: "Arnav Bhavsar",
@@ -426,6 +435,24 @@ export const SPEAKERS = [
         link: "https://web.iitd.ac.in/~bkanseri/",
     },
     {
+        name: "Bhim Singh",
+        image: "/assets/speakers/Chandicon_speaker_BhimSingh.jpg",
+        designation: "IIT Delhi",
+        link: "https://web.iitd.ac.in/~bsingh/",
+    },
+    {
+        name: "Florimond Gueniat",
+        image: "/assets/speakers/chandicon_speaker_florimond_gueniat.webp",
+        designation: "Birmingham City University, UK",
+        link: "https://www.bcu.ac.uk/subject-areas/engineering/staff/florimond-gueniat",
+    },
+    {
+        name: "Rajindra Singh",
+        image: "/assets/speakers/Chandicon_speaker_Rajendra_Singh.jpeg",
+        designation: "IIT Delhi",
+        link: "https://web.iitd.ac.in/~rsingh/",
+    },
+    {
         name: "Shiv Kumar",
         image: "/assets/speakers/user.png",
         designation: "QMD Foundation",
@@ -450,10 +477,28 @@ export const SPEAKERS = [
         link: "https://plaksha.edu.in/faculty-details/praveen-kumar",
     },
     {
+        name: "Nagendra Pathak",
+        image: "/assets/speakers/Chandicon_speaker_NPPathak.jpeg",
+        designation: "IIT Roorkee",
+        link: "https://www.iitr.ac.in/~ECE/Nagendra_Prasad_Pathak",
+    },
+    {
+        name: "Jaleel Akhtar",
+        image: "/assets/speakers/chandicon_speaker_jaleel_akhtar.jpg",
+        designation: "IIT Kanpur",
+        link: "https://home.iitk.ac.in/~mjakhtar/",
+    },
+    {
         name: "Mahesh Abegaonkar",
         image: "/assets/speakers/chandicon_speaker_mahesh_abegaonkar.jpg",
         designation: "IIT, Delhi",
         link: "https://care.iitd.ac.in/People/Faculty/Mahesh.html",
+    },
+    {
+        name: "Ramesh Gupta",
+        image: "/assets/speakers/chandicon_speaker_ramesh_gupta.jpg",
+        designation: "IEEE MTT-S MarCom",
+        link: "https://mtt.org/profile/ramesh-gupta/",
     },
     {
         name: "Preet Yadav",
@@ -463,7 +508,7 @@ export const SPEAKERS = [
     },
     {
         name: "Sunil Sharma",
-        image: "/assets/speakers/Sunil_Sharma.jpg",
+        image: "/assets/speakers/user.png",
         designation: "SSPL (DRDO)",
         link: "",
     },
@@ -481,9 +526,15 @@ export const SPEAKERS = [
     },
     {
         name: "Satish Kumar",
-        image: "/assets/speakers/user.png",
+        image: "/assets/speakers/Chandicon_speaker_SatishKumar_CSIO.jpg",
         designation: "CSIO Chandigarh",
         link: "",
+    },
+    {
+        name: "Manju Nanda",
+        image: "/assets/speakers/chandicon_speaker_manju_nanda.jpg",
+        designation: "CSIO-CSIR, Bangalore",
+        link: "https://www.nal.res.in/en/manju-nanda-drmrs",
     },
     {
         name: "Dube Dheeraj Prakashchand",
