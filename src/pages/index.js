@@ -324,7 +324,7 @@ export default function Home() {
                         </div>
                         <div className={styles.sponsorCard}>
                             <img
-                                src={getAssetName("/assets/logos/Silicom-Connectivity-Solutions-Logo.jpg")}
+                                src={getAssetName("/assets/logos/Silicom-Logo.jpg")}
                                 alt="Silicom"
                             />
                         </div>
