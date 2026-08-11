@@ -49,7 +49,7 @@ export const SPEAKERS = [
     },
     {
         name: "Bhim Singh",
-        image: "/assets/speakers/Bhim_Singh.jpg",
+        image: "/assets/speakers/Chandicon_speaker_BhimSingh.jpg",
         designation: "IIT Delhi",
         link: "https://web.iitd.ac.in/~bsingh/",
     },
