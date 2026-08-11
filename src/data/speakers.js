@@ -6,7 +6,6 @@ export const SPEAKERS = [
         link: "https://iee.psu.edu/people/saptarshi-das",
     },
     {
-<<<<<<< HEAD
         name: "Bob Gill",
         image: "/assets/speakers/Bob Gill.jpeg",
         designation: "British Columbia Institute of Technology (BCIT), British Columbia, Canada",
@@ -55,8 +54,6 @@ export const SPEAKERS = [
         link: "https://home.iitk.ac.in/~chauhan/",
     },
     {
-=======
->>>>>>> 754c2d3 (Speakers-Image-Update)
         name: "Manoj Tripathi",
         image: "/assets/speakers/user.png",
         designation: "BBMB Chandigarh",

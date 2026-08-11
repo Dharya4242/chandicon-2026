@@ -103,7 +103,7 @@ export default function Home() {
                         📢{" "}
 
                         <a
-                            href="/tentative_schedule_website.pdf"
+                            href="/Final Schedule_Chandicon 2026.pdf"
                             target="_blank"
                             rel="noopener noreferrer"
                             className={styles.noticeLink}
@@ -111,7 +111,7 @@ export default function Home() {
                             Click Here
                         </a>
 
-                        {" "}to view the Tentative Schedule
+                        {" "}to view the Final Schedule
 
                         <span className={styles.noticeSeparator}>
                             |
@@ -214,6 +214,13 @@ export default function Home() {
                     <div className={styles.sponsorGrid}>
                         <div className={styles.sponsorCard}>
                             <img
+                                src={getAssetName("/assets/logos/DRDO_logo.png")}
+                                alt="DRDO"
+                            />
+                        </div>
+
+                        <div className={styles.sponsorCard}>
+                            <img
                                 src={getAssetName("/assets/logos/OPAL-RT_2.png")}
                                 alt="Opal-RT"
                             />
@@ -242,17 +249,33 @@ export default function Home() {
 
                         <div className={styles.sponsorCard}>
                             <img
-                                src={getAssetName("/assets/logos/Ansys Synopsys logo.png")}
+                                src={getAssetName("/assets/logos/Ansys Synopsys logo-01.png")}
                                 alt="ANSYS"
                             />
                         </div>
 
                         <div className={styles.sponsorCard}>
                             <img
-                                src={getAssetName("/assets/logos/intechadditive_logo.jpeg")}
+                                src={getAssetName("/assets/logos/intechadditive_logo1.jpg")}
                                 alt="Intech Additive"
                             />
                         </div>
+
+                        <div className={styles.sponsorCard}>
+                            <img
+                                src={getAssetName("/assets/logos/BEL.png")}
+                                alt="BEL"
+                            />
+                        </div>
+
+                        <div className={styles.sponsorCard}>
+                            <img
+                                className={styles.quarksLogo}
+                                src={getAssetName("/assets/logos/White_Quarks.png")}
+                                alt="Quarks"
+                            />
+                        </div>
+
                     </div>
                 </div>
 
@@ -263,10 +286,49 @@ export default function Home() {
                     <div className={styles.sponsorGrid}>
                         <div className={styles.sponsorCard}>
                             <img
-                                src={getAssetName("/assets/logos/Verka-Logo.png")}
+                                src={getAssetName("/assets/logos/Verka_logo_tagline1.jpg")}
                                 alt="Verka"
                             />
                         </div>
+
+                        <div className={styles.sponsorCard}>
+                            <img
+                                src={getAssetName("/assets/logos/Scientech Logo.jpg")}
+                                alt="Scientech"
+                            />
+                        </div>
+
+                        <div className={styles.sponsorCard}>
+                            <img
+                                src={getAssetName("/assets/logos/Himfinity_logo.png")}
+                                alt="Himfinity"
+                            />
+                        </div>
+                        <div className={styles.sponsorCard}>
+                            <img
+                                src={getAssetName("/assets/logos/HHV_logo.jpeg")}
+                                alt="HHV"
+                            />
+                        </div>
+                        <div className={styles.sponsorCard}>
+                            <img
+                                src={getAssetName("/assets/logos/Rigol_logo.jpeg")}
+                                alt="Rigol"
+                            />
+                        </div>
+                        <div className={styles.sponsorCard}>
+                            <img
+                                src={getAssetName("/assets/logos/Amigos_logo.png")}
+                                alt="Amigos"
+                            />
+                        </div>
+                        <div className={styles.sponsorCard}>
+                            <img
+                                src={getAssetName("/assets/logos/Silicom-Connectivity-Solutions-Logo.jpg")}
+                                alt="Silicom"
+                            />
+                        </div>
+
                     </div>
                 </div>
 
