@@ -7,7 +7,7 @@ export const SPEAKERS = [
         },
     {
             name: "Rene Cortez",
-            image: "/assets/speakers/user.png",
+            image: "/assets/speakers/Chandicon_speaker_Rene Cortez.jfif",
             designation: "CGSEMI",
             link: "https://www.linkedin.com/in/rene-cortez-79450819/",
         },
@@ -157,7 +157,7 @@ export const SPEAKERS = [
         },
     {
             name: "Puneet Goyal",
-            image: "/assets/speakers/user.png",
+            image: "/assets/speakers/Chandicon_speaker_Puneet_Goyal.jpg",
             designation: "IIT Ropar",
             link: "",
         },
