@@ -388,7 +388,7 @@ export const SPEAKERS = [
             name: "Rahul Sharma",
             image: "/assets/speakers/Chandicon_speaker_Rahul_Sharma.jpeg",
             designation: "Microsoft Corporation Pvt. Ltd.",
-            link: "",
+            link: "in.linkedin.com/in/rahshar",
         },
     {
             name: "Diwakar Pathak",
