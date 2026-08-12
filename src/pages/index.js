@@ -298,24 +298,28 @@ export default function Home() {
                             />
                         </div>
 
-                        // <div className={styles.sponsorCard}>
-                        //     <img
-                        //         src={getAssetName("/assets/logos/Himfinity_logo.png")}
-                        //         alt="Himfinity"
-                        //     />
-                        // </div>
+                        {/*
+                        <div className={styles.sponsorCard}>
+                            <img
+                                src={getAssetName("/assets/logos/Himfinity_logo.png")}
+                                alt="Himfinity"
+                            />
+                        </div>
+                        */}
                         <div className={styles.sponsorCard}>
                             <img
                                 src={getAssetName("/assets/logos/HHV_logo.jpeg")}
                                 alt="HHV"
                             />
                         </div>
-                        // <div className={styles.sponsorCard}>
-                        //     <img
-                        //         src={getAssetName("/assets/logos/Rigol_logo.jpeg")}
-                        //         alt="Rigol"
-                        //     />
-                        // </div>
+                        {/*
+                        <div className={styles.sponsorCard}>
+                            <img
+                                src={getAssetName("/assets/logos/Rigol_logo.jpeg")}
+                                alt="Rigol"
+                            />
+                        </div>
+                        */}
                         <div className={styles.sponsorCard}>
                             <img
                                 src={getAssetName("/assets/logos/Amigos_Rigol.png")}
