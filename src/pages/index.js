@@ -294,7 +294,7 @@ export default function Home() {
                         <div className={styles.sponsorCard}>
                             <img
                                 src={getAssetName("/assets/logos/Scientech_Himfinity.png")}
-                                alt="Scientech, Himfinity"
+                                alt="Scientech Himfinity"
                             />
                         </div>
 
@@ -319,7 +319,7 @@ export default function Home() {
                         <div className={styles.sponsorCard}>
                             <img
                                 src={getAssetName("/assets/logos/Amigos_Rigol.png")}
-                                alt="Amigos, Rigol"
+                                alt="Amigos Rigol"
                             />
                         </div>
                         <div className={styles.sponsorCard}>
