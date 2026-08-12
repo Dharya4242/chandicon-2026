@@ -341,13 +341,13 @@ export const SPEAKERS = [
             designation: "DEAL, DRDO",
             link: "",
         },
-    {/*
-    {
-            name: "Dhiraj K. Mahajan",
-            image: "/assets/speakers/chandicon_speaker_dhiraj_mahajan.jpg",
-            designation: "IIT Ropar",
-            link: "https://iitrpr.ac.in/mechanical/dr-dhiraj-mahajan/",
-        },*/}
+    
+    // {
+    //         name: "Dhiraj K. Mahajan",
+    //         image: "/assets/speakers/chandicon_speaker_dhiraj_mahajan.jpg",
+    //         designation: "IIT Ropar",
+    //         link: "https://iitrpr.ac.in/mechanical/dr-dhiraj-mahajan/",
+    //     },
     {
             name: "Gagangeet Aujla",
             image: "/assets/speakers/chandicon_speaker_gagangeet_aujla.jpg",
