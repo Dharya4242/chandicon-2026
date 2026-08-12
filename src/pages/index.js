@@ -354,6 +354,12 @@ export default function Home() {
                                 alt="Nanoglobal"
                             />
                         </div>
+                        <div className={styles.sponsorCard}>
+                            <img
+                                src={getAssetName("/assets/logos/Marine_India_logo.jpg")}
+                                alt="Nanoglobal"
+                            />
+                        </div>
                     </div>
                 </div>
             </div>
