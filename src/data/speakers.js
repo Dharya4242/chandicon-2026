@@ -318,7 +318,7 @@ export const SPEAKERS = [
             link: "",
         },
     {
-            name: "Sh.Promod Mishra",
+            name: "Promod Mishra",
             image: "/assets/speakers/user.png",
             designation: "CPDL",
             link: "",
