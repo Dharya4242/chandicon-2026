@@ -293,33 +293,33 @@ export default function Home() {
 
                         <div className={styles.sponsorCard}>
                             <img
-                                src={getAssetName("/assets/logos/Scientech Logo.jpg")}
-                                alt="Scientech"
+                                src={getAssetName("/assets/logos/Scientech_Himfinity.png")}
+                                alt="Scientech, Himfinity"
                             />
                         </div>
 
-                        <div className={styles.sponsorCard}>
-                            <img
-                                src={getAssetName("/assets/logos/Himfinity_logo.png")}
-                                alt="Himfinity"
-                            />
-                        </div>
+                        // <div className={styles.sponsorCard}>
+                        //     <img
+                        //         src={getAssetName("/assets/logos/Himfinity_logo.png")}
+                        //         alt="Himfinity"
+                        //     />
+                        // </div>
                         <div className={styles.sponsorCard}>
                             <img
                                 src={getAssetName("/assets/logos/HHV_logo.jpeg")}
                                 alt="HHV"
                             />
                         </div>
+                        // <div className={styles.sponsorCard}>
+                        //     <img
+                        //         src={getAssetName("/assets/logos/Rigol_logo.jpeg")}
+                        //         alt="Rigol"
+                        //     />
+                        // </div>
                         <div className={styles.sponsorCard}>
                             <img
-                                src={getAssetName("/assets/logos/Rigol_logo.jpeg")}
-                                alt="Rigol"
-                            />
-                        </div>
-                        <div className={styles.sponsorCard}>
-                            <img
-                                src={getAssetName("/assets/logos/Amigos_logo.png")}
-                                alt="Amigos"
+                                src={getAssetName("/assets/logos/Amigos_Rigol.png")}
+                                alt="Amigos, Rigol"
                             />
                         </div>
                         <div className={styles.sponsorCard}>
