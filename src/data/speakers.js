@@ -484,7 +484,7 @@ export const SPEAKERS = [
             name: "Satish Kumar",
             image: "/assets/speakers/Chandicon_speaker_SatishKumar_CSIO.jpg",
             designation: "CSIO Chandigarh",
-            link: "",
+            link: "https://icsio.csio.res.in/CSIO.EMS/HoD.aspx?id=746",
         },
     {
             name: "Dube Dheeraj Prakashchand",
