@@ -91,9 +91,9 @@ export const SPEAKERS = [
         },
     {
             name: "Manoj Tripathi",
-            image: "/assets/speakers/user.png",
+            image: "/assets/speakers/Chandicon_speaker_Manoj_Tripathi.png",
             designation: "BBMB Chandigarh",
-            link: "",
+            link: "https://bbmb.gov.in/board-members-hi.htm",
         },
     {
             name: "Jatinder Singh",
@@ -289,7 +289,7 @@ export const SPEAKERS = [
         },
     {
             name: "R.S. Meena",
-            image: "/assets/speakers/user.png",
+            image: "/assets/speakers/Chandicon_speaker_RSMeena.png",
             designation: "Delhi Transco Ltd.",
             link: "https://www.linkedin.com/in/radhey-shyam-meena-0a803383/",
         },
