@@ -307,7 +307,7 @@ export const SPEAKERS = [
         },
     {
             name: "C. P. Gupta",
-            image: "/assets/speakers/user.png",
+            image: "/assets/speakers/Chandicon_speaker_CPGupta.webp",
             designation: "IIT Roorkee",
             link: "https://iitr.ac.in/Departments/Electrical%20Engineering%20Department/People/Faculty/100446.html",
         },
