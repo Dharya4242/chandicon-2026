@@ -79,7 +79,7 @@ export const SPEAKERS = [
         },
     {
             name: "Rajindra Singh",
-            image: "/assets/speakers/Chandicon_speaker_Rajendra_Singh.jpeg",
+            image: "/assets/speakers/Chandicon_speaker_Rajendra_Singh_IITD.jpg",
             designation: "IIT Delhi",
             link: "https://web.iitd.ac.in/~rsingh/",
         },
@@ -181,7 +181,7 @@ export const SPEAKERS = [
         },
     {
             name: "Sandeep Sharma",
-            image: "/assets/speakers/chandicon_speaker_sandeep_sharma.webp",
+            image: "/assets/speakers/Chandicon_speaker_Sandeep Sharma.jpeg",
             designation: "Tech Mahindra",
             link: "https://www.techmahindra.com/author/sandeep-sharma-0",
         },
@@ -235,7 +235,7 @@ export const SPEAKERS = [
         },
     {
             name: "Bhupendra Suman",
-            image: "/assets/speakers/user.png",
+            image: "/assets/speakers/Chandicon_speaker_Suman.jpeg",
             designation: "DEAL, DRDO",
             link: "",
         },
@@ -282,7 +282,7 @@ export const SPEAKERS = [
             link: "https://www.linkedin.com/in/dr-s-k-mishra-848364a/",
         },
     {
-            name: "Deepak Kumar",
+            name: "Deepak Sarit",
             image: "/assets/speakers/user.png",
             designation: "BBMB Chandigarh",
             link: "",
@@ -312,13 +312,13 @@ export const SPEAKERS = [
             link: "https://iitr.ac.in/Departments/Electrical%20Engineering%20Department/People/Faculty/100446.html",
         },
     {
-            name: "Rajesh Kumar Khanna",
+            name: "Rakesh Kumar Khanna",
             image: "/assets/speakers/user.png",
             designation: "HERC",
             link: "",
         },
     {
-            name: "Expert",
+            name: "Sh.Promod Mishra",
             image: "/assets/speakers/user.png",
             designation: "CPDL",
             link: "",
@@ -337,16 +337,17 @@ export const SPEAKERS = [
         },
     {
             name: "Rajinder Singh",
-            image: "/assets/speakers/user.png",
+            image: "/assets/speakers/Chandicon_speaker_Rajendra_Singh.jpeg",
             designation: "DEAL, DRDO",
             link: "",
         },
+    {/*
     {
             name: "Dhiraj K. Mahajan",
             image: "/assets/speakers/chandicon_speaker_dhiraj_mahajan.jpg",
             designation: "IIT Ropar",
             link: "https://iitrpr.ac.in/mechanical/dr-dhiraj-mahajan/",
-        },
+        },*/}
     {
             name: "Gagangeet Aujla",
             image: "/assets/speakers/chandicon_speaker_gagangeet_aujla.jpg",
