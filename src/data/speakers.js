@@ -49,7 +49,7 @@ export const SPEAKERS = [
         },
     {
             name: "Bhim Singh",
-            image: "/assets/speakers/Chandicon_speaker_Bhim_Singh.jpg",
+            image: "/assets/speakers/Chandicon_speaker_BhimSingh.jpg",
             designation: "IIT Delhi",
             link: "https://web.iitd.ac.in/~bsingh/",
         },
@@ -85,7 +85,7 @@ export const SPEAKERS = [
         },
     {
             name: "Yogesh Singh Chauhan",
-            image: "/assets/speakers/user.png",
+            image: "/assets/speakers/chandicon_speaker_yogeshsingh_chauhan.JPG",
             designation: "IIT Kanpur",
             link: "https://home.iitk.ac.in/~chauhan/",
         },
@@ -103,7 +103,7 @@ export const SPEAKERS = [
         },
     {
             name: "Wasi Uddin",
-            image: "/assets/speakers/user.png",
+            image: "/assets/speakers/chandicon_speaker_wasi_uddin.jpg",
             designation: "Kaynes Semiconductor",
             link: "https://www.linkedin.com/in/wasiuddin-ism/",
         },
@@ -139,7 +139,7 @@ export const SPEAKERS = [
         },
     {
             name: "H. S. Jattana",
-            image: "/assets/speakers/user.png",
+            image: "/assets/speakers/chandicon_speaker_hs_jattana.jpg",
             designation: "PGIMER",
             link: "https://www.linkedin.com/in/hs-jattana-00738326/",
         },
@@ -199,7 +199,7 @@ export const SPEAKERS = [
         },
     {
             name: "S. K. Nath",
-            image: "/assets/speakers/user.png",
+            image: "/assets/speakers/chandicon_speaker_sk_nath.jpg",
             designation: "Additional Director and Head of Division (R&D)",
             link: "https://www.linkedin.com/in/dr-samir-kumar-nath-b163b62a4/",
         },
@@ -217,13 +217,13 @@ export const SPEAKERS = [
         },
     {
             name: "Santosh Kumar Vipparthi",
-            image: "/assets/speakers/user.png",
+            image: "/assets/speakers/chandicon_speaker_santoshkumar_vipparthi.jpg",
             designation: "IIT Ropar",
             link: "https://www.iitrpr.ac.in/ee/profile.faculty.php?mail=skvipparthi%40iitrpr.ac.in",
         },
     {
             name: "Sujata Pal",
-            image: "/assets/speakers/user.png",
+            image: "/assets/speakers/chandicon_speaker_sujata_pal.jpg",
             designation: "IIT Ropar",
             link: "https://iitrpr.irins.org/profile/105194",
         },
@@ -253,7 +253,7 @@ export const SPEAKERS = [
         },
     {
             name: "Karan Verma",
-            image: "/assets/speakers/user.png",
+            image: "/assets/speakers/chandicon_speaker_karan_verma.png",
             designation: "NIT Delhi",
             link: "https://faculty.nitdelhi.ac.in/KaranVerma/profile",
         },
@@ -265,7 +265,7 @@ export const SPEAKERS = [
         },
     {
             name: "Rohit Sharma",
-            image: "/assets/speakers/user.png",
+            image: "/assets/speakers/chandicon_speaker_rohit_sharma.jpg",
             designation: "IIT Ropar",
             link: "https://www.iitrpr.ac.in/ee/profile.faculty.php?mail=rohit%40iitrpr.ac.in",
         },
@@ -295,13 +295,13 @@ export const SPEAKERS = [
         },
     {
             name: "Girish Nanjundaiah",
-            image: "/assets/speakers/user.png",
+            image: "/assets/speakers/chandicon_speaker_girish_nanjundaiah.jpg",
             designation: "Opal-RT",
             link: "https://www.linkedin.com/in/girishnanjundaiah/",
         },
     {
             name: "Lovish Jaiswal",
-            image: "/assets/speakers/user.png",
+            image: "/assets/speakers/chandicon_speaker_lovish_jaiswal.jpg",
             designation: "Syngient",
             link: "https://www.linkedin.com/in/lovish-jaiswal/",
         },
@@ -391,19 +391,19 @@ export const SPEAKERS = [
         },
     {
             name: "Diwakar Pathak",
-            image: "/assets/speakers/user.png",
+            image: "/assets/speakers/chandicon_speaker_diwakar_pathak.png",
             designation: "Ericsson",
             link: "https://www.linkedin.com/in/diwakarpathak/",
         },
     {
             name: "Vivek Prakash Yadav",
-            image: "/assets/speakers/user.png",
+            image: "/assets/speakers/chandicon_speaker_vivek_prakash_yadav.jpg",
             designation: "CADFEM/Ansys Electronics Solutions",
             link: "https://www.linkedin.com/in/vpy/",
         },
     {
             name: "Arnav Bhavsar",
-            image: "/assets/speakers/user.png",
+            image: "/assets/speakers/chandicon_speaker_arnav_bhavsar.jpg",
             designation: "IIT Mandi",
             link: "https://faculty.iitmandi.ac.in/~arnav/",
         },
@@ -421,19 +421,19 @@ export const SPEAKERS = [
         },
     {
             name: "Bhaskar Kanseri",
-            image: "/assets/speakers/user.png",
+            image: "/assets/speakers/chandicon_speaker_bhaskar_kanseri.jpg",
             designation: "IIT Delhi",
             link: "https://web.iitd.ac.in/~bkanseri/",
         },
     {
             name: "Shiv Kumar",
-            image: "/assets/speakers/user.png",
+            image: "/assets/speakers/chandicon_speaker_shiv_kumar.jpg",
             designation: "QMD Foundation",
             link: "https://www.linkedin.com/in/shiv-kumar-04019919/",
         },
     {
             name: "Samresh Das",
-            image: "/assets/speakers/user.png",
+            image: "/assets/speakers/chandicon_speaker_samaresh_das.jpg",
             designation: "IIT Delhi",
             link: "https://care.iitd.ac.in/People/Faculty/samaresh.html",
         },
@@ -445,7 +445,7 @@ export const SPEAKERS = [
         },
     {
             name: "Praveen Kumar",
-            image: "/assets/speakers/user.png",
+            image: "/assets/speakers/chandicon_speaker_praveen_kumar.png",
             designation: "Plaksha University",
             link: "https://plaksha.edu.in/faculty-details/praveen-kumar",
         },
@@ -487,7 +487,7 @@ export const SPEAKERS = [
         },
     {
             name: "Dube Dheeraj Prakashchand",
-            image: "/assets/speakers/user.png",
+            image: "/assets/speakers/chandicon_speaker_dubedheeraj_prakashchand.jpg",
             designation: "IIT Mandi",
             link: "https://iitmandi.irins.org/profile/412388",
         },
