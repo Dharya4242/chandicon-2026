@@ -159,7 +159,7 @@ export const SPEAKERS = [
             name: "Puneet Goyal",
             image: "/assets/speakers/Chandicon_speaker_Puneet_Goyal.jpg",
             designation: "IIT Ropar",
-            link: "",
+            link: "https://sites.google.com/view/goyalpuneet",
         },
     {
             name: "Sunil",
