@@ -61,7 +61,7 @@ export const SPEAKERS = [
         },
     {
             name: "Charan Gurumurthy",
-            image: "/assets/speakers/user.png",
+            image: "/assets/speakers/Chandicon_speaker_GuruMurthy.jpeg",
             designation: "TATA Electronics Systems Solutions PVT Ltd.",
             link: "",
         },
