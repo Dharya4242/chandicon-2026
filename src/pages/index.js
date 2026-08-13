@@ -239,42 +239,43 @@ export default function Home() {
                 <div className={styles.sponsorCategory}>
                     <h3>Bronze Sponsors</h3>
                     
-                    <div className={styles.sponsorCard}>
-                        <img
-                            src={getAssetName("/assets/logos/BEL.png")}
-                            alt="BEL"
-                        />
-                    </div>
-
-                    <div className={styles.sponsorCard}>
-                        <img
-                            src={getAssetName("/assets/logos/QMD_LOGO.png")}
-                            alt="QMD"
-                        />
-                    </div>
-
-                    <div className={styles.sponsorCard}>
-                        <img
-                            src={getAssetName("/assets/logos/AXENIC_logo.JPG")}
-                            alt="AXENIC"
-                        />
-                    </div>
-
-                    <div className={styles.sponsorCard}>
-                        <img
-                            src={getAssetName("/assets/logos/Ansys Synopsys logo-01.png")}
-                            alt="ANSYS"
-                        />
-                    </div>
-
-                    <div className={styles.sponsorCard}>
-                        <img
-                            src={getAssetName("/assets/logos/intechadditive_logo1.jpg")}
-                            alt="Intech Additive"
-                        />
-                    </div>
-
                     <div className={styles.sponsorGrid}>
+                    
+                        <div className={styles.sponsorCard}>
+                            <img
+                                src={getAssetName("/assets/logos/BEL.png")}
+                                alt="BEL"
+                            />
+                        </div>
+    
+                        <div className={styles.sponsorCard}>
+                            <img
+                                src={getAssetName("/assets/logos/QMD_LOGO.png")}
+                                alt="QMD"
+                            />
+                        </div>
+    
+                        <div className={styles.sponsorCard}>
+                            <img
+                                src={getAssetName("/assets/logos/AXENIC_logo.JPG")}
+                                alt="AXENIC"
+                            />
+                        </div>
+    
+                        <div className={styles.sponsorCard}>
+                            <img
+                                src={getAssetName("/assets/logos/Ansys Synopsys logo-01.png")}
+                                alt="ANSYS"
+                            />
+                        </div>
+    
+                        <div className={styles.sponsorCard}>
+                            <img
+                                src={getAssetName("/assets/logos/intechadditive_logo1.jpg")}
+                                alt="Intech Additive"
+                            />
+                        </div>
+    
                         <div className={styles.sponsorCard}>
                             <img
                                 src={getAssetName("/assets/logos/logo_BP_Infra.png")}
