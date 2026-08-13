@@ -331,7 +331,7 @@ export const SPEAKERS = [
         },
     {
             name: "Anomitra Dhali",
-            image: "/assets/speakers/user.png",
+            image: "/assets/speakers/Chandicon_speaker_Dhali_CPDL.jpeg",
             designation: "CPDL",
             link: "",
         },
