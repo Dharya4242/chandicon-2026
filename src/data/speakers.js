@@ -78,7 +78,7 @@ export const SPEAKERS = [
             link: "https://iitd.irins.org/profile/70509",
         },
     {
-            name: "Rajindra Singh",
+            name: "Rajendra Singh",
             image: "/assets/speakers/Chandicon_speaker_Rajendra_Singh_IITD.jpg",
             designation: "IIT Delhi",
             link: "https://web.iitd.ac.in/~rsingh/",
@@ -318,7 +318,7 @@ export const SPEAKERS = [
             link: "",
         },
     {
-            name: "Promod Mishra",
+            name: "Pramod Kumar Mishra",
             image: "/assets/speakers/user.png",
             designation: "CPDL",
             link: "",
