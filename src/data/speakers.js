@@ -96,9 +96,9 @@ export const SPEAKERS = [
             link: "https://bbmb.gov.in/board-members-hi.htm",
         },
     {
-            name: "Jatinder Singh",
+            name: "Jitender Pratap Singh",
             image: "/assets/speakers/user.png",
-            designation: "Micron Technology",
+            designation: "Micron Semiconductors",
             link: "",
         },
     {
@@ -319,6 +319,12 @@ export const SPEAKERS = [
         },
     {
             name: "Pramod Kumar Mishra",
+            image: "/assets/speakers/user.png",
+            designation: "CPDL",
+            link: "",
+        },
+    {
+            name: "Anomitra Dhali",
             image: "/assets/speakers/user.png",
             designation: "CPDL",
             link: "",
