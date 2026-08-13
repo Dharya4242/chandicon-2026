@@ -336,7 +336,7 @@ export const SPEAKERS = [
             link: "https://www.jnu.ac.in/content/dkl",
         },
     {
-            name: "Rajinder Singh",
+            name: "Rajendra Singh",
             image: "/assets/speakers/Chandicon_speaker_Rajendra_Singh.jpeg",
             designation: "DEAL, DRDO",
             link: "",
