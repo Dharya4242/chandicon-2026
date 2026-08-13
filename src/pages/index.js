@@ -238,6 +238,41 @@ export default function Home() {
                 {/* Bronze Sponsors */}
                 <div className={styles.sponsorCategory}>
                     <h3>Bronze Sponsors</h3>
+                    
+                    <div className={styles.sponsorCard}>
+                        <img
+                            src={getAssetName("/assets/logos/BEL.png")}
+                            alt="BEL"
+                        />
+                    </div>
+
+                    <div className={styles.sponsorCard}>
+                        <img
+                            src={getAssetName("/assets/logos/QMD_LOGO.png")}
+                            alt="QMD"
+                        />
+                    </div>
+
+                    <div className={styles.sponsorCard}>
+                        <img
+                            src={getAssetName("/assets/logos/AXENIC_logo.JPG")}
+                            alt="AXENIC"
+                        />
+                    </div>
+
+                    <div className={styles.sponsorCard}>
+                        <img
+                            src={getAssetName("/assets/logos/Ansys Synopsys logo-01.png")}
+                            alt="ANSYS"
+                        />
+                    </div>
+
+                    <div className={styles.sponsorCard}>
+                        <img
+                            src={getAssetName("/assets/logos/intechadditive_logo1.jpg")}
+                            alt="Intech Additive"
+                        />
+                    </div>
 
                     <div className={styles.sponsorGrid}>
                         <div className={styles.sponsorCard}>
@@ -246,28 +281,7 @@ export default function Home() {
                                 alt="BP Infra"
                             />
                         </div>
-
-                        <div className={styles.sponsorCard}>
-                            <img
-                                src={getAssetName("/assets/logos/Ansys Synopsys logo-01.png")}
-                                alt="ANSYS"
-                            />
-                        </div>
-
-                        <div className={styles.sponsorCard}>
-                            <img
-                                src={getAssetName("/assets/logos/intechadditive_logo1.jpg")}
-                                alt="Intech Additive"
-                            />
-                        </div>
-
-                        <div className={styles.sponsorCard}>
-                            <img
-                                src={getAssetName("/assets/logos/BEL.png")}
-                                alt="BEL"
-                            />
-                        </div>
-
+                        
                         <div className={styles.sponsorCard}>
                             <img
                                 className={styles.quarksLogo}
@@ -275,7 +289,6 @@ export default function Home() {
                                 alt="Quarks"
                             />
                         </div>
-
                     </div>
                 </div>
 
@@ -284,6 +297,21 @@ export default function Home() {
                     <h3>Exhibitors</h3>
 
                     <div className={styles.sponsorGrid}>
+
+                        <div className={styles.sponsorCard}>
+                            <img
+                                src={getAssetName("/assets/logos/Amigos_Rigol.png")}
+                                alt="Amigos Rigol"
+                            />
+                        </div>
+
+                        <div className={styles.sponsorCard}>
+                            <img
+                                src={getAssetName("/assets/logos/Silicom-Logo.jpg")}
+                                alt="Silicom"
+                            />
+                        </div>
+                                    
                         <div className={styles.sponsorCard}>
                             <img
                                 src={getAssetName("/assets/logos/Verka_logo_tagline1.jpg")}
@@ -320,18 +348,6 @@ export default function Home() {
                             />
                         </div>
                         */}
-                        <div className={styles.sponsorCard}>
-                            <img
-                                src={getAssetName("/assets/logos/Amigos_Rigol.png")}
-                                alt="Amigos Rigol"
-                            />
-                        </div>
-                        <div className={styles.sponsorCard}>
-                            <img
-                                src={getAssetName("/assets/logos/Silicom-Logo.jpg")}
-                                alt="Silicom"
-                            />
-                        </div>
 
                     </div>
                 </div>
@@ -343,17 +359,18 @@ export default function Home() {
                     <div className={styles.sponsorGrid}>
                         <div className={styles.sponsorCard}>
                             <img
+                                src={getAssetName("/assets/logos/Logo_nanogloabal.png")}
+                                alt="Nanoglobal"
+                            />
+                        </div>    
+                    
+                        <div className={styles.sponsorCard}>
+                            <img
                                 src={getAssetName("/assets/logos/Agmatel Keysight Logo.png")}
                                 alt="Agmatel"
                             />
                         </div>
-
-                        <div className={styles.sponsorCard}>
-                            <img
-                                src={getAssetName("/assets/logos/Logo_nanogloabal.png")}
-                                alt="Nanoglobal"
-                            />
-                        </div>
+                                    
                         <div className={styles.sponsorCard}>
                             <img
                                 src={getAssetName("/assets/logos/Marine_India_logo.jpg")}
