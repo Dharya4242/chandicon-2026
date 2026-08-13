@@ -367,7 +367,7 @@ export const SPEAKERS = [
             link: "https://www.durham.ac.uk/staff/gagangeet-s-aujla/",
         },
     {
-            name: "Gurjeet Walia",
+            name: "Gurjit Walia",
             image: "/assets/speakers/GSWalia.gif",
             designation: "SAG DRDO Delhi",
             link: "",
