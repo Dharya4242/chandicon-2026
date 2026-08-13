@@ -120,6 +120,12 @@ export const SPEAKERS = [
             link: "https://www.iitr.ac.in/~ECE/Nagendra_Prasad_Pathak",
         },
     {
+            name: "Rajesh Kumar",
+            image: "/assets/speakers/Chandicon_speaker_RajeshKumar.jpeg",
+            designation: "IIT Roorkee",
+            link: "https://ph.iitr.ac.in/~PH/Rajesh_Kumar",
+        },
+    {
             name: "Ram Bilas Pachori",
             image: "/assets/speakers/chandicon_speaker_ram_bilas_pachori.jpg",
             designation: "IIT Indore",
