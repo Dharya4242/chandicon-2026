@@ -319,7 +319,7 @@ export const SPEAKERS = [
         },
     {
             name: "Rakesh Kumar Khanna",
-            image: "/assets/speakers/user.png",
+            image: "/assets/speakers/Chandicon_speaker_RakeshHERC.jpeg",
             designation: "HERC",
             link: "",
         },
