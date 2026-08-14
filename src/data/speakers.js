@@ -289,7 +289,7 @@ export const SPEAKERS = [
         },
     {
             name: "Deepak Sarit",
-            image: "/assets/speakers/user.png",
+            image: "/assets/speakers/Chandicon_speaker_Deepak_BBMB.jpeg",
             designation: "BBMB Chandigarh",
             link: "",
         },
