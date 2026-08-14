@@ -278,7 +278,7 @@ export default function Home() {
     
                         <div className={styles.sponsorCard}>
                             <img
-                                src={getAssetName("/assets/logos/logo_BP_Infra.png")}
+                                src={getAssetName("/assets/logos/BP_infratech_logo.png")}
                                 alt="BP Infra"
                             />
                         </div>
