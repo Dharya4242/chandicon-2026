@@ -335,12 +335,12 @@ export const SPEAKERS = [
             designation: "CPDL",
             link: "",
         },
-    // {
-    //         name: "Hitesh Kumar",
-    //         image: "/assets/speakers/user.png",
-    //         designation: "CBIP",
-    //         link: "",
-    //     },
+    {
+            name: "Hitesh Kumar",
+            image: "/assets/speakers/Chandicon_speaker_Hiesh.jpeg",
+            designation: "CBIP",
+            link: "",
+        },
     {
             name: "D. K. Lobiyal",
             image: "/assets/speakers/D. K. Lobiyal.jpg",
