@@ -103,7 +103,7 @@ export default function Home() {
                         📢{" "}
 
                         <a
-                            href="/Final Schedule_Chandicon 2026 v2.pdf"
+                            href="/Final Schedule_Chandicon 2026 v3.pdf"
                             target="_blank"
                             rel="noopener noreferrer"
                             className={styles.noticeLink}
